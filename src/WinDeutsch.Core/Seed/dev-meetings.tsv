@@ -1,0 +1,60 @@
+# Daily / Stand-up
+Das Daily fängt gleich an.	Дейли сейчас начнётся.
+Gestern habe ich am Login-Formular gearbeitet.	Вчера я работал над формой логина.
+Heute mache ich mit diesem Ticket weiter.	Сегодня продолжаю с этим тикетом.
+Ich mache den Merge Request heute noch fertig.	Сегодня ещё доделаю мерж-реквест.
+Ich hänge seit gestern an einem Bug fest.	Со вчерашнего дня сижу на одном баге.
+Ich habe keine Blocker.	Блокеров нет.
+Ich bin blockiert, weil ich noch auf das Backend warte.	У меня блокер: жду бэкенд.
+Ich war gestern fast nur in Meetings.	Вчера я почти весь день просидел на митингах.
+Ich bräuchte heute kurz Hilfe von jemandem aus dem Frontend.	Мне сегодня нужна помощь кого-нибудь из фронтенда.
+Wer ist als Nächstes dran?	Кто следующий?
+Lass uns das nach dem Daily klären.	Давай обсудим это после дейли.
+# Планирование и спринт
+Was nehmen wir in den nächsten Sprint auf?	Что берём в следующий спринт?
+Was ist unser Sprintziel?	Какая у нас цель спринта?
+Der Sprint ist schon voll.	Спринт уже забит.
+Das schieben wir in den nächsten Sprint.	Это перенесём на следующий спринт.
+Wer übernimmt dieses Ticket?	Кто возьмёт этот тикет?
+Ich kann das übernehmen.	Могу взять на себя.
+Welche Priorität hat dieses Ticket?	Какой приоритет у этого тикета?
+Die Anforderungen zu diesem Ticket sind noch unklar.	По этому тикету требования ещё непонятны.
+Wir sollten das Ticket in kleinere Tickets aufteilen.	Стоит разбить тикет на несколько поменьше.
+Was ist hier die Definition of Done?	Какой здесь Definition of Done?
+Das Backlog müssen wir mal aufräumen.	Бэклог надо бы почистить.
+Am Freitag zeigen wir die Ergebnisse im Sprint Review.	В пятницу показываем результаты на спринт-ревью.
+# Ретро
+Was lief in diesem Sprint gut?	Что в этом спринте прошло хорошо?
+Was können wir besser machen?	Что можем улучшить?
+Die Zusammenarbeit mit dem Design-Team hat super geklappt.	С командой дизайна сработались отлично.
+Wir hatten zu viele ungeplante Aufgaben.	У нас было слишком много незапланированных задач.
+Die Anforderungen haben sich mitten im Sprint geändert.	Требования поменялись посреди спринта.
+Für technische Schulden bleibt uns zu wenig Zeit.	На техдолг у нас остаётся слишком мало времени.
+Ich schlage vor, dass wir Merge Requests schneller reviewen.	Предлагаю быстрее ревьюить мерж-реквесты.
+Lass uns das als Maßnahme festhalten.	Давай запишем это как экшн-айтем.
+Wer kümmert sich um dieses Action Item?	Кто возьмёт на себя этот экшн-айтем?
+Die Stimmung im Team war diesmal richtig gut.	Атмосфера в команде на этот раз была отличная.
+# Оценка задач
+Wie viele Story Points geben wir dafür?	Сколько стори-поинтов дадим на это?
+Ich würde das auf drei Story Points schätzen.	Я бы оценил это в три стори-поинта.
+Wie lange brauchst du ungefähr dafür?	Сколько примерно времени тебе на это нужно?
+Das ist mehr Aufwand, als es aussieht.	Тут больше работы, чем кажется.
+Das ist schnell gemacht, maximal ein halber Tag.	Это быстро, максимум полдня.
+Das kann ich erst schätzen, wenn ich mir den Code angeschaut habe.	Смогу оценить, только когда посмотрю код.
+Warum hast du so hoch geschätzt?	Почему у тебя такая высокая оценка?
+Da steckt noch viel Unsicherheit drin.	Тут ещё много неопределённости.
+Lass uns eine Runde Planning Poker machen.	Давайте сыграем раунд планинг-покера.
+Die Schätzung war zu optimistisch.	Оценка оказалась слишком оптимистичной.
+# Созвоны и согласование времени
+Hast du heute Nachmittag Zeit für einen kurzen Call?	Есть сегодня после обеда время на короткий созвон?
+Ich schicke dir gleich eine Einladung.	Сейчас пришлю тебе приглашение.
+Mein Kalender ist heute komplett voll.	У меня сегодня весь календарь забит.
+Such dir einfach einen freien Slot in meinem Kalender aus.	Просто выбери свободный слот в моём календаре.
+Ich verspäte mich um fünf Minuten.	Опоздаю на пять минут.
+Hört ihr mich?	Вы меня слышите?
+Dein Bild ist gerade eingefroren.	У тебя картинка зависла.
+Kannst du den Link in den Chat posten?	Можешь кинуть ссылку в чат?
+Ich muss um drei in den nächsten Call.	В три мне на следующий созвон.
+Lass uns das asynchron im Chat klären.	Давай решим это асинхронно в чате.
+Kannst du das Meeting aufnehmen?	Можешь записать встречу?
+Wer schreibt heute das Protokoll?	Кто сегодня ведёт протокол?

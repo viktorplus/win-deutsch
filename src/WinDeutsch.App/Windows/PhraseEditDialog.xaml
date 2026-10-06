@@ -1,0 +1,19 @@
+<Window x:Class="WinDeutsch.App.Windows.PhraseEditDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Фраза"
+        Width="460" SizeToContent="Height" ResizeMode="NoResize"
+        WindowStartupLocation="CenterOwner" ShowInTaskbar="False">
+    <StackPanel Margin="16">
+        <TextBlock Text="Тема"/>
+        <ComboBox x:Name="TopicBox" DisplayMemberPath="Name" Margin="0,2,0,10"/>
+        <TextBlock Text="Немецкий"/>
+        <TextBox x:Name="GermanBox" Margin="0,2,0,10" AcceptsReturn="False" TextChanged="OnGermanChanged"/>
+        <TextBlock Text="Русский перевод (необязательно)"/>
+        <TextBox x:Name="RussianBox" Margin="0,2,0,14"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button x:Name="SaveButton" Content="Сохранить" IsDefault="True" Width="90" Margin="0,0,8,0" Click="OnSave"/>
+            <Button Content="Отмена" IsCancel="True" Width="90"/>
+        </StackPanel>
+    </StackPanel>
+</Window>

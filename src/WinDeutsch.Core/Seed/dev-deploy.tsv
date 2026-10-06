@@ -1,0 +1,61 @@
+# Сборка и CI/CD
+Der Build ist rot.	Сборка красная.
+Die Pipeline ist schon wieder fehlgeschlagen.	Пайплайн опять упал.
+Lokal baut es, aber in der CI nicht.	Локально собирается, а в CI — нет.
+Die Tests in der Pipeline sind flaky.	Тесты в пайплайне нестабильные.
+Kannst du den Job noch mal neu starten?	Можешь перезапустить джобу?
+Der Build dauert inzwischen zwanzig Minuten.	Сборка теперь идёт двадцать минут.
+Wir sollten die Abhängigkeiten cachen.	Надо бы кэшировать зависимости.
+Nach dem Merge wird automatisch deployt.	После мержа деплой идёт автоматически.
+Ich habe das Docker-Image neu gebaut.	Я пересобрал Docker-образ.
+Der Linter meckert wegen ungenutzter Imports.	Линтер ругается на неиспользуемые импорты.
+Die Pipeline ist grün, wir können mergen.	Пайплайн зелёный, можно мержить.
+Wir stellen auf GitHub Actions um.	Мы переезжаем на GitHub Actions.
+# Релиз и откат
+Wann ist das nächste Release?	Когда следующий релиз?
+Ich deploye jetzt auf Staging.	Сейчас деплою на стейджинг.
+Können wir heute noch auf Prod deployen?	Успеем сегодня задеплоить на прод?
+Freitags deployen wir nicht.	По пятницам мы не деплоим.
+Das Deployment ist durchgelaufen.	Деплой прошёл успешно.
+Das Deployment ist abgebrochen.	Деплой прервался.
+Wir machen einen Rollback auf die vorherige Version.	Делаем откат на предыдущую версию.
+Das Feature liegt hinter einem Feature-Flag.	Фича спрятана за фиче-флагом.
+Wir rollen das erst mal nur für zehn Prozent der Nutzer aus.	Сначала выкатываем это только на десять процентов пользователей.
+Die Datenbankmigration muss vor dem Deployment laufen.	Миграция базы должна пройти до деплоя.
+Ich schreibe die Release Notes.	Я напишу релиз-ноутс.
+Ich habe die Version 2.4.1 getaggt.	Я поставил тег на версию 2.4.1.
+# Серверы и облако
+Auf dem Server ist kaum noch Speicherplatz frei.	На сервере почти не осталось места.
+Unsere Services laufen auf AWS.	Наши сервисы крутятся на AWS.
+Wir müssen mehr Instanzen hochfahren.	Нужно поднять больше инстансов.
+Der Service skaliert automatisch.	Сервис масштабируется автоматически.
+Der Pod startet ständig neu.	Под постоянно перезапускается.
+Log dich mal per SSH auf dem Server ein.	Зайди-ка на сервер по SSH.
+Die Datenbank läuft auf einem eigenen Server.	База крутится на отдельном сервере.
+Die Infrastruktur verwalten wir mit Terraform.	Инфраструктурой мы управляем через Terraform.
+Die Cloud-Kosten sind letzten Monat gestiegen.	Расходы на облако в прошлом месяце выросли.
+Das Zertifikat läuft nächste Woche ab.	Сертификат истекает на следующей неделе.
+Bevor wir das ändern, brauchen wir ein Backup.	Прежде чем это менять, нужен бэкап.
+# Мониторинг
+Schau mal ins Dashboard in Grafana.	Глянь дашборд в Grafana.
+Die CPU-Last liegt bei neunzig Prozent.	Загрузка CPU — девяносто процентов.
+Der Speicherverbrauch steigt seit gestern.	Потребление памяти растёт со вчерашнего дня.
+Die Antwortzeiten sind deutlich schlechter geworden.	Время ответа заметно выросло.
+Dafür sollten wir einen Alert einrichten.	На это надо настроить алерт.
+Der Alert war ein Fehlalarm.	Этот алерт был ложной тревогой.
+Der Health Check schlägt fehl.	Health check не проходит.
+Wir bekommen zu viele Alerts, die keiner beachtet.	У нас слишком много алертов, на которые никто не смотрит.
+Die Metriken sammeln wir mit Prometheus.	Метрики мы собираем через Prometheus.
+Ab wann gilt der Dienst als nicht erreichbar?	С какого момента сервис считается недоступным?
+# Доступы и безопасность
+Ich habe noch keinen Zugriff auf das Repository.	У меня ещё нет доступа к репозиторию.
+Kannst du mir Leserechte geben?	Можешь выдать мне права на чтение?
+Wer kann mir den VPN-Zugang einrichten?	Кто может настроить мне доступ к VPN?
+Passwörter gehören nicht ins Repository.	Паролям не место в репозитории.
+Die Secrets liegen im Vault.	Секреты лежат в Vault.
+Der API-Key ist versehentlich im Log gelandet.	API-ключ случайно попал в лог.
+Wir müssen den Schlüssel sofort rotieren.	Ключ нужно срочно перевыпустить.
+Für den Login brauchen wir Zwei-Faktor-Authentifizierung.	Для входа нужна двухфакторная аутентификация.
+Die Bibliothek hat eine bekannte Sicherheitslücke.	У этой библиотеки есть известная уязвимость.
+Gib dem Service nur die Rechte, die er wirklich braucht.	Давай сервису только те права, которые ему действительно нужны.
+Nach Projektende wird der Zugang wieder entzogen.	После окончания проекта доступ отзовут.

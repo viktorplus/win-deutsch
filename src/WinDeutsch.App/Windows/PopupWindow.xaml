@@ -1,0 +1,15 @@
+<Window x:Class="WinDeutsch.App.Windows.PopupWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:cards="clr-namespace:WinDeutsch.App.Cards"
+        Title="Win Deutsch"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        ShowInTaskbar="False"
+        ShowActivated="False"
+        Topmost="True"
+        ResizeMode="NoResize"
+        SizeToContent="Height">
+    <cards:CardView x:Name="Card" AllowDrag="False" />
+</Window>

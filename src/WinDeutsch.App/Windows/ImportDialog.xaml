@@ -1,0 +1,46 @@
+<Window x:Class="WinDeutsch.App.Windows.ImportDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Импорт фраз"
+        Width="680" Height="640" MinWidth="520" MinHeight="480"
+        WindowStartupLocation="CenterOwner" ShowInTaskbar="False">
+    <Grid Margin="16">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Margin="0,0,0,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Text="Тема:" VerticalAlignment="Center" Margin="0,0,8,0"/>
+            <ComboBox x:Name="TopicBox" Grid.Column="1" IsEditable="True" DisplayMemberPath="Name"
+                      ToolTip="Выберите существующую тему или впишите новое название"/>
+            <Button Grid.Column="2" Content="Открыть файл…" Margin="10,0,0,0" Padding="10,3" Click="OnOpenFile"/>
+        </Grid>
+
+        <TextBlock Grid.Row="1" TextWrapping="Wrap" Foreground="Gray" Margin="0,0,0,6"
+                   Text="Файл (.txt, .csv, .tsv) или вставьте текст: одна строка — одна фраза, «немецкий ; русский ; тема». Разделитель: табуляция, «;», « — » или « - ». Строки с # и пустые пропускаются."/>
+
+        <TextBox x:Name="SourceBox" Grid.Row="2" AcceptsReturn="True" AcceptsTab="True" TextWrapping="NoWrap"
+                 VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto"
+                 FontFamily="Consolas" TextChanged="OnInputChanged"/>
+
+        <TextBlock x:Name="SummaryText" Grid.Row="3" FontWeight="SemiBold" Margin="0,10,0,4"
+                   Text="Вставьте текст или откройте файл"/>
+
+        <ListBox x:Name="ErrorsList" Grid.Row="4"/>
+
+        <StackPanel Grid.Row="5" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,12,0,0">
+            <Button x:Name="ImportButton" Content="Импортировать" Width="120" Margin="0,0,8,0" IsEnabled="False" Click="OnImport"/>
+            <Button Content="Закрыть" IsCancel="True" Width="90"/>
+        </StackPanel>
+    </Grid>
+</Window>

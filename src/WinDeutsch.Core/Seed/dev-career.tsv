@@ -1,0 +1,71 @@
+# Собеседование: о себе
+Ich bin Backend-Entwickler mit Schwerpunkt Java.	Я бэкенд-разработчик, в основном пишу на Java.
+Ich programmiere seit über acht Jahren.	Я программирую больше восьми лет.
+Ich habe Informatik studiert.	У меня высшее образование по информатике.
+Ich arbeite gern im Team, aber auch selbstständig.	Люблю работать в команде, но могу и самостоятельно.
+Meine Stärke ist es, komplexe Probleme zu strukturieren.	Моя сильная сторона — раскладывать сложные задачи по полочкам.
+Mein Deutsch ist noch nicht perfekt, aber ich lerne jeden Tag.	Мой немецкий ещё не идеален, но я занимаюсь каждый день.
+Ich suche eine neue Herausforderung.	Я ищу новые, более интересные задачи.
+# Собеседование: опыт
+In meinem letzten Projekt habe ich eine Microservice-Architektur aufgebaut.	В последнем проекте я выстроил микросервисную архитектуру.
+Ich war für die Anbindung an den Zahlungsanbieter verantwortlich.	Я отвечал за интеграцию с платёжным провайдером.
+Ich habe ein Team von vier Entwicklern geleitet.	Я руководил командой из четырёх разработчиков.
+Wir haben nach Scrum gearbeitet.	Мы работали по Scrum.
+Ich habe Erfahrung mit Kubernetes und AWS.	У меня есть опыт с Kubernetes и AWS.
+Mit React habe ich bisher nur wenig gearbeitet.	С React я пока работал мало.
+Dabei habe ich viel über Performance gelernt.	На этом проекте я многое понял про производительность.
+# Собеседование: технические вопросы
+Darf ich kurz laut nachdenken?	Можно я немного порассуждаю вслух?
+Ich würde das zuerst mit einer HashMap lösen.	Я бы сначала решил это через HashMap.
+Die Laufzeit wäre dann O(n).	Сложность тогда была бы O(n).
+Da bin ich mir nicht sicher, aber ich würde es so angehen.	Тут я не уверен, но подошёл бы к этому так.
+Welche Randfälle soll ich berücksichtigen?	Какие граничные случаи мне учесть?
+Ich erkläre gern den Unterschied zwischen einem Prozess und einem Thread.	С удовольствием объясню разницу между процессом и потоком.
+Hier sehe ich einen Trade-off zwischen Speicher und Geschwindigkeit.	Здесь я вижу компромисс между памятью и скоростью.
+# Вопросы работодателю
+Wie groß ist das Team?	Какая у вас команда по размеру?
+Wie sieht ein typischer Arbeitstag bei Ihnen aus?	Как у вас выглядит обычный рабочий день?
+Welchen Tech-Stack nutzen Sie?	Какой у вас стек?
+Wie läuft das Onboarding ab?	Как у вас проходит онбординг?
+Gibt es bei Ihnen Code Reviews und Pair Programming?	У вас есть код-ревью и парное программирование?
+Wie geht es nach diesem Gespräch weiter?	Какие следующие шаги после этого собеседования?
+# Зарплата и условия
+Was sind Ihre Gehaltsvorstellungen?	Какие у вас зарплатные ожидания?
+Meine Gehaltsvorstellung liegt im marktüblichen Rahmen für diese Position.	Мои ожидания — в рыночной вилке для этой позиции.
+Ist das brutto oder netto?	Это брутто или нетто?
+Ist Remote-Arbeit möglich?	Можно работать удалённо?
+Wie viele Tage pro Woche muss ich ins Büro kommen?	Сколько дней в неделю нужно бывать в офисе?
+Wie viele Urlaubstage gibt es?	Сколько дней отпуска в году?
+Meine Kündigungsfrist beträgt drei Monate.	На текущей работе у меня срок уведомления об увольнении — три месяца.
+Gibt es ein Budget für Weiterbildung?	Есть бюджет на обучение?
+Unterstützen Sie mich beim Antrag auf die Blaue Karte?	Вы поможете мне с оформлением Blue Card?
+# Заказчик: требования
+Was genau soll die Funktion leisten?	Что именно должна делать эта функция?
+Wer sind die Nutzer der Anwendung?	Кто будет пользоваться приложением?
+Können Sie mir ein Beispiel aus der Praxis geben?	Можете привести пример из практики?
+Habe ich Sie richtig verstanden, dass der Export nur für Admins sein soll?	Я правильно понял, что экспорт должен быть только для админов?
+Die Anforderungen sind noch nicht ganz klar.	Требования пока не совсем понятны.
+Ich schreibe die Anforderungen als User Stories auf.	Я распишу требования в виде user stories.
+Was ist für Sie am wichtigsten?	Что для вас самое важное?
+# Заказчик: сроки и оценка
+Wie lange dauert das ungefähr?	Сколько примерно это займёт?
+Ich schätze den Aufwand auf etwa drei Personentage.	Оцениваю трудозатраты примерно в три человеко-дня.
+Eine genaue Schätzung kann ich erst nach der Analyse geben.	Точную оценку смогу дать только после анализа.
+Bis Ende des Monats ist das realistisch nicht zu schaffen.	К концу месяца это реально не успеть.
+Wir können zuerst eine Minimalversion liefern.	Мы можем сначала сдать минимальную версию.
+Wir liegen im Zeitplan.	Мы укладываемся в график.
+Wir sind leider eine Woche im Verzug.	К сожалению, мы отстаём на неделю.
+# Заказчик: демо
+Ich zeige Ihnen kurz den aktuellen Stand.	Сейчас коротко покажу, что уже готово.
+Das ist noch eine Testumgebung mit Testdaten.	Это пока тестовая среда с тестовыми данными.
+Dieser Teil ist noch nicht fertig.	Эта часть ещё не готова.
+Probieren Sie es gern selbst aus.	Попробуйте сами, пожалуйста.
+Entspricht das Ihren Erwartungen?	Это соответствует вашим ожиданиям?
+Ihr Feedback nehmen wir in den nächsten Sprint mit.	Ваш фидбек мы учтём в следующем спринте.
+# Заказчик: смена объёма
+Das war ursprünglich nicht vereinbart.	Изначально мы об этом не договаривались.
+Das ist eine neue Anforderung.	Это новое требование.
+Das können wir gern machen, aber dann verschiebt sich der Termin.	Это можно сделать, но тогда сдвинется срок.
+Dafür müssten wir ein anderes Feature streichen.	Тогда пришлось бы выкинуть другую фичу.
+Ich schicke Ihnen dazu ein Nachtragsangebot.	Я пришлю вам на это дополнительное коммерческое предложение.
+Lassen Sie uns die Änderung schriftlich festhalten.	Давайте зафиксируем изменение письменно.

@@ -1,0 +1,66 @@
+# Описать баг
+Ich habe einen Bug gefunden.	Я нашёл баг.
+Ich habe dafür ein Ticket angelegt.	Я завёл на это тикет.
+Der Button reagiert nicht, wenn man zweimal klickt.	Кнопка не реагирует, если кликнуть дважды.
+Die Seite lädt, aber die Daten werden nicht angezeigt.	Страница загружается, но данные не отображаются.
+Erwartet war eine Fehlermeldung, stattdessen passiert gar nichts.	Ожидалось сообщение об ошибке, а вместо этого ничего не происходит.
+Das Problem tritt nur in Firefox auf.	Проблема возникает только в Firefox.
+Seit dem letzten Update funktioniert der Export nicht mehr.	После последнего обновления экспорт больше не работает.
+Die App stürzt beim Speichern ab.	Приложение падает при сохранении.
+Das ist eher ein Feature als ein Bug.	Это скорее фича, чем баг.
+Ist das ein bekannter Bug?	Это известный баг?
+Kannst du einen Screenshot an das Ticket hängen?	Можешь прикрепить скриншот к тикету?
+# Воспроизведение
+Kannst du den Fehler reproduzieren?	Можешь воспроизвести ошибку?
+Bei mir lässt sich das nicht reproduzieren.	У меня это не воспроизводится.
+Bei mir lokal funktioniert alles.	Локально у меня всё работает.
+Welche Schritte führen zu dem Fehler?	Какие шаги приводят к ошибке?
+Der Fehler tritt nur sporadisch auf.	Ошибка возникает только время от времени.
+Auf Staging passiert das jedes Mal.	На стейджинге это происходит каждый раз.
+Mit welchem Testnutzer hast du es probiert?	С каким тестовым пользователем ты пробовал?
+Ich habe die Schritte zur Reproduktion ins Ticket geschrieben.	Я расписал в тикете шаги воспроизведения.
+Wahrscheinlich ist das eine Race Condition.	Скорее всего, это состояние гонки.
+Ich schreibe erst mal einen Test, der den Fehler zeigt.	Сначала напишу тест, который показывает ошибку.
+# Логи и стектрейс
+Hast du schon in die Logs geschaut?	Ты уже смотрел логи?
+In den Logs steht eine NullPointerException.	В логах NullPointerException.
+Kannst du mir den Stacktrace schicken?	Можешь прислать мне стектрейс?
+Der Stacktrace zeigt auf die Klasse UserService.	Стектрейс указывает на класс UserService.
+An dieser Stelle loggen wir zu wenig.	В этом месте мы слишком мало логируем.
+Ich setze einen Breakpoint und debugge das.	Поставлю брейкпоинт и подебажу.
+Stell das Log-Level mal auf Debug.	Поставь-ка уровень логирования на Debug.
+Die Fehlermeldung ist leider nicht sehr aussagekräftig.	Сообщение об ошибке, к сожалению, не очень информативное.
+Der Request läuft nach dreißig Sekunden in einen Timeout.	Запрос через тридцать секунд отваливается по таймауту.
+Ich habe die Ursache gefunden.	Я нашёл причину.
+# Приоритет
+Wie kritisch ist der Bug?	Насколько критичный этот баг?
+Das ist ein Blocker für das Release.	Это блокер для релиза.
+Das hat keine hohe Priorität, das kann warten.	Это не в приоритете, может подождать.
+Wie viele Nutzer sind davon betroffen?	Скольких пользователей это затрагивает?
+Gibt es einen Workaround?	Есть какой-нибудь обходной путь?
+Wir nehmen den Bug in den nächsten Sprint auf.	Мы берём этот баг в следующий спринт.
+Das muss heute noch gefixt werden.	Это нужно пофиксить ещё сегодня.
+Wer kümmert sich um das Ticket?	Кто займётся этим тикетом?
+Ich würde den Bug als kritisch einstufen.	Я бы отнёс этот баг к критическим.
+# Инцидент на проде
+Prod ist down!	Прод лежит!
+Wir haben einen Incident auf Produktion.	У нас инцидент на проде.
+Die Fehlerrate ist plötzlich stark gestiegen.	Количество ошибок резко выросло.
+Die Kunden können sich nicht einloggen.	Клиенты не могут залогиниться.
+Wer hat gerade Rufbereitschaft?	Кто сейчас дежурит?
+Ich wurde nachts um drei vom Alerting geweckt.	Меня в три часа ночи разбудил алерт.
+Ich schaue mir das sofort an.	Сейчас же посмотрю.
+Wir spielen einen Hotfix ein.	Накатываем хотфикс.
+Lasst uns erst mal auf die letzte stabile Version zurückrollen.	Давайте сначала откатимся на последнюю стабильную версию.
+Ich halte euch im Channel auf dem Laufenden.	Буду держать вас в курсе в канале.
+Der Dienst läuft wieder stabil.	Сервис снова работает стабильно.
+# Постмортем
+Lasst uns ein Postmortem schreiben.	Давайте напишем постмортем.
+Was war die eigentliche Ursache?	Что было настоящей причиной?
+Der Ausfall hat zwei Stunden gedauert.	Сбой длился два часа.
+Wir suchen keine Schuldigen, sondern Lösungen.	Мы ищем не виноватых, а решения.
+Warum hat das Monitoring nicht früher angeschlagen?	Почему мониторинг не сработал раньше?
+Wie verhindern wir, dass das noch mal passiert?	Как сделать так, чтобы это не повторилось?
+Dafür brauchen wir einen Regressionstest.	Для этого нам нужен регрессионный тест.
+Ich lege für die Maßnahmen Tickets an.	Я заведу тикеты на эти меры.
+Was haben wir daraus gelernt?	Какие выводы мы из этого сделали?

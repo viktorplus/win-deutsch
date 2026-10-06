@@ -1,0 +1,164 @@
+<Window x:Class="WinDeutsch.App.Windows.LibraryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Библиотека"
+        Width="1120" Height="720" MinWidth="800" MinHeight="480"
+        WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <ContextMenu x:Key="ActionsMenu">
+            <MenuItem Header="Исключить из обучения" Click="OnExclude"/>
+            <MenuItem Header="Вернуть в обучение" Click="OnInclude"/>
+            <MenuItem Header="Состояние">
+                <MenuItem Header="Не знаю" Tag="unknown" Click="OnSetState"/>
+                <MenuItem Header="Учу" Tag="learning" Click="OnSetState"/>
+                <MenuItem Header="Знаю" Tag="known" Click="OnSetState"/>
+            </MenuItem>
+            <MenuItem Header="Повторить чаще" Click="OnRepeatMore"/>
+            <MenuItem Header="Отложить">
+                <MenuItem Header="на 1 час" Tag="1:00:00" Click="OnSnooze"/>
+                <MenuItem Header="на 1 день" Tag="1.00:00:00" Click="OnSnooze"/>
+                <MenuItem Header="на 1 неделю" Tag="7.00:00:00" Click="OnSnooze"/>
+                <MenuItem Header="Снять отсрочку" Tag="0:00:00" Click="OnSnooze"/>
+            </MenuItem>
+            <MenuItem Header="Перенести в тему…" Click="OnMove"/>
+            <Separator/>
+            <MenuItem Header="Удалить…" Click="OnDeletePhrases"/>
+        </ContextMenu>
+        <ContextMenu x:Key="ExportMenu">
+            <MenuItem Header="Выбранная тема или категория…" Click="OnExportSelected"/>
+            <MenuItem Header="Все темы…" Click="OnExportAll"/>
+        </ContextMenu>
+        <Style x:Key="NodeStyle" TargetType="TreeViewItem">
+            <Setter Property="IsSelected" Value="{Binding IsSelected, Mode=TwoWay}"/>
+            <Setter Property="IsExpanded" Value="{Binding IsExpanded, Mode=OneWay}"/>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="Padding" Value="10,4"/>
+            <Setter Property="Margin" Value="0,0,6,6"/>
+        </Style>
+    </Window.Resources>
+
+    <TabControl x:Name="Tabs" SelectionChanged="OnTabChanged" Margin="6">
+        <TabItem Header="Фразы">
+            <Grid Margin="6">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="280" MinWidth="180"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+
+                <DockPanel Grid.Column="0">
+                    <WrapPanel DockPanel.Dock="Top">
+                        <Button Content="Новая тема" Click="OnAddTopic"/>
+                        <Button Content="Переименовать" Click="OnRenameTopic"/>
+                        <Button Content="Удалить тему" Click="OnDeleteTopic"/>
+                    </WrapPanel>
+                    <TreeView x:Name="TopicTree" ItemContainerStyle="{StaticResource NodeStyle}"
+                              SelectedItemChanged="OnTreeSelectionChanged">
+                        <TreeView.ItemTemplate>
+                            <HierarchicalDataTemplate ItemsSource="{Binding Children}">
+                                <StackPanel Orientation="Horizontal">
+                                    <CheckBox IsChecked="{Binding IsChecked, Mode=TwoWay}"
+                                              VerticalAlignment="Center" Margin="0,0,6,0"/>
+                                    <TextBlock Text="{Binding Display}" VerticalAlignment="Center"/>
+                                </StackPanel>
+                            </HierarchicalDataTemplate>
+                        </TreeView.ItemTemplate>
+                    </TreeView>
+                </DockPanel>
+
+                <GridSplitter Grid.Column="1" Width="6" HorizontalAlignment="Center" VerticalAlignment="Stretch"/>
+
+                <DockPanel Grid.Column="2">
+                    <WrapPanel DockPanel.Dock="Top">
+                        <TextBox x:Name="SearchBox" Width="220" Margin="0,0,6,6" Padding="4,3"
+                                 ToolTip="Поиск по немецкому и русскому тексту" TextChanged="OnFilterChanged"/>
+                        <ComboBox x:Name="FilterBox" Width="130" Margin="0,0,6,6" SelectedIndex="0" SelectionChanged="OnFilterChanged">
+                            <ComboBoxItem Content="Все"/>
+                            <ComboBoxItem Content="Активные"/>
+                            <ComboBoxItem Content="Исключённые"/>
+                            <ComboBoxItem Content="Отложенные"/>
+                            <ComboBoxItem Content="Новая"/>
+                            <ComboBoxItem Content="Не знаю"/>
+                            <ComboBoxItem Content="Учу"/>
+                            <ComboBoxItem Content="Знаю"/>
+                        </ComboBox>
+                        <TextBlock x:Name="CountText" VerticalAlignment="Center" Margin="4,0,0,6" Foreground="Gray"/>
+                    </WrapPanel>
+                    <WrapPanel DockPanel.Dock="Top">
+                        <Button Content="Добавить" Click="OnAddPhrase"/>
+                        <Button Content="Изменить" Click="OnEditPhrase"/>
+                        <Button Content="Действия ▾" Click="OnShowActions"/>
+                        <Button Content="Импорт…" Click="OnImport"/>
+                        <Button Content="Экспорт ▾" Click="OnShowExport"/>
+                        <Button Content="Восстановить базовый набор" Click="OnRestoreSeed"/>
+                    </WrapPanel>
+                    <DataGrid x:Name="PhraseGrid" AutoGenerateColumns="False" IsReadOnly="True"
+                              SelectionMode="Extended" SelectionUnit="FullRow" HeadersVisibility="Column"
+                              CanUserAddRows="False" CanUserDeleteRows="False" GridLinesVisibility="Horizontal"
+                              EnableRowVirtualization="True" EnableColumnVirtualization="True"
+                              VirtualizingPanel.IsVirtualizing="True" VirtualizingPanel.VirtualizationMode="Recycling"
+                              ContextMenu="{StaticResource ActionsMenu}"
+                              MouseDoubleClick="OnGridDoubleClick" KeyDown="OnGridKeyDown">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Немецкий" Binding="{Binding German}" Width="2*"/>
+                            <DataGridTextColumn Header="Русский" Binding="{Binding Russian}" Width="2*"/>
+                            <DataGridTextColumn Header="Тема" Binding="{Binding TopicName}" Width="*"/>
+                            <DataGridTextColumn Header="Состояние" Binding="{Binding State}" Width="80"/>
+                            <DataGridTextColumn Header="Показов" Binding="{Binding ShowCount}" Width="70"/>
+                            <DataGridTextColumn Header="Последний показ" Binding="{Binding LastShown}"
+                                                SortMemberPath="LastShownSort" Width="120"/>
+                            <DataGridTextColumn Header="Примечание" Binding="{Binding Note}" Width="*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </DockPanel>
+            </Grid>
+        </TabItem>
+
+        <TabItem Header="Статистика">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <StackPanel Margin="16">
+                    <ItemsControl x:Name="StatsList">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal" Margin="0,3">
+                                    <TextBlock Text="{Binding Label}" Width="280"/>
+                                    <TextBlock Text="{Binding Value}" FontWeight="SemiBold"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                    <TextBlock Text="Самые трудные фразы" FontWeight="SemiBold" FontSize="15" Margin="0,18,0,6"/>
+                    <TextBlock x:Name="HardestEmpty" Text="Пока нет неверных ответов" Foreground="Gray"/>
+                    <DataGrid x:Name="HardestGrid" AutoGenerateColumns="False" IsReadOnly="True" HeadersVisibility="Column"
+                              CanUserAddRows="False" GridLinesVisibility="Horizontal" MaxWidth="800" HorizontalAlignment="Left">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Немецкий" Binding="{Binding German}" Width="300"/>
+                            <DataGridTextColumn Header="Русский" Binding="{Binding Russian}" Width="300"/>
+                            <DataGridTextColumn Header="Неверных" Binding="{Binding Wrong}" Width="80"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </StackPanel>
+            </ScrollViewer>
+        </TabItem>
+
+        <TabItem Header="История">
+            <DockPanel Margin="6">
+                <TextBlock x:Name="HistoryEmpty" DockPanel.Dock="Top" Margin="4,4,0,8" Foreground="Gray"
+                           Text="Показов пока не было"/>
+                <DataGrid x:Name="HistoryGrid" AutoGenerateColumns="False" IsReadOnly="True" HeadersVisibility="Column"
+                          CanUserAddRows="False" GridLinesVisibility="Horizontal"
+                          EnableRowVirtualization="True" VirtualizingPanel.IsVirtualizing="True">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Время" Binding="{Binding At}" SortMemberPath="AtSort" Width="130"/>
+                        <DataGridTextColumn Header="Фраза" Binding="{Binding German}" Width="3*"/>
+                        <DataGridTextColumn Header="Режим" Binding="{Binding Mode}" Width="80"/>
+                        <DataGridTextColumn Header="Итог" Binding="{Binding Outcome}" Width="110"/>
+                        <DataGridTextColumn Header="Показов" Binding="{Binding ShowCount}" Width="70"/>
+                        <DataGridTextColumn Header="Последний показ" Binding="{Binding LastShown}" Width="130"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </DockPanel>
+        </TabItem>
+    </TabControl>
+</Window>

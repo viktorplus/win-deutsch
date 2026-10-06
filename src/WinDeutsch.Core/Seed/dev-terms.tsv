@@ -1,0 +1,72 @@
+# Код и языки
+die Programmiersprache, die Programmiersprachen	язык программирования
+die Variable, die Variablen	переменная
+die Funktion, die Funktionen	функция
+die Methode, die Methoden	метод
+die Klasse, die Klassen	класс
+die Schnittstelle, die Schnittstellen	интерфейс
+die Bibliothek, die Bibliotheken	библиотека
+das Framework, die Frameworks	фреймворк
+der Parameter, die Parameter	параметр
+der Rückgabewert, die Rückgabewerte	возвращаемое значение
+die Schleife, die Schleifen	цикл
+die Abhängigkeit, die Abhängigkeiten	зависимость
+# Данные и БД
+die Datenbank, die Datenbanken	база данных
+die Tabelle, die Tabellen	таблица
+die Spalte, die Spalten	столбец
+die Zeile, die Zeilen	строка
+die Abfrage, die Abfragen	запрос (к базе данных)
+der Datensatz, die Datensätze	запись (в таблице)
+der Schlüssel, die Schlüssel	ключ
+der Index, die Indizes	индекс
+das Backup, die Backups	бэкап, резервная копия
+die Datei, die Dateien	файл
+# Сеть и веб
+der Server, die Server	сервер
+die Anfrage, die Anfragen	запрос (HTTP)
+der Endpunkt, die Endpunkte	эндпоинт
+das Netzwerk, die Netzwerke	сеть
+die Verbindung, die Verbindungen	соединение
+die IP-Adresse, die IP-Adressen	IP-адрес
+das Zertifikat, die Zertifikate	сертификат
+die Firewall, die Firewalls	файрвол
+der Browser, die Browser	браузер
+die Webseite, die Webseiten	веб-страница
+# Инструменты и процесс
+das Repo, die Repos	репозиторий, репо
+der Branch, die Branches	ветка
+der Commit, die Commits	коммит
+der Merge Request, die Merge Requests	мерж-реквест
+das Ticket, die Tickets	тикет
+der Sprint, die Sprints	спринт
+die Anforderung, die Anforderungen	требование
+die Entwicklungsumgebung, die Entwicklungsumgebungen	среда разработки, IDE
+das Release, die Releases	релиз
+die Version, die Versionen	версия
+# Качество и тесты
+der Fehler, die Fehler	ошибка
+der Test, die Tests	тест
+der Unit-Test, die Unit-Tests	юнит-тест
+der Testfall, die Testfälle	тест-кейс
+der Edge Case, die Edge Cases	граничный случай
+die Ausnahme, die Ausnahmen	исключение
+die Fehlermeldung, die Fehlermeldungen	сообщение об ошибке
+die Warnung, die Warnungen	предупреждение
+der Absturz, die Abstürze	падение, краш
+der Integrationstest, die Integrationstests	интеграционный тест
+# Глаголы
+schreiben – hat geschrieben	писать
+umschreiben – hat umgeschrieben	переписывать
+laufen – ist gelaufen	работать, выполняться (о программе)
+abstürzen – ist abgestürzt	падать, крашиться
+beheben – hat behoben	исправлять, устранять (ошибку)
+aufrufen – hat aufgerufen	вызывать (функцию)
+übergeben – hat übergeben	передавать (параметр)
+hochladen – hat hochgeladen	загружать (на сервер)
+herunterladen – hat heruntergeladen	скачивать
+deployen – hat deployt	деплоить
+committen – hat committet	коммитить
+mergen – hat gemergt	мержить
+debuggen – hat debuggt	отлаживать, дебажить
+auschecken – hat ausgecheckt	переключаться на ветку (checkout)

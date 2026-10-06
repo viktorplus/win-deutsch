@@ -1,0 +1,224 @@
+﻿<Window x:Class="WinDeutsch.App.Windows.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Настройки"
+        Width="660" Height="640" MinWidth="560" MinHeight="420"
+        WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style x:Key="Lbl" TargetType="TextBlock">
+            <Setter Property="Width" Value="230" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+            <Setter Property="TextWrapping" Value="Wrap" />
+        </Style>
+        <Style x:Key="Row" TargetType="StackPanel">
+            <Setter Property="Orientation" Value="Horizontal" />
+            <Setter Property="Margin" Value="0,0,0,8" />
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Width" Value="80" />
+            <Setter Property="Padding" Value="3" />
+            <Setter Property="VerticalContentAlignment" Value="Center" />
+        </Style>
+        <Style TargetType="ComboBox">
+            <Setter Property="Padding" Value="4,3" />
+            <Setter Property="MinWidth" Value="160" />
+        </Style>
+        <Style TargetType="CheckBox">
+            <Setter Property="Margin" Value="0,0,0,8" />
+        </Style>
+        <Style x:Key="Hint" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="Gray" />
+            <Setter Property="Margin" Value="8,0,0,0" />
+            <Setter Property="VerticalAlignment" Value="Center" />
+        </Style>
+        <Style x:Key="Section" TargetType="TextBlock">
+            <Setter Property="FontWeight" Value="SemiBold" />
+            <Setter Property="Margin" Value="0,10,0,8" />
+        </Style>
+    </Window.Resources>
+    <DockPanel>
+        <Border DockPanel.Dock="Bottom" Padding="12,6" BorderBrush="LightGray" BorderThickness="0,1,0,0">
+            <TextBlock x:Name="StatusText" TextWrapping="Wrap" Foreground="Gray"
+                       Text="Изменения сохраняются сразу." />
+        </Border>
+        <TabControl x:Name="Tabs" Margin="8">
+            <TabItem Header="Показ">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <StackPanel Margin="14">
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Режим" />
+                            <ComboBox x:Name="ModeBox" />
+                        </StackPanel>
+                        <TextBlock Style="{StaticResource Section}" Text="Как часто менять фразу" />
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Интервал" />
+                            <ComboBox x:Name="IntervalBox" />
+                        </StackPanel>
+                        <StackPanel x:Name="CustomPanel" Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Свой интервал" />
+                            <TextBox x:Name="CustomBox" />
+                            <TextBlock Style="{StaticResource Hint}" Text="от 10 с до 24 ч" />
+                        </StackPanel>
+                        <StackPanel x:Name="RandomPanel" Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Случайный: от … до …" />
+                            <TextBox x:Name="RandomMinBox" />
+                            <TextBlock Text=" … " VerticalAlignment="Center" />
+                            <TextBox x:Name="RandomMaxBox" />
+                        </StackPanel>
+                        <StackPanel x:Name="UnitPanel" Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Единицы" />
+                            <ComboBox x:Name="UnitBox" />
+                        </StackPanel>
+                        <TextBlock Style="{StaticResource Section}" Text="Карточка" />
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Карточка висит, секунд" />
+                            <TextBox x:Name="PopupDurationBox" />
+                            <TextBlock Style="{StaticResource Hint}" Text="3–120" />
+                        </StackPanel>
+                        <TextBlock Style="{StaticResource Section}" Text="Перевод" />
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="В виджете" />
+                            <ComboBox x:Name="WidgetTranslationBox" />
+                        </StackPanel>
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="В карточке" />
+                            <ComboBox x:Name="PopupTranslationBox" />
+                        </StackPanel>
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Задержка «через N секунд»" />
+                            <TextBox x:Name="DelayBox" />
+                            <TextBlock Style="{StaticResource Hint}" Text="1–60 с" />
+                        </StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+            </TabItem>
+
+            <TabItem Header="Тесты">
+                <StackPanel Margin="14">
+                    <CheckBox x:Name="QuizEnabledBox" Content="Показывать тесты «Что это означает?»" />
+                    <StackPanel Style="{StaticResource Row}">
+                        <TextBlock Style="{StaticResource Lbl}" Text="Доля тестов, %" />
+                        <TextBox x:Name="QuizPercentBox" />
+                        <TextBlock Style="{StaticResource Hint}" Text="0–100" />
+                    </StackPanel>
+                </StackPanel>
+            </TabItem>
+
+            <TabItem Header="Внешний вид">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <StackPanel Margin="14">
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Тема" />
+                            <ComboBox x:Name="ThemeBox" />
+                        </StackPanel>
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Шрифт" />
+                            <ComboBox x:Name="FontBox" Width="220" />
+                        </StackPanel>
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Размер текста" />
+                            <TextBox x:Name="FontSizeBox" />
+                            <TextBlock Style="{StaticResource Hint}" Text="10–48, перевод — 80 %" />
+                        </StackPanel>
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Цвет текста" />
+                            <TextBox x:Name="TextColorBox" VerticalAlignment="Center" />
+                            <Border x:Name="TextSwatch" Width="24" Height="24" Margin="8,0,8,0" BorderBrush="Gray" BorderThickness="1" />
+                            <WrapPanel x:Name="TextPalette" Width="190" />
+                        </StackPanel>
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Цвет фона" />
+                            <TextBox x:Name="BackColorBox" VerticalAlignment="Center" />
+                            <Border x:Name="BackSwatch" Width="24" Height="24" Margin="8,0,8,0" BorderBrush="Gray" BorderThickness="1" />
+                            <WrapPanel x:Name="BackPalette" Width="190" />
+                        </StackPanel>
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Прозрачность фона, %" />
+                            <TextBox x:Name="OpacityBox" />
+                            <TextBlock Style="{StaticResource Hint}" Text="20–100" />
+                        </StackPanel>
+                        <CheckBox x:Name="TopMostBox" Content="Поверх всех окон" />
+                        <CheckBox x:Name="ControlsOnHoverBox" Content="Кнопки появляются при наведении (иначе всегда видны)" />
+
+                        <TextBlock Style="{StaticResource Section}" Text="Виджет" />
+                        <CheckBox x:Name="LockPositionBox" Content="Закрепить позицию и размер" />
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Ширина" />
+                            <TextBox x:Name="WidgetWidthBox" />
+                            <TextBlock Style="{StaticResource Hint}" Text="160–1200" />
+                        </StackPanel>
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Высота" />
+                            <TextBox x:Name="WidgetHeightBox" />
+                            <TextBlock Style="{StaticResource Hint}" Text="40–600" />
+                        </StackPanel>
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Положение X, Y" />
+                            <TextBox x:Name="WidgetXBox" />
+                            <TextBlock Text=" , " VerticalAlignment="Center" />
+                            <TextBox x:Name="WidgetYBox" />
+                            <Button x:Name="ResetCornerButton" Content="Вернуть в угол" Margin="10,0,0,0" Padding="10,3" />
+                        </StackPanel>
+
+                        <TextBlock Style="{StaticResource Section}" Text="Карточка" />
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Ширина" />
+                            <TextBox x:Name="PopupWidthBox" />
+                            <TextBlock Style="{StaticResource Hint}" Text="160–1200" />
+                        </StackPanel>
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Высота" />
+                            <TextBox x:Name="PopupHeightBox" />
+                            <TextBlock Style="{StaticResource Hint}" Text="40–600" />
+                        </StackPanel>
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Угол экрана" />
+                            <ComboBox x:Name="CornerBox" />
+                        </StackPanel>
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Монитор" />
+                            <ComboBox x:Name="MonitorBox" />
+                            <TextBlock x:Name="MonitorInfo" Style="{StaticResource Hint}" />
+                        </StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+            </TabItem>
+
+            <TabItem Header="Поведение">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <StackPanel Margin="14">
+                        <CheckBox x:Name="FullscreenBox" Content="Не показывать поверх полноэкранных приложений" />
+                        <CheckBox x:Name="QuietEnabledBox" Content="Тихие часы (виджет скрыт, карточек нет)" />
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="С … до …" />
+                            <TextBox x:Name="QuietFromBox" />
+                            <TextBlock Text=" … " VerticalAlignment="Center" />
+                            <TextBox x:Name="QuietToBox" />
+                            <TextBlock Style="{StaticResource Hint}" Text="ЧЧ:ММ" />
+                        </StackPanel>
+                        <CheckBox x:Name="IdleEnabledBox" Content="Пауза, когда меня нет за компьютером" />
+                        <StackPanel Style="{StaticResource Row}">
+                            <TextBlock Style="{StaticResource Lbl}" Text="Считать отсутствием после, минут" />
+                            <TextBox x:Name="IdleMinutesBox" />
+                            <TextBlock Style="{StaticResource Hint}" Text="1–240" />
+                        </StackPanel>
+                        <CheckBox x:Name="HotkeysBox" Content="Глобальные горячие клавиши" />
+                        <ItemsControl x:Name="HotkeyList" Margin="24,0,0,10" />
+                        <CheckBox x:Name="AutostartBox" Content="Запускать вместе с Windows" />
+                    </StackPanel>
+                </ScrollViewer>
+            </TabItem>
+
+            <TabItem Header="Данные">
+                <StackPanel Margin="14">
+                    <TextBlock Text="Фразы и история хранятся в базе data.db, настройки — в settings.json." TextWrapping="Wrap" Margin="0,0,0,4" />
+                    <TextBlock x:Name="DataDirText" Foreground="Gray" TextWrapping="Wrap" Margin="0,0,0,14" />
+                    <Button x:Name="BackupButton" Content="Создать резервную копию…" HorizontalAlignment="Left" Padding="14,5" Margin="0,0,0,8" />
+                    <Button x:Name="RestoreButton" Content="Восстановить из копии…" HorizontalAlignment="Left" Padding="14,5" Margin="0,0,0,8" />
+                    <Button x:Name="OpenFolderButton" Content="Открыть папку данных" HorizontalAlignment="Left" Padding="14,5" Margin="0,0,0,12" />
+                    <TextBlock x:Name="DataResultText" TextWrapping="Wrap" />
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+    </DockPanel>
+</Window>

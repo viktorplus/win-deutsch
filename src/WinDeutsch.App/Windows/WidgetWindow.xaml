@@ -1,0 +1,14 @@
+<Window x:Class="WinDeutsch.App.Windows.WidgetWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:cards="clr-namespace:WinDeutsch.App.Cards"
+        Title="Win Deutsch"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        Background="Transparent"
+        ShowInTaskbar="False"
+        ShowActivated="False"
+        ResizeMode="CanResizeWithGrip"
+        MinWidth="160" MinHeight="40" MaxWidth="1200" MaxHeight="600">
+    <cards:CardView x:Name="Card" AllowDrag="True" />
+</Window>

@@ -1,0 +1,59 @@
+# Просьба о ревью
+Kannst du dir meinen Merge Request anschauen?	Можешь посмотреть мой мерж-реквест?
+Ich habe dich als Reviewer eingetragen.	Я добавил тебя ревьюером.
+Der Merge Request ist bereit fürs Review.	Мерж-реквест готов к ревью.
+Es ist nur eine kleine Änderung, das geht schnell.	Там маленькое изменение, это быстро.
+Kannst du heute noch drüberschauen?	Сможешь сегодня ещё глянуть?
+Schau dir bitte vor allem die Änderungen an der Datenbank an.	Посмотри в первую очередь изменения в базе данных.
+Der Merge Request ist noch Work in Progress.	Мерж-реквест ещё в работе (WIP).
+Ich habe die Beschreibung im Merge Request ergänzt.	Я дополнил описание мерж-реквеста.
+Wer hat heute Zeit für ein Review?	У кого сегодня есть время на ревью?
+Den Kontext findest du im Ticket.	Контекст есть в тикете.
+# Замечания
+Hier fehlt ein Test.	Здесь не хватает теста.
+Diese Variable ist nicht sehr aussagekräftig benannt.	У этой переменной не очень говорящее имя.
+Was passiert, wenn der Wert null ist?	Что будет, если значение null?
+Diese Methode ist ziemlich lang.	Этот метод довольно длинный.
+Hier wird die Exception einfach verschluckt.	Здесь исключение просто проглатывается.
+Diesen Code gibt es schon an anderer Stelle.	Этот код уже есть в другом месте.
+Kleiner Tippfehler in Zeile 42.	Мелкая опечатка в строке 42.
+Nur ein Nitpick, kein Muss.	Мелкая придирка, не обязательно.
+Ich verstehe nicht ganz, was diese Funktion macht.	Я не совсем понимаю, что делает эта функция.
+Hier fehlt die Fehlerbehandlung.	Здесь нет обработки ошибок.
+Der Kommentar passt nicht mehr zum Code.	Комментарий больше не соответствует коду.
+Das könnte bei großen Datenmengen langsam werden.	На больших объёмах данных это может тормозить.
+# Вежливое несогласие
+Ich sehe das ein bisschen anders.	Я на это смотрю немного иначе.
+Ich verstehe deinen Punkt, aber das ist hier bewusst so gelöst.	Понимаю твою мысль, но здесь это сделано так намеренно.
+Das habe ich absichtlich so gemacht, weil die API das verlangt.	Я так сделал специально, этого требует API.
+Ich bin mir nicht sicher, ob das wirklich besser ist.	Не уверен, что так действительно лучше.
+Können wir das in einem separaten Ticket machen?	Можем сделать это отдельным тикетом?
+Das würde den Rahmen dieses Merge Requests sprengen.	Это выходит за рамки этого мерж-реквеста.
+Das ist Geschmackssache, finde ich.	По-моему, это дело вкуса.
+Wir haben uns im Team auf diesen Stil geeinigt.	Мы в команде договорились о таком стиле.
+Lass uns das kurz mündlich besprechen, das geht schneller.	Давай коротко обсудим голосом, так быстрее.
+# Предложения правок
+Wie wäre es, wenn wir das in eine eigene Methode auslagern?	Может, вынесем это в отдельный метод?
+Ich würde hier eher eine Konstante verwenden.	Я бы здесь лучше использовал константу.
+Vielleicht sollten wir die Funktion umbenennen.	Может, стоит переименовать функцию.
+Hier könntest du einfach die vorhandene Hilfsfunktion nutzen.	Здесь можно просто взять уже существующую вспомогательную функцию.
+Diese Bedingung lässt sich vereinfachen.	Это условие можно упростить.
+Mit einem Early Return wäre das lesbarer.	С ранним возвратом было бы читабельнее.
+Lösch bitte den auskommentierten Code raus.	Удали, пожалуйста, закомментированный код.
+Ich habe dir einen Vorschlag direkt im Code hinterlassen.	Я оставил тебе предложение прямо в коде.
+Guter Punkt, ich passe das an.	Хорошее замечание, поправлю.
+Ich habe alle Kommentare eingearbeitet.	Я учёл все комментарии.
+Ist erledigt, kannst du noch mal drüberschauen?	Готово, глянешь ещё раз?
+# Апрув и мерж
+Sieht gut aus, ich approve.	Выглядит хорошо, апрувлю.
+Von meiner Seite passt alles.	С моей стороны всё ок.
+Ich habe den Merge Request approved.	Я заапрувил мерж-реквест.
+Approved, die kleinen Anmerkungen kannst du auch später umsetzen.	Апрувнул, мелкие замечания можешь поправить и позже.
+Wir brauchen noch ein zweites Approval.	Нужен ещё второй апрув.
+Die Pipeline ist grün, du kannst mergen.	Пайплайн зелёный, можешь мержить.
+Es gibt einen Merge-Konflikt.	Есть мерж-конфликт.
+Ich löse die Konflikte und merge dann.	Разрулю конфликты и потом смержу.
+Bitte rebase deinen Branch noch auf main.	Сделай, пожалуйста, ребейз своей ветки на main.
+Kannst du die Commits noch squashen?	Можешь ещё засквошить коммиты?
+Ich habe den Branch gemergt und gelöscht.	Я смержил ветку и удалил её.
+Danke fürs schnelle Review!	Спасибо за быстрое ревью!
