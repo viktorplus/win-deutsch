@@ -1,0 +1,327 @@
+# Нейронные сети
+das neuronale Netz	нейронная сеть
+das künstliche Neuron	искусственный нейрон
+das Neuron	нейрон
+die Schicht	слой
+die Eingabeschicht	входной слой
+die Ausgabeschicht	выходной слой
+die verborgene Schicht	скрытый слой
+das Gewicht	вес (связи)
+die Gewichtung	взвешивание
+die Aktivierungsfunktion	функция активации
+die Verbindung	связь (между нейронами)
+das Deep Learning	глубокое обучение
+das tiefe neuronale Netz	глубокая нейронная сеть
+die Netzarchitektur	архитектура сети
+die Fehlerrückführung	обратное распространение ошибки
+das faltende neuronale Netz	свёрточная нейросеть
+das rekurrente neuronale Netz	рекуррентная нейросеть
+der Transformer	трансформер
+der Aufmerksamkeitsmechanismus	механизм внимания
+die Einbettung	эмбеддинг (векторное представление)
+das Gehirn	мозг
+die Nervenzelle	нервная клетка
+nachahmen	имитировать
+die Black Box	«чёрный ящик»
+Ein neuronales Netz besteht aus vielen Schichten.	Нейросеть состоит из многих слоёв.
+Das Netz ist dem menschlichen Gehirn nachempfunden.	Сеть создана по образцу человеческого мозга.
+Jede Verbindung hat ein eigenes Gewicht.	У каждой связи свой вес.
+Die Gewichte werden beim Training angepasst.	Веса настраиваются во время обучения.
+Je tiefer das Netz, desto mehr Daten braucht es.	Чем глубже сеть, тем больше данных ей нужно.
+Niemand weiß genau, was in den verborgenen Schichten passiert.	Никто точно не знает, что происходит в скрытых слоях.
+Transformer sind die Grundlage moderner Sprachmodelle.	Трансформеры — основа современных языковых моделей.
+Das Netz hat mehrere Milliarden Parameter.	У сети несколько миллиардов параметров.
+
+# Данные и датасеты
+der Datensatz	набор данных (датасет)
+die Datenquelle	источник данных
+die Rohdaten (Pl.)	сырые данные
+strukturierte Daten	структурированные данные
+unstrukturierte Daten	неструктурированные данные
+der Datenpunkt	точка данных
+die Spalte	столбец
+die Zeile	строка
+die Tabelle	таблица
+das Format	формат
+die CSV-Datei	CSV-файл
+die Datenerhebung	сбор данных
+Daten sammeln	собирать данные
+Daten speichern	хранить данные
+der Datenspeicher	хранилище данных
+der Data Lake	озеро данных
+die Datenbank	база данных
+die Datenpipeline	конвейер данных
+der Datenaustausch	обмен данными
+die Schnittstelle	интерфейс (API)
+öffentlich zugängliche Daten	общедоступные данные
+Der Datensatz enthält zwei Millionen Bilder.	Датасет содержит два миллиона изображений.
+Woher kommen die Daten eigentlich?	Откуда вообще берутся данные?
+Die Rohdaten liegen in verschiedenen Systemen.	Сырые данные хранятся в разных системах.
+Wir exportieren die Tabelle als CSV-Datei.	Мы экспортируем таблицу в CSV.
+Die Daten müssen erst zusammengeführt werden.	Сначала данные нужно объединить.
+Daten sind das neue Öl.	Данные — это новая нефть.
+Den Datensatz kann man kostenlos herunterladen.	Датасет можно скачать бесплатно.
+
+# Качество данных
+die Datenqualität	качество данных
+vollständig	полный
+unvollständig	неполный
+fehlende Werte	пропущенные значения
+fehlerhaft	ошибочный
+die Dublette	дубликат
+die Datenbereinigung	очистка данных
+Daten bereinigen	очищать данные
+die Konsistenz	согласованность
+konsistent	согласованный
+die Plausibilitätsprüfung	проверка на правдоподобие
+aktuell	актуальный
+repräsentativ	репрезентативный
+einseitige Daten	однобокие данные
+die Normalisierung	нормализация
+normalisieren	нормализовать
+die Vorverarbeitung	предварительная обработка
+der Tippfehler	опечатка
+das Datumsformat	формат даты
+Garbage in, garbage out.	Мусор на входе — мусор на выходе.
+Schlechte Daten führen zu schlechten Modellen.	Плохие данные ведут к плохим моделям.
+In vielen Zeilen fehlen Werte.	Во многих строках не хватает значений.
+Die Bereinigung der Daten kostet am meisten Zeit.	Больше всего времени уходит на очистку данных.
+Die Stichprobe ist nicht repräsentativ.	Выборка нерепрезентативна.
+Bitte prüft die Daten auf Dubletten.	Проверьте, пожалуйста, данные на дубликаты.
+Die Daten sind leider veraltet.	Данные, к сожалению, устарели.
+Jede Abteilung nutzt ein anderes Datumsformat.	В каждом отделе свой формат даты.
+
+# Разметка данных
+das Labeling	разметка данных
+das Label	метка
+die Annotation	аннотация (разметка)
+annotieren	аннотировать
+Daten labeln	размечать данные
+gelabelte Daten	размеченные данные
+der Annotator	разметчик (аннотатор)
+die Klickarbeit	кликворк (микрозадачи)
+der Clickworker	кликворкер
+die Kategorie	категория
+die Bounding Box	ограничивающая рамка
+manuell	вручную
+die Annotationsrichtlinie	инструкция по разметке
+die Übereinstimmung	совпадение (меток)
+Jedes Bild muss von Hand gelabelt werden.	Каждое изображение нужно разметить вручную.
+Die Annotation ist teuer und langwierig.	Разметка дорогая и долгая.
+Zwei Annotatoren bewerten dasselbe Bild.	Два разметчика оценивают одно и то же изображение.
+Viele Clickworker arbeiten für wenig Geld.	Многие кликворкеры работают за копейки.
+Ohne Labels kein überwachtes Lernen.	Без меток нет обучения с учителем.
+Die Labels waren teilweise falsch.	Метки частично были неверными.
+
+# Статистика
+die Statistik	статистика
+statistisch	статистический
+der Durchschnitt	среднее (в среднем)
+der Median	медиана
+die Standardabweichung	стандартное отклонение
+die Verteilung	распределение
+die Häufigkeit	частота
+der Anteil	доля
+die Grundgesamtheit	генеральная совокупность
+signifikant	значимый
+die Signifikanz	статистическая значимость
+der Zufall	случайность
+zufällig	случайный
+die Hypothese	гипотеза
+der Trend	тренд
+die Zeitreihe	временной ряд
+das Diagramm	диаграмма
+die Visualisierung	визуализация
+die Kennzahl	показатель (KPI)
+Im Durchschnitt liegt der Wert bei 42.	В среднем значение равно 42.
+Der Unterschied ist statistisch nicht signifikant.	Разница статистически незначима.
+Das Diagramm zeigt einen klaren Trend.	Диаграмма показывает чёткий тренд.
+Die Daten sind normalverteilt.	Данные распределены нормально.
+Wir haben die Stichprobe zufällig gezogen.	Мы сделали случайную выборку.
+Der Anteil der Fehler ist gesunken.	Доля ошибок снизилась.
+
+# Вычислительные мощности
+die Rechenleistung	вычислительная мощность
+die Grafikkarte	видеокарта
+die GPU	графический процессор (GPU)
+der Prozessor	процессор
+der Chip	чип
+der Arbeitsspeicher	оперативная память
+der Speicherplatz	место на диске
+das Rechenzentrum	дата-центр
+der Server	сервер
+der Rechencluster	вычислительный кластер
+der Supercomputer	суперкомпьютер
+die Cloud	облако
+die Rechenzeit	машинное время
+die Kühlung	охлаждение
+der Stromverbrauch	энергопотребление
+die Energieeffizienz	энергоэффективность
+parallel rechnen	вычислять параллельно
+die Parallelverarbeitung	параллельная обработка
+der Engpass	узкое место (дефицит)
+der Halbleiter	полупроводник
+die Hardware	аппаратное обеспечение
+die Abwärme	отходящее тепло
+Das Training läuft auf Hunderten von GPUs.	Обучение идёт на сотнях GPU.
+Grafikkarten sind gerade knapp und teuer.	Видеокарты сейчас в дефиците и дороги.
+Rechenzentren verbrauchen enorm viel Strom.	Дата-центры потребляют огромное количество энергии.
+Der Arbeitsspeicher reicht dafür nicht aus.	Оперативной памяти для этого не хватает.
+Wir mieten die Rechenleistung in der Cloud.	Мы арендуем вычислительные мощности в облаке.
+GPUs können viele Berechnungen parallel ausführen.	GPU могут выполнять много вычислений параллельно.
+Das kostet uns mehrere tausend Euro pro Monat.	Это обходится нам в несколько тысяч евро в месяц.
+Ohne Kühlung würden die Server überhitzen.	Без охлаждения серверы перегрелись бы.
+Die Rechenleistung ist der größte Kostenfaktor.	Вычисления — главная статья расходов.
+
+# Программная инфраструктура
+das Framework	фреймворк
+die Bibliothek	библиотека (программная)
+der Code	код
+das Skript	скрипт
+die Programmiersprache	язык программирования
+der Speicherbedarf	потребность в памяти
+die Batchgröße	размер батча
+die Stapelverarbeitung	пакетная обработка
+die Echtzeit	реальное время
+die Latenz	задержка (латентность)
+der Durchsatz	пропускная способность
+die Version	версия
+die Versionierung	версионирование
+reproduzierbar	воспроизводимый
+die Reproduzierbarkeit	воспроизводимость
+das Open-Source-Framework	фреймворк с открытым кодом
+Das Skript läuft die ganze Nacht.	Скрипт работает всю ночь.
+Die Ergebnisse müssen reproduzierbar sein.	Результаты должны быть воспроизводимы.
+Die Antwort kommt fast in Echtzeit.	Ответ приходит почти в реальном времени.
+Wir verringern die Batchgröße, sonst läuft der Speicher voll.	Уменьшаем батч, иначе переполнится память.
+Welche Version des Datensatzes hast du benutzt?	Какую версию датасета ты использовал?
+
+# Компьютерное зрение и сигналы
+das maschinelle Sehen	компьютерное зрение
+das Bild	изображение
+der Pixel	пиксель
+die Auflösung	разрешение
+die Objekterkennung	распознавание объектов
+die Segmentierung	сегментация
+der Sensor	датчик
+das Signal	сигнал
+die Audiodatei	аудиофайл
+das Video	видео
+die Kamera	камера
+das Einzelbild	кадр
+Die Kamera erkennt Fußgänger auf der Straße.	Камера распознаёт пешеходов на улице.
+Das Bild wird in Pixel zerlegt.	Изображение раскладывается на пиксели.
+Die Sensordaten kommen jede Sekunde.	Данные с датчиков поступают каждую секунду.
+Bei schlechtem Licht sinkt die Erkennungsrate.	При плохом освещении распознавание ухудшается.
+
+# Обработка текста
+die natürliche Sprachverarbeitung	обработка естественного языка
+das Token	токен
+die Tokenisierung	токенизация
+das Vokabular	словарь (модели)
+das Korpus	корпус текстов
+die Bedeutung	значение (смысл)
+ähnlich	похожий
+die Ähnlichkeit	сходство
+der Vektorraum	векторное пространство
+die Vektordatenbank	векторная база данных
+Wörter werden als Vektoren dargestellt.	Слова представляются в виде векторов.
+Ähnliche Wörter liegen im Vektorraum nah beieinander.	Похожие слова находятся рядом в пространстве.
+Der Text wird zuerst in Token zerlegt.	Сначала текст разбивается на токены.
+Das Korpus umfasst Milliarden von Wörtern.	Корпус охватывает миллиарды слов.
+
+# Работа с данными в компании
+die Datenstrategie	стратегия работы с данными
+der Datenbestand	массив данных
+der Datenschatz	ценный массив данных
+die Datenverfügbarkeit	доступность данных
+der Zugriff	доступ (к данным)
+die Zugriffsrechte (Pl.)	права доступа
+die Datenhaltung	хранение данных
+die Datensicherung	резервное копирование
+synthetische Daten	синтетические данные
+die Datenanreicherung	обогащение данных
+das Datensilo	изолированное хранилище данных
+der Datenverantwortliche	ответственный за данные
+datengetrieben	основанный на данных
+Wir sitzen auf einem riesigen Datenschatz.	У нас огромный массив ценных данных.
+Wer hat Zugriff auf diese Daten?	У кого есть доступ к этим данным?
+Fehlen echte Daten, nutzt man synthetische.	Если нет реальных данных, используют синтетические.
+Jede Abteilung hat ihr eigenes Datensilo.	У каждого отдела своё обособленное хранилище.
+Wir wollen ein datengetriebenes Unternehmen werden.	Мы хотим стать компанией, опирающейся на данные.
+
+# Анализ данных
+die Datenanalyse	анализ данных
+der Datenanalyst	аналитик данных
+analysieren	анализировать
+die Abfrage	запрос (к базе)
+filtern	фильтровать
+sortieren	сортировать
+gruppieren	группировать
+die Spaltenüberschrift	заголовок столбца
+der Datentyp	тип данных
+der Zahlenwert	числовое значение
+der Wertebereich	диапазон значений
+die Stichprobengröße	размер выборки
+der Zusammenhang	взаимосвязь
+der Rohwert	исходное значение
+Die Abfrage dauert mehrere Minuten.	Запрос выполняется несколько минут.
+Filtere bitte alle Einträge aus dem letzten Jahr.	Отфильтруй, пожалуйста, записи за прошлый год.
+Hier gibt es keinen erkennbaren Zusammenhang.	Здесь нет заметной взаимосвязи.
+Die Stichprobengröße ist zu klein.	Размер выборки слишком мал.
+
+# Мощность и масштаб моделей
+die Modellgröße	размер модели
+die Trainingskosten (Pl.)	стоимость обучения
+der Rechenaufwand	вычислительные затраты
+das Rechenbudget	вычислительный бюджет
+die Effizienzsteigerung	повышение эффективности
+die Komprimierung	сжатие
+die Quantisierung	квантизация
+kleiner und schneller	меньше и быстрее
+Größere Modelle brauchen exponentiell mehr Rechenleistung.	Большим моделям нужно экспоненциально больше вычислений.
+Durch Quantisierung passt das Modell auf einen Laptop.	Благодаря квантизации модель помещается на ноутбук.
+Das Training eines großen Modells kostet Millionen.	Обучение большой модели стоит миллионы.
+Mehr Daten bedeuten nicht automatisch bessere Ergebnisse.	Больше данных — не всегда лучше результат.
+
+# Нейросети: обучение
+der Lernprozess	процесс обучения
+der Fehlerwert	значение ошибки
+die Anzahl der Schichten	количество слоёв
+das Abbruchkriterium	критерий остановки
+der Ausgabewert	выходное значение
+der Eingabewert	входное значение
+das Training abbrechen	прерывать обучение
+die Gewichte initialisieren	инициализировать веса
+Das Netz lernt, indem es seine Fehler korrigiert.	Сеть учится, исправляя свои ошибки.
+Wir haben das Training nach zehn Stunden abgebrochen.	Мы прервали обучение через десять часов.
+Die Fehlerkurve sinkt langsam.	Кривая ошибки медленно снижается.
+
+# Хранение и форматы
+die Datei	файл
+der Ordner	папка
+das Dateiformat	формат файла
+die Speicherkapazität	ёмкость хранилища
+die Festplatte	жёсткий диск
+die SSD	твердотельный накопитель (SSD)
+das Terabyte	терабайт
+die Datenmigration	миграция данных
+die Übertragung	передача (данных)
+die Bandbreite	полоса пропускания
+der Speicherort	место хранения
+die Archivierung	архивирование
+die Metadaten (Pl.)	метаданные
+der Zeitstempel	временная метка
+die Kodierung	кодировка
+das Schema	схема (данных)
+der Eintrag	запись (в таблице)
+die Datenstruktur	структура данных
+die Datenlücke	пробел в данных
+der Datenfluss	поток данных
+Die Festplatte ist schon wieder voll.	Диск снова заполнен.
+Der Datensatz ist mehrere Terabyte groß.	Датасет занимает несколько терабайт.
+Bei der Kodierung sind die Umlaute kaputtgegangen.	При кодировании умляуты испортились.
+Jeder Eintrag hat einen Zeitstempel.	У каждой записи есть временная метка.
+Die Metadaten fehlen leider komplett.	Метаданных, к сожалению, нет совсем.
+Die Übertragung der Daten dauert Stunden.	Передача данных занимает часы.
+Wir müssen die Datenlücken schließen.	Нам нужно закрыть пробелы в данных.

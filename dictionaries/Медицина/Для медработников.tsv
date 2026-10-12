@@ -1,0 +1,307 @@
+# Анамнез
+die Anamnese	анамнез
+die Eigenanamnese	анамнез со слов пациента
+die Fremdanamnese	анамнез со слов родственников
+die Familienanamnese	семейный анамнез
+die Sozialanamnese	социальный анамнез
+die vegetative Anamnese	вегетативный анамнез (сон, аппетит, стул)
+die Medikamentenanamnese	лекарственный анамнез
+die Noxen	вредные привычки (ноксы)
+die Vorerkrankungen	перенесённые заболевания
+das Leitsymptom	ведущий симптом
+die Begleitsymptome	сопутствующие симптомы
+die Packungsjahre	пачка-лет
+Was führt Sie zu uns?	Что привело вас к нам?
+Können Sie die Schmerzen genauer beschreiben?	Опишите боль точнее, пожалуйста.
+Wann sind die Beschwerden zum ersten Mal aufgetreten?	Когда жалобы появились впервые?
+Gibt es etwas, das die Schmerzen lindert?	Есть ли что-то, что облегчает боль?
+Haben Sie Vorerkrankungen?	Были ли у вас раньше заболевания?
+Wurden Sie schon einmal operiert?	Вас когда-нибудь оперировали?
+Sind Allergien bekannt?	Известны ли аллергии?
+Rauchen Sie? Wenn ja, wie viel?	Курите? Если да, сколько?
+Wie viel Alkohol trinken Sie pro Woche?	Сколько алкоголя вы пьёте в неделю?
+Gibt es in Ihrer Familie Herz-Kreislauf-Erkrankungen?	Есть ли в семье сердечно-сосудистые болезни?
+Was machen Sie beruflich?	Кем вы работаете?
+Leben Sie allein?	Вы живёте один?
+Haben Sie ungewollt Gewicht verloren?	Вы непреднамеренно теряли вес?
+Wie ist Ihr Stuhlgang?	Как у вас со стулом?
+Hat sich beim Wasserlassen etwas verändert?	Изменилось ли что-то при мочеиспускании?
+Der Patient gibt an, seit zwei Tagen Fieber zu haben.	Пациент сообщает о лихорадке в течение двух дней.
+verneinen	отрицать (симптом)
+Fieber und Nachtschweiß werden verneint.	Лихорадку и ночной пот отрицает.
+die B-Symptomatik	B-симптомы
+# Общий статус
+der Allgemeinzustand	общее состояние
+der Ernährungszustand	состояние питания
+in reduziertem Allgemeinzustand	в сниженном общем состоянии
+wach und orientiert	в сознании, ориентирован
+zeitlich und örtlich orientiert	ориентирован во времени и месте
+die Vitalparameter	жизненные показатели
+die Sauerstoffsättigung	сатурация кислорода
+die Atemfrequenz	частота дыхания
+die Herzfrequenz	частота сердечных сокращений
+die Körpertemperatur	температура тела
+die Glasgow-Koma-Skala	шкала комы Глазго
+afebril	без температуры
+subfebril	субфебрильный
+kreislaufstabil	гемодинамически стабильный
+ansprechbar	доступен контакту
+# Физикальное обследование
+die körperliche Untersuchung	физикальное обследование
+die Inspektion	осмотр (инспекция)
+die Palpation	пальпация
+die Perkussion	перкуссия
+die Auskultation	аускультация
+das vesikuläre Atemgeräusch	везикулярное дыхание
+die Rasselgeräusche	хрипы
+das Herzgeräusch	шум в сердце
+der Druckschmerz	болезненность при пальпации
+der Loslassschmerz	боль при отпускании (Щёткин–Блюмберг)
+die Abwehrspannung	мышечная защита
+die Darmgeräusche	кишечные шумы
+der Meningismus	менингизм
+die Ödeme	отёки
+die Rekapillarisierungszeit	время наполнения капилляров
+Herztöne rein, rhythmisch.	Тоны сердца чистые, ритмичные.
+Abdomen weich, kein Druckschmerz.	Живот мягкий, безболезненный.
+Nierenlager beidseits klopfschmerzfrei.	Поколачивание по пояснице безболезненно с обеих сторон.
+Pupillen isokor, lichtreagibel.	Зрачки равные, реагируют на свет.
+Keine peripheren Ödeme.	Периферических отёков нет.
+Darf ich Sie kurz untersuchen?	Можно мне вас коротко осмотреть?
+# Латынь и немецкий: состояния
+akut	острый
+chronisch	хронический
+die Hypertonie	артериальная гипертензия
+die Hypotonie	гипотония
+die Tachykardie	тахикардия
+die Bradykardie	брадикардия
+die Dyspnoe	диспноэ
+die Synkope	синкопе (обморок)
+die Nausea	тошнота (Nausea)
+die Emesis	рвота (Emesis)
+die Diarrhö	диарея
+die Obstipation	запор (обстипация)
+der Ikterus	желтуха
+die Zyanose	цианоз
+die Anämie	анемия
+die Hämaturie	гематурия
+die Dysurie	дизурия
+die Polyurie	полиурия
+die Fraktur	перелом (Fraktur)
+die Kontusion	ушиб (контузия, лат. contusio)
+das Exanthem	экзантема
+die Exsikkose	эксикоз (обезвоживание)
+die Sepsis	сепсис
+die Metastase	метастаз
+# Латынь и немецкий: диагнозы
+die Appendizitis	аппендицит
+die Cholezystitis	холецистит
+die Pankreatitis	панкреатит
+die Pneumonie	пневмония
+der Myokardinfarkt	инфаркт миокарда
+der Apoplex	апоплексия (инсульт)
+die Lungenembolie	ТЭЛА (лёгочная эмболия)
+die Niereninsuffizienz	почечная недостаточность
+die Herzinsuffizienz	сердечная недостаточность
+das Vorhofflimmern	фибрилляция предсердий
+die tiefe Beinvenenthrombose	тромбоз глубоких вен ноги
+die Gastritis	гастрит
+die COPD	ХОБЛ
+der Diabetes mellitus Typ 2	сахарный диабет 2 типа
+die Divertikulitis	дивертикулит
+die Cholelithiasis	желчнокаменная болезнь
+die Nephrolithiasis	мочекаменная болезнь
+die Leberzirrhose	цирроз печени
+das Ulkus	язва
+die Hyperthyreose	гипертиреоз
+die Hypothyreose	гипотиреоз
+die Angina Pectoris	стенокардия
+die Demenz	деменция
+das Delir	делирий
+# Анатомические и общие термины
+kardial	кардиальный
+pulmonal	лёгочный
+abdominal	абдоминальный
+renal	почечный
+zerebral	церебральный
+proximal	проксимальный
+distal	дистальный
+lateral	латеральный
+medial	медиальный
+ventral	вентральный
+dorsal	дорсальный
+der Thorax	грудная клетка (Thorax)
+der Oberbauch	верхний отдел живота
+der Unterbauch	нижний отдел живота
+die Ätiologie	этиология
+die Pathogenese	патогенез
+idiopathisch	идиопатический
+benigne	доброкачественный (benigne)
+maligne	злокачественный (maligne)
+die Prognose	прогноз
+# Диагностика и диагноз
+die Verdachtsdiagnose	предварительный диагноз
+die Differenzialdiagnose	дифференциальный диагноз
+die Arbeitsdiagnose	рабочий диагноз
+die Hauptdiagnose	основной диагноз
+die Nebendiagnose	сопутствующий диагноз
+ausschließen	исключать
+bestätigen	подтверждать
+veranlassen	назначать (обследование)
+die apparative Diagnostik	инструментальная диагностика
+die Labordiagnostik	лабораторная диагностика
+der pathologische Befund	патологическая находка
+o. B. (ohne Befund)	без особенностей (б/о)
+der Zufallsbefund	случайная находка
+der Normwert	нормальное значение
+erniedrigt	снижен (о показателе)
+Differenzialdiagnostisch kommt eine Gastritis in Betracht.	В дифдиагнозе следует рассмотреть гастрит.
+Zum Ausschluss einer Fraktur veranlassen wir ein Röntgenbild.	Для исключения перелома назначаем рентген.
+Wir sollten ein Blutbild und das CRP bestimmen.	Нужно определить общий анализ крови и СРБ.
+Das CRP ist deutlich erhöht.	СРБ значительно повышен.
+Das Troponin ist negativ.	Тропонин отрицательный.
+Der Verdacht hat sich bestätigt.	Подозрение подтвердилось.
+# Терапия
+die Therapie	терапия (лечение)
+die konservative Therapie	консервативное лечение
+die operative Therapie	оперативное лечение
+die symptomatische Therapie	симптоматическое лечение
+die medikamentöse Therapie	медикаментозная терапия
+die Indikation	показание
+die Kontraindikation	противопоказание
+ansetzen	назначать (препарат)
+verordnen	прописывать
+die Medikation umstellen	изменить схему лечения
+intravenös (i. v.)	внутривенно
+intramuskulär (i. m.)	внутримышечно
+subkutan (s. c.)	подкожно
+oral (p. o.)	перорально
+die Infusionstherapie	инфузионная терапия
+die Bluttransfusion	переливание крови
+die Sauerstoffgabe	подача кислорода
+die Schmerztherapie	терапия боли
+die Antibiose	антибиотикотерапия
+die Ruhigstellung	иммобилизация
+die Thromboseprophylaxe	профилактика тромбоза
+die Dauermedikation	постоянная медикаментозная терапия
+Wir beginnen mit einer kalkulierten Antibiose.	Начинаем эмпирическую антибиотикотерапию.
+Das Bein wird im Gips ruhiggestellt.	Ногу иммобилизуют гипсом.
+Der Patient spricht gut auf die Therapie an.	Пациент хорошо отвечает на лечение.
+Wir sollten die Dosis anpassen.	Нам следует скорректировать дозу.
+# Сестринский уход
+die Pflege	сестринский уход
+die Grundpflege	базовый уход
+die Behandlungspflege	лечебный уход
+die Körperpflege	гигиена тела
+die Mobilisation	активизация пациента
+die Lagerung	позиционирование пациента
+den Patienten umlagern	переворачивать пациента
+der Dekubitus	пролежень
+die Dekubitusprophylaxe	профилактика пролежней
+die Sturzprophylaxe	профилактика падений
+die Pneumonieprophylaxe	профилактика пневмонии
+der Blasenkatheter	мочевой катетер
+die Magensonde	желудочный зонд
+die Flüssigkeitsbilanz	водный баланс
+die Inkontinenz	недержание
+das Inkontinenzmaterial	средства при недержании
+die Wundversorgung	обработка раны
+der Verbandswechsel	смена повязки
+die Pflegeplanung	планирование ухода
+der Pflegebericht	сестринский отчёт
+die Bettruhe	постельный режим
+die Übergabe	передача смены
+der Nachtdienst	ночное дежурство
+Ich übernehme jetzt die Patientin in Zimmer 5.	Я принимаю пациентку из палаты 5.
+Bitte klingeln Sie, bevor Sie aufstehen.	Позвоните, прежде чем вставать.
+Ich helfe Ihnen beim Waschen.	Я помогу вам помыться.
+Wir müssen Sie alle zwei Stunden umlagern.	Нужно менять ваше положение каждые два часа.
+Die Patientin ist sturzgefährdet.	У пациентки высокий риск падения.
+Die Patientin ist bettlägerig.	Пациентка лежачая.
+# Обход (Visite)
+die Oberarztvisite	обход старшего врача
+die Chefarztvisite	обход заведующего
+Wie war die Nacht?	Как прошла ночь?
+Haben Sie noch Schmerzen?	У вас ещё есть боли?
+Die Werte haben sich gebessert.	Показатели улучшились.
+Wir können den Zugang ziehen.	Можно удалить катетер.
+Wir reduzieren die Schmerzmittel.	Снижаем дозу обезболивающих.
+Wir planen die Entlassung für Freitag.	Выписку планируем на пятницу.
+Der Patient ist kreislaufstabil und afebril.	Пациент стабилен, температуры нет.
+Die Wunde ist reizlos.	Рана без признаков воспаления.
+Der Patient wurde heute erstmals mobilisiert.	Пациента сегодня впервые подняли с постели.
+das Procedere	дальнейшая тактика
+Das weitere Procedere besprechen wir morgen.	Дальнейшие шаги обсудим завтра.
+# Документация
+die Dokumentation	документация
+der Arztbrief	врачебное письмо (эпикриз)
+der Aufnahmebefund	статус при поступлении
+der Verlauf	течение (болезни)
+die Fieberkurve	температурный лист
+die Patientenakte	медицинская карта пациента
+der OP-Bericht	протокол операции
+die ärztliche Anordnung	врачебное назначение
+die Bedarfsmedikation	лекарства по требованию
+der ICD-Code	код МКБ
+die Aufklärung	информирование пациента
+das Konsil	консультация смежного специалиста
+die Konsilanforderung	запрос на консультацию
+Der Patient wurde über die Risiken aufgeklärt.	Пациент проинформирован о рисках.
+Der weitere Verlauf war komplikationslos.	Дальнейшее течение без осложнений.
+Wir bitten um Übernahme des Patienten.	Просим принять пациента.
+Wir entlassen den Patienten in die hausärztliche Weiterbehandlung.	Выписываем пациента под наблюдение терапевта.
+Mit freundlichen kollegialen Grüßen	С коллегиальным приветом
+# Беседа врача с пациентом
+die Fachsprachprüfung	экзамен по проф. языку для врачей
+die Approbation	лицензия на врачебную деятельность
+die Berufserlaubnis	временное разрешение на работу врачом
+das Arzt-Patienten-Gespräch	беседа врача с пациентом
+die Laiensprache	язык, понятный неспециалисту
+die Fachsprache	профессиональный язык
+Ich bin Frau Dr. Petrova, die Stationsärztin.	Я доктор Петрова, врач отделения.
+Ich möchte Ihnen ein paar Fragen stellen.	Я хочу задать вам несколько вопросов.
+Ich erkläre Ihnen kurz, was wir jetzt machen.	Коротко объясню, что мы сейчас будем делать.
+Haben Sie das so weit verstanden?	Пока всё понятно?
+Haben Sie noch Fragen?	У вас ещё остались вопросы?
+Ich verstehe, dass Sie sich Sorgen machen.	Я понимаю, что вы беспокоитесь.
+Leider habe ich keine guten Nachrichten.	К сожалению, у меня нехорошие новости.
+Wir werden alles tun, um Ihnen zu helfen.	Мы сделаем всё, чтобы вам помочь.
+Es handelt sich um eine Entzündung der Gallenblase.	Речь идёт о воспалении желчного пузыря.
+Wir müssen Sie stationär aufnehmen.	Мы должны вас госпитализировать.
+Ohne Behandlung kann es zu Komplikationen kommen.	Без лечения возможны осложнения.
+Sie müssen sich nicht sofort entscheiden.	Вам не нужно решать прямо сейчас.
+# Разговор врача с врачом
+die Fallvorstellung	представление клинического случая
+Ich möchte Ihnen kurz eine Patientin vorstellen.	Хочу кратко представить вам пациентку.
+Es handelt sich um einen 67-jährigen Patienten.	Речь идёт о пациенте 67 лет.
+Der Patient stellte sich mit akuten Thoraxschmerzen vor.	Пациент обратился с острой болью в груди.
+An Vorerkrankungen sind ein Diabetes und eine Hypertonie bekannt.	Из анамнеза известны диабет и гипертензия.
+Er nimmt dauerhaft Metformin und Ramipril ein.	Постоянно принимает метформин и рамиприл.
+Bei der Untersuchung zeigte sich ein Druckschmerz im rechten Oberbauch.	При осмотре — болезненность в правом подреберье.
+Laborchemisch zeigten sich erhöhte Entzündungswerte.	Лабораторно — повышенные маркеры воспаления.
+Ich würde gern Ihre Meinung dazu hören.	Хотел бы услышать ваше мнение.
+Was schlagen Sie vor?	Что вы предлагаете?
+Ich würde eine Sonografie des Abdomens empfehlen.	Я бы рекомендовал УЗИ брюшной полости.
+Sollten wir die Chirurgen hinzuziehen?	Не привлечь ли хирургов?
+# Неотложные состояния
+die Reanimation	реанимационные мероприятия
+der Kreislaufstillstand	остановка кровообращения
+die Herzdruckmassage	непрямой массаж сердца
+die Intubation	интубация
+der Defibrillator	дефибриллятор
+der Schock	шок
+die Bewusstlosigkeit	бессознательное состояние
+der anaphylaktische Schock	анафилактический шок
+die Hypoglykämie	гипогликемия
+der Krampfanfall	судорожный приступ
+der Blutverlust	кровопотеря
+die Sauerstoffmaske	кислородная маска
+Sofort ein 12-Kanal-EKG schreiben!	Срочно снять ЭКГ в 12 отведениях!
+Rufen Sie den Oberarzt!	Позовите старшего врача!
+Bitte legen Sie einen venösen Zugang.	Пожалуйста, поставьте венозный катетер.
+das akute Abdomen	острый живот
+das Polytrauma	политравма
+die Atemwege freimachen	освободить дыхательные пути
+Der Patient reagiert nicht mehr!	Пациент перестал реагировать!
+Wir müssen sofort intubieren.	Нужно срочно интубировать.
+Ein Milligramm Adrenalin i. v.!	Один миллиграмм адреналина внутривенно!

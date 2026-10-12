@@ -1,0 +1,330 @@
+# Счёт и банк
+das Girokonto	текущий (расчётный) счёт
+das Sparkonto	сберегательный счёт
+das Tagesgeldkonto	накопительный счёт до востребования
+das Festgeldkonto	срочный депозит
+das Gemeinschaftskonto	совместный счёт
+das Basiskonto	базовый счёт (доступен всем)
+die Bank	банк
+die Sparkasse	сберегательная касса (Sparkasse)
+die Direktbank	онлайн-банк без отделений
+die Filiale	отделение банка
+der Kontoinhaber	владелец счёта
+die Kontonummer	номер счёта
+die IBAN	IBAN (международный номер счёта)
+die BIC	BIC (международный код банка)
+die Bankleitzahl	банковский код (BLZ)
+der Kontoauszug	выписка по счёту
+der Kontostand	остаток на счёте
+das Guthaben	деньги на счёте (положительный баланс)
+die Kontoführungsgebühr	плата за обслуживание счёта
+das kostenlose Girokonto	бесплатный текущий счёт
+ein Konto eröffnen	открыть счёт
+ein Konto kündigen	расторгнуть договор счёта
+ein Konto auflösen	закрыть (ликвидировать) счёт
+die Bank wechseln	сменить банк
+der Kontowechselservice	услуга переноса счёта
+die Bankverbindung	банковские реквизиты
+Ich möchte ein Girokonto eröffnen.	Я хочу открыть текущий счёт.
+Welche Unterlagen brauche ich dafür?	Какие документы мне для этого нужны?
+Bitte bringen Sie Ihren Reisepass und die Meldebescheinigung mit.	Принесите паспорт и справку о регистрации.
+Wie hoch sind die Kontoführungsgebühren?	Сколько стоит обслуживание счёта?
+Das Konto ist für Studierende kostenlos.	Для студентов счёт бесплатный.
+Mein Konto ist im Minus.	У меня минус на счёте.
+Den Kontoauszug können Sie im Online-Banking herunterladen.	Выписку можно скачать в онлайн-банке.
+Können Sie mir Ihre Bankverbindung schicken?	Пришлёте мне свои банковские реквизиты?
+
+# Переводы
+die Überweisung	банковский перевод
+die Echtzeitüberweisung	мгновенный перевод
+die Auslandsüberweisung	международный перевод
+der Dauerauftrag	постоянное поручение
+der Überweisungsträger	бланк перевода
+der Empfänger	получатель
+der Absender	отправитель
+der Verwendungszweck	назначение платежа
+der Betrag	сумма
+die Gutschrift	зачисление на счёт
+die Belastung	списание со счёта
+die Buchung	проводка (операция по счёту)
+der Zahlungseingang	поступление платежа
+die Wertstellung	дата валютирования
+überweisen	переводить (безналично)
+einen Dauerauftrag einrichten	настроить постоянное поручение
+einen Dauerauftrag löschen	удалить постоянное поручение
+eine Überweisung stornieren	отменить перевод
+Geld zurückbuchen	вернуть деньги обратной проводкой
+Die Überweisung dauert ein bis zwei Werktage.	Перевод идёт один-два рабочих дня.
+Bitte geben Sie die Rechnungsnummer als Verwendungszweck an.	Укажите номер счёта в назначении платежа.
+Das Geld ist noch nicht eingegangen.	Деньги ещё не поступили.
+Ich habe Ihnen das Geld gestern überwiesen.	Я перевёл вам деньги вчера.
+Die Miete zahle ich per Dauerauftrag.	Аренду я плачу постоянным поручением.
+Ich habe mich bei der IBAN vertippt.	Я опечатался в IBAN.
+Das Geld ist an den falschen Empfänger gegangen.	Деньги ушли не тому получателю.
+
+# Прямое списание
+die Lastschrift	прямое дебетование (списание)
+das Lastschriftverfahren	порядок прямого дебетования
+das SEPA-Lastschriftmandat	мандат SEPA на списание
+die Einzugsermächtigung	разрешение на списание (устар.)
+die Gläubiger-ID	идентификатор кредитора
+die Rücklastschrift	возврат списания
+die Rücklastschriftgebühr	комиссия за возврат списания
+abbuchen	списывать (со счёта)
+einziehen	взыскивать (через списание)
+eine Lastschrift widerrufen	отозвать списание
+nicht gedeckt sein	не иметь покрытия (о счёте)
+Der Betrag wird von Ihrem Konto abgebucht.	Сумма будет списана с вашего счёта.
+Eine Lastschrift kann man innerhalb von acht Wochen zurückbuchen lassen.	Списание можно вернуть в течение восьми недель.
+Der Beitrag wird monatlich per Lastschrift eingezogen.	Взнос списывается ежемесячно.
+Die Lastschrift ist geplatzt, weil das Konto nicht gedeckt war.	Списание не прошло: на счёте не хватило денег.
+
+# Карты и наличные
+die Girocard	карта Girocard (немецкая дебетовая)
+die Debitkarte	дебетовая карта
+die Kreditkarte	кредитная карта
+die Prepaid-Kreditkarte	предоплаченная кредитная карта
+die PIN	ПИН-код
+die Kartennummer	номер карты
+das Ablaufdatum	срок действия карты
+die Prüfnummer	код проверки (CVC)
+das Kartenlimit	лимит по карте
+die Kartensperre	блокировка карты
+der Sperr-Notruf	экстренный номер блокировки
+die Karte sperren lassen	заблокировать карту
+kontaktlos bezahlen	платить бесконтактно
+mit Karte zahlen	платить картой
+bar zahlen	платить наличными
+der Geldautomat	банкомат
+Geld abheben	снять деньги
+Geld einzahlen	внести деньги
+die Abhebung	снятие наличных
+das Bargeld	наличные
+das Kleingeld	мелочь
+der Geldschein	банкнота
+die Münze	монета
+die Gebühr für Fremdabhebungen	комиссия за снятие в чужом банкомате
+der Auslandseinsatz	использование карты за границей
+Kann ich hier mit Karte zahlen?	Здесь можно оплатить картой?
+Nur Barzahlung, tut mir leid.	Только наличные, извините.
+Der Automat hat meine Karte eingezogen.	Банкомат проглотил мою карту.
+Meine Karte ist gestohlen worden.	У меня украли карту.
+Ich habe meine PIN vergessen.	Я забыл ПИН-код.
+Die PIN wurde dreimal falsch eingegeben.	ПИН-код трижды введён неверно.
+Die Zahlung wurde abgelehnt.	Платёж отклонён.
+Bitte stecken Sie Ihre Karte ein.	Вставьте, пожалуйста, карту.
+Bitte halten Sie die Karte an das Terminal.	Приложите карту к терминалу.
+Kann ich auch mit dem Handy bezahlen?	Можно оплатить телефоном?
+
+# Онлайн-банкинг
+das Online-Banking	онлайн-банкинг
+das Mobile Banking	мобильный банкинг
+die Banking-App	банковское приложение
+die Zugangsdaten	данные для входа
+der Anmeldename	логин
+das Passwort	пароль
+die TAN	TAN (одноразовый код)
+das TAN-Verfahren	способ получения TAN
+die pushTAN	pushTAN (код в приложении)
+die Zwei-Faktor-Authentifizierung	двухфакторная аутентификация
+die Freigabe	подтверждение (операции)
+sich einloggen	войти в систему
+sich ausloggen	выйти из системы
+eine Zahlung freigeben	подтвердить платёж
+das Online-Banking freischalten	активировать онлайн-банкинг
+die Phishing-Mail	фишинговое письмо
+der Betrug	мошенничество
+die Umsätze	операции по счёту (обороты)
+die Umsatzanzeige	просмотр операций
+Ich komme nicht mehr ins Online-Banking.	Я не могу войти в онлайн-банк.
+Mein Zugang wurde nach drei Fehlversuchen gesperrt.	Доступ заблокирован после трёх неудачных попыток.
+Ihre Bank fragt niemals per E-Mail nach Ihrer PIN.	Банк никогда не спрашивает ПИН по почте.
+Bitte bestätigen Sie die Überweisung in der App.	Подтвердите перевод в приложении.
+Ich habe eine verdächtige Abbuchung entdeckt.	Я обнаружил подозрительное списание.
+Ich habe ein neues Handy und muss die App neu einrichten.	У меня новый телефон, надо заново настроить приложение.
+
+# Кредит и долги
+der Kredit	кредит
+der Ratenkredit	потребительский кредит в рассрочку
+der Dispokredit	овердрафт (кредитная линия)
+das Darlehen	заём
+die Baufinanzierung	ипотечное финансирование
+der Kreditrahmen	кредитный лимит
+die Rate	взнос (по кредиту)
+die monatliche Rate	ежемесячный платёж
+die Laufzeit	срок (кредита)
+die Tilgung	погашение долга
+die Sondertilgung	досрочное частичное погашение
+die Restschuld	остаток долга
+die Schulden	долги
+der Schuldner	должник
+der Gläubiger	кредитор
+die Bonität	кредитоспособность
+die Sicherheit	залог (обеспечение кредита)
+der Bürge	поручитель
+einen Kredit aufnehmen	взять кредит
+einen Kredit beantragen	подать заявку на кредит
+einen Kredit abbezahlen	выплатить кредит
+einen Kredit umschulden	рефинансировать кредит
+in Raten zahlen	платить в рассрочку
+das Konto überziehen	уйти в овердрафт
+sich Geld leihen	взять в долг
+jemandem Geld leihen	одолжить кому-то денег
+Schulden machen	влезать в долги
+die Schuldnerberatung	консультация для должников
+die Mahnung	напоминание об оплате
+das Inkassobüro	коллекторское агентство
+die Privatinsolvenz	личное банкротство
+die Pfändung	арест имущества (взыскание)
+das Pfändungsschutzkonto	защищённый от ареста счёт (P-Konto)
+Ich möchte einen Kredit über 10.000 Euro aufnehmen.	Я хочу взять кредит на 10 000 евро.
+Wie hoch wäre die monatliche Rate?	Каким был бы ежемесячный платёж?
+Ich kann die Rate diesen Monat nicht zahlen.	В этом месяце я не могу внести платёж.
+Die Zinsen für den Dispo sind sehr hoch.	Проценты по овердрафту очень высокие.
+
+# Проценты
+die Zinsen	проценты
+der Zinssatz	процентная ставка
+der Sollzins	ставка по кредиту
+der effektive Jahreszins	эффективная годовая ставка
+der Guthabenzins	процент на остаток
+der Leitzins	ключевая ставка
+der Zinseszins	сложный процент
+der feste Zinssatz	фиксированная ставка
+variabel	переменный (о ставке)
+die Zinsbindung	срок фиксации ставки
+Zinsen zahlen	платить проценты
+Zinsen bekommen	получать проценты
+Die Zinsen sind gestiegen.	Проценты выросли.
+Für Tagesgeld gibt es momentan zwei Prozent.	За вклад до востребования сейчас дают два процента.
+Wie lange ist der Zinssatz festgeschrieben?	На какой срок зафиксирована ставка?
+
+# Сбережения и инвестиции
+sparen	копить (экономить)
+Geld zurücklegen	откладывать деньги
+die Ersparnisse	сбережения
+der Notgroschen	заначка на чёрный день
+der Sparplan	план регулярных накоплений
+das Depot	брокерский счёт (депо)
+die Aktie	акция
+der Fonds	инвестиционный фонд
+der ETF	ETF (биржевой фонд)
+die Rendite	доходность
+das Risiko	риск
+die Dividende	дивиденд
+die Inflation	инфляция
+die Einlagensicherung	страхование вкладов
+Geld anlegen	инвестировать деньги
+der Freistellungsauftrag	заявка на освобождение процентов от налога
+Ich lege jeden Monat 200 Euro zur Seite.	Каждый месяц я откладываю 200 евро.
+Wir sparen auf ein Auto.	Мы копим на машину.
+Einlagen sind bis 100.000 Euro gesichert.	Вклады застрахованы до 100 000 евро.
+Mit Aktien kann man auch Geld verlieren.	На акциях можно и потерять деньги.
+
+# Бюджет и расходы
+das Einkommen	доход
+das Gehalt	зарплата (оклад)
+die Ausgaben	расходы
+die Einnahmen	поступления (доходы)
+das Haushaltsbuch	книга учёта домашних расходов
+die Fixkosten	постоянные расходы
+die Rechnung	счёт (к оплате)
+die Quittung	квитанция
+der Kassenbon	кассовый чек
+die Anzahlung	предоплата
+die Kaution	залог за квартиру
+das Trinkgeld	чаевые
+pleite sein	быть на мели
+knapp bei Kasse sein	сидеть без денег
+Das kann ich mir nicht leisten.	Я не могу себе этого позволить.
+Am Monatsende wird das Geld knapp.	К концу месяца денег не хватает.
+Ich muss meine Ausgaben besser im Blick behalten.	Мне нужно лучше следить за расходами.
+
+# Валюта
+die Währung	валюта
+der Wechselkurs	обменный курс
+Geld wechseln	обменять деньги
+die Wechselstube	обменный пункт
+die Fremdwährung	иностранная валюта
+Wie ist der Wechselkurs heute?	Какой сегодня курс?
+Ich möchte Euro in Dollar umtauschen.	Я хочу обменять евро на доллары.
+Fallen im Ausland Gebühren an?	Есть ли комиссии за границей?
+
+# Шуфа
+die Schufa	Шуфа (кредитное бюро)
+die Schufa-Auskunft	выписка из Шуфы
+der Schufa-Score	скоринговый балл Шуфы
+der Schufa-Eintrag	запись в Шуфе
+die Selbstauskunft	бесплатная справка о себе
+Der Vermieter verlangt eine Schufa-Auskunft.	Арендодатель требует выписку из Шуфы.
+Ich habe einen negativen Schufa-Eintrag.	У меня негативная запись в Шуфе.
+Eine kostenlose Selbstauskunft kann man einmal im Jahr anfordern.	Бесплатную справку можно запросить раз в год.
+Wie lange bleibt der Eintrag gespeichert?	Сколько хранится эта запись?
+Unbezahlte Rechnungen können zu einem Schufa-Eintrag führen.	Неоплаченные счета могут попасть в Шуфу.
+
+# Разговор с консультантом
+die Bankberatung	консультация в банке
+der Bankberater	банковский консультант
+der Beratungstermin	запись на консультацию
+die Legitimation	подтверждение личности
+das Videoident-Verfahren	идентификация по видео
+die Unterschrift	подпись
+der Vertrag	договор
+das Kleingedruckte	мелкий шрифт (условия)
+die Vollmacht	доверенность
+Ich hätte gern einen Beratungstermin.	Я хотел бы записаться на консультацию.
+Was kann ich für Sie tun?	Чем могу вам помочь?
+Haben Sie Ihren Ausweis dabei?	У вас есть с собой удостоверение?
+Welches Kontomodell empfehlen Sie mir?	Какой тариф счёта вы мне посоветуете?
+Gibt es versteckte Kosten?	Есть ли скрытые расходы?
+Was passiert, wenn ich mit den Raten in Verzug komme?	Что будет, если я просрочу платежи?
+Kann ich den Kredit vorzeitig zurückzahlen?	Могу я досрочно погасить кредит?
+Ich muss mir das noch überlegen.	Мне нужно ещё подумать.
+Können Sie mir das Angebot schriftlich geben?	Дадите мне предложение в письменном виде?
+Bitte unterschreiben Sie hier.	Подпишите, пожалуйста, здесь.
+Die Karte kommt in etwa einer Woche per Post.	Карта придёт по почте примерно через неделю.
+Die PIN schicken wir Ihnen separat zu.	ПИН-код мы вышлем отдельно.
+Ich möchte mein Limit erhöhen.	Я хочу повысить лимит.
+Wo ist der nächste Geldautomat?	Где ближайший банкомат?
+Ich möchte eine Beschwerde einreichen.	Я хочу подать жалобу.
+Ich ziehe um und möchte meine Adresse ändern.	Я переезжаю и хочу сменить адрес.
+Meine Frau soll eine Kontovollmacht bekommen.	Пусть жена получит доверенность на счёт.
+
+# Оплата покупок и счетов
+die Zahlungsart	способ оплаты
+die Zahlung auf Rechnung	оплата по счёту (после получения)
+die Vorkasse	оплата вперёд
+der Online-Bezahldienst	онлайн-сервис оплаты
+die Rückerstattung	возврат денег покупателю
+der Kaufbeleg	документ о покупке
+die Zahlungsfrist	срок оплаты
+zahlungsunfähig	неплатёжеспособный
+begleichen	погашать (счёт)
+Ich habe doppelt bezahlt.	Я заплатил дважды.
+Wann wird mir das Geld erstattet?	Когда мне возместят сумму?
+Die Abbuchung erscheint erst morgen auf dem Konto.	Списание отразится на счёте только завтра.
+Die Zahlung ist noch in Bearbeitung.	Платёж ещё обрабатывается.
+Bitte zahlen Sie den offenen Betrag bis zum 15. Mai.	Оплатите остаток до 15 мая.
+Sie können per Überweisung oder PayPal zahlen.	Можно оплатить переводом или через PayPal.
+Die Rechnung ist schon bezahlt.	Счёт уже оплачен.
+Ich habe die Rechnung noch nicht beglichen.	Я ещё не оплатил счёт.
+
+# Деньги в быту
+das Taschengeld	карманные деньги
+das Kinderkonto	детский счёт
+das Wechselgeld	сдача
+das Vermögen	состояние (имущество)
+der Geldbeutel	кошелёк
+reich	богатый
+arm	бедный
+jemandem Geld schulden	быть кому-то должным
+die Rechnung teilen	разделить счёт
+Ich schulde dir noch zwanzig Euro.	Я тебе ещё должен двадцать евро.
+Kannst du mir bis Freitag Geld leihen?	Можешь одолжить мне денег до пятницы?
+Ich schicke dir das Geld per PayPal.	Я пришлю тебе деньги через PayPal.
+Lass uns die Rechnung teilen.	Давай разделим счёт.
+Das geht auf mich.	Я угощаю.
+Zusammen oder getrennt?	Платите вместе или раздельно?
+Stimmt so.	Сдачи не надо.
+Können Sie mir einen Fünfziger wechseln?	Разменяете мне пятьдесят евро?
+Das Geld reicht nicht für die Miete.	На аренду денег не хватит.

@@ -1,0 +1,330 @@
+# Основные величины
+die Spannung	напряжение (электрическое)
+der Strom	ток
+die Stromstärke	сила тока
+der Widerstand	сопротивление
+die elektrische Leistung	электрическая мощность
+die Energie	энергия
+die Frequenz	частота
+die Ladung	заряд
+die Kapazität	ёмкость
+die Induktivität	индуктивность
+die Impedanz	полное сопротивление (импеданс)
+das Volt	вольт
+das Ampere	ампер
+das Ohm	ом
+das Watt	ватт
+das Hertz	герц
+die Gleichspannung	постоянное напряжение
+die Wechselspannung	переменное напряжение
+der Gleichstrom	постоянный ток
+der Wechselstrom	переменный ток
+der Drehstrom	трёхфазный ток
+die Netzspannung	напряжение сети
+die Nennspannung	номинальное напряжение
+der Nennstrom	номинальный ток
+das ohmsche Gesetz	закон Ома
+der Spannungsabfall	падение напряжения
+die Phase	фаза
+der Neutralleiter	нейтральный проводник
+die Masse	общий провод (масса)
+das Potenzial	потенциал
+Die Spannung bricht unter Last ein.	Под нагрузкой напряжение проседает.
+Wie viel Strom zieht die Schaltung?	Какой ток потребляет схема?
+Am Widerstand fallen zwei Volt ab.	На резисторе падает два вольта.
+Wir arbeiten hier mit 24 Volt Gleichspannung.	У нас здесь 24 вольта постоянного тока.
+# Электронные компоненты
+das Bauelement	электронный компонент
+der Festwiderstand	постоянный резистор
+der Kondensator	конденсатор
+der Elektrolytkondensator	электролитический конденсатор
+die Spule	катушка индуктивности
+die Diode	диод
+die Leuchtdiode	светодиод
+die Zenerdiode	стабилитрон
+der Transistor	транзистор
+der MOSFET	полевой транзистор (MOSFET)
+der Operationsverstärker	операционный усилитель
+der Mikrocontroller	микроконтроллер
+der integrierte Schaltkreis	интегральная микросхема
+der Spannungsregler	стабилизатор напряжения
+der Quarz	кварцевый резонатор
+das Relais	реле
+der Schalter	выключатель
+der Taster	кнопка (без фиксации)
+das Potentiometer	потенциометр
+der Transformator	трансформатор
+das Netzteil	блок питания
+die Batterie	батарейка
+der Akku	аккумулятор
+das Datenblatt	техническое описание (даташит)
+die Bauform	типоразмер (корпус компонента)
+Laut Datenblatt verträgt der Kondensator nur 16 Volt.	По даташиту конденсатор выдерживает только 16 вольт.
+Der Transistor wird zu heiß, wir brauchen einen Kühlkörper.	Транзистор перегревается, нужен радиатор.
+Das Relais klackt, schaltet aber nicht durch.	Реле щёлкает, но не замыкает.
+Ist das Bauteil noch lieferbar?	Этот компонент ещё можно купить?
+Die Diode ist falsch herum eingelötet.	Диод впаян не той стороной.
+# Схемы и печатные платы
+die Schaltung	схема (электрическая цепь)
+der Schaltplan	принципиальная схема
+der Stromkreis	электрическая цепь
+die Reihenschaltung	последовательное соединение
+die Parallelschaltung	параллельное соединение
+der Kurzschluss	короткое замыкание
+die Unterbrechung	обрыв цепи
+die Platine	печатная плата
+das Leiterplattenlayout	разводка печатной платы
+die Leiterbahn	дорожка (на плате)
+die Lötstelle	место пайки
+löten	паять
+der Lötkolben	паяльник
+das Lötzinn	припой
+die Durchkontaktierung	переходное отверстие (via)
+die SMD-Bestückung	поверхностный монтаж (SMD)
+bestücken	монтировать компоненты на плату
+die Lage	слой (платы)
+der Steckverbinder	разъём
+die Stiftleiste	штыревой разъём
+der Prüfpunkt	контрольная точка
+die kalte Lötstelle	непропай
+Auf der Platine ist eine Leiterbahn unterbrochen.	На плате оборвана дорожка.
+Das sieht nach einer kalten Lötstelle aus.	Похоже на непропай.
+Schick mir bitte den aktuellen Schaltplan.	Пришли, пожалуйста, актуальную схему.
+Die Platine hat vier Lagen.	У платы четыре слоя.
+Hier haben wir einen Kurzschluss gegen Masse.	Здесь короткое замыкание на массу.
+Die Leiterbahn ist für diesen Strom zu schmal.	Дорожка слишком узкая для такого тока.
+# Провода и подключение
+das Kabel	кабель
+die Ader	жила (кабеля)
+die Litze	многопроволочный провод
+der Querschnitt	сечение провода
+die Isolierung	изоляция
+abisolieren	зачищать изоляцию
+die Aderendhülse	втулочный наконечник
+crimpen	обжимать (наконечник)
+die Klemme	клемма
+die Reihenklemme	клеммник на DIN-рейку
+die Hutschiene	DIN-рейка
+der Schaltschrank	электрошкаф
+die Verdrahtung	проводной монтаж
+der Stecker	вилка (штекер)
+die Steckdose	розетка
+die Anschlussbuchse	гнездо разъёма
+die Abschirmung	экранирование
+die Verlängerung	удлинитель
+Die Ader ist nicht richtig in der Klemme.	Жила плохо зажата в клемме.
+Welcher Querschnitt ist hier vorgeschrieben?	Какое сечение здесь требуется?
+Der Schaltschrank ist fertig verdrahtet.	Монтаж электрошкафа закончен.
+Bitte die Kabel beschriften.	Промаркируйте, пожалуйста, кабели.
+# Измерительные приборы
+das Messgerät	измерительный прибор
+das Multimeter	мультиметр
+das Oszilloskop	осциллограф
+der Tastkopf	щуп осциллографа
+die Strommesszange	токоизмерительные клещи
+der Spannungsprüfer	указатель напряжения
+das Labornetzteil	лабораторный блок питания
+der Funktionsgenerator	генератор сигналов
+der Messbereich	диапазон измерения
+die Messabweichung	погрешность измерения
+der Messwert	измеренное значение
+messen	измерять
+die Spannung messen	измерить напряжение
+den Widerstand messen	измерить сопротивление
+den Durchgang prüfen	прозвонить цепь
+das Signal	сигнал
+die Amplitude	амплитуда
+die Flanke	фронт сигнала
+das Rauschen	шум (в сигнале)
+die Störung	помеха
+kalibrieren	калибровать
+Das Multimeter zeigt null Volt an.	Мультиметр показывает ноль вольт.
+Häng mal das Oszi dran.	Подключи-ка осциллограф.
+Das Signal ist stark verrauscht.	Сигнал сильно зашумлён.
+Miss bitte nach, ob Spannung anliegt.	Проверь, пожалуйста, есть ли напряжение.
+Das Messgerät ist nicht mehr kalibriert.	Срок калибровки прибора истёк.
+Der Messbereich ist falsch eingestellt.	Диапазон измерения выставлен неправильно.
+# Датчики и исполнительные устройства
+der Sensor	датчик
+der Temperatursensor	датчик температуры
+der Drucksensor	датчик давления
+der Näherungsschalter	бесконтактный выключатель
+der induktive Sensor	индуктивный датчик
+die Lichtschranke	световой барьер
+der Endschalter	концевой выключатель
+der Drehgeber	энкодер
+der Beschleunigungssensor	акселерометр
+der Aktor	исполнительное устройство
+das Magnetventil	электромагнитный клапан
+der Schrittmotor	шаговый двигатель
+der Servomotor	серводвигатель
+das Analogsignal	аналоговый сигнал
+das Digitalsignal	цифровой сигнал
+Der Sensor liefert falsche Werte.	Датчик выдаёт неверные значения.
+Der Endschalter wird nicht erkannt.	Концевой выключатель не распознаётся.
+Der Sensor muss neu justiert werden.	Датчик надо заново отъюстировать.
+Die Lichtschranke ist verschmutzt.	Световой барьер загрязнён.
+# Управление и автоматизация
+die Steuerung	система управления
+die Regelung	регулирование
+der Regler	регулятор
+der Sollwert	заданное значение
+der Istwert	фактическое значение
+die Regelabweichung	рассогласование
+der Regelkreis	контур регулирования
+die SPS	ПЛК (программируемый контроллер)
+das Programm aufspielen	загрузить программу
+der Eingang	вход
+der Ausgang	выход
+der Frequenzumrichter	частотный преобразователь
+das Bussystem	промышленная шина
+die Visualisierung	визуализация (HMI)
+das Bedienfeld	панель управления
+die Automatisierung	автоматизация
+die Inbetriebnahme	пусконаладка
+Die SPS geht in Störung.	ПЛК уходит в ошибку.
+Der Regler schwingt.	Регулятор раскачивается.
+Ich muss die Parameter am Umrichter anpassen.	Мне надо поменять параметры преобразователя.
+Die Inbetriebnahme ist nächste Woche beim Kunden.	Пусконаладка — на следующей неделе у заказчика.
+Der Ausgang wird nicht gesetzt.	Выход не включается.
+# Двигатели и энергетика
+der Elektromotor	электродвигатель
+der Drehstrommotor	трёхфазный двигатель
+der Gleichstrommotor	двигатель постоянного тока
+der Generator	генератор
+der Wechselrichter	инвертор
+der Gleichrichter	выпрямитель
+das Stromnetz	электросеть
+die Photovoltaikanlage	солнечная электростанция
+der Stromverbrauch	энергопотребление
+die Blindleistung	реактивная мощность
+die Wirkleistung	активная мощность
+der Anlaufstrom	пусковой ток
+die Überlast	перегрузка
+die Wicklung	обмотка
+Der Motor brummt, läuft aber nicht an.	Двигатель гудит, но не запускается.
+Die Wicklung ist durchgebrannt.	Обмотка сгорела.
+Der Anlaufstrom löst die Sicherung aus.	Пусковой ток выбивает предохранитель.
+# Электробезопасность
+die elektrische Sicherheit	электробезопасность
+die Elektrofachkraft	специалист-электрик (с допуском)
+die Sicherung	предохранитель
+der Leitungsschutzschalter	автоматический выключатель
+der FI-Schutzschalter	УЗО
+der Schutzleiter	защитный проводник
+die Erdung	заземление
+die Schutzart	степень защиты (IP)
+die Schutzklasse	класс защиты
+der Berührungsschutz	защита от прикосновения
+die Hochspannung	высокое напряжение
+der Stromschlag	удар током
+freischalten	отключить (обесточить)
+gegen Wiedereinschalten sichern	защитить от повторного включения
+Spannungsfreiheit feststellen	убедиться в отсутствии напряжения
+erden und kurzschließen	заземлить и закоротить
+die fünf Sicherheitsregeln	пять правил электробезопасности
+Vorsicht, die Anlage steht unter Spannung!	Осторожно, установка под напряжением!
+Erst freischalten, dann arbeiten.	Сначала обесточь, потом работай.
+Der FI hat ausgelöst.	Сработало УЗО.
+Die Sicherung ist schon wieder geflogen.	Опять вылетел предохранитель.
+Hast du den Schutzleiter angeschlossen?	Ты подключил защитный провод?
+Daran darf nur eine Elektrofachkraft arbeiten.	С этим может работать только электрик с допуском.
+# Поиск неисправностей
+die Fehlersuche	поиск неисправностей
+die Fehlerursache	причина неисправности
+der Wackelkontakt	плохой контакт
+defekt	неисправный
+durchgebrannt	перегоревший
+die Überhitzung	перегрев
+die elektromagnetische Verträglichkeit	электромагнитная совместимость
+das Bauteil tauschen	заменить компонент
+Wir haben einen Wackelkontakt irgendwo im Stecker.	Где-то в разъёме плохой контакт.
+Das Gerät startet nicht mehr.	Устройство больше не включается.
+Riecht es hier verbrannt?	Здесь пахнет горелым?
+Ich habe den Fehler eingegrenzt, es liegt am Netzteil.	Я локализовал неисправность — дело в блоке питания.
+Nach dem Austausch des Kondensators läuft alles wieder.	После замены конденсатора всё снова работает.
+Der Fehler tritt nur sporadisch auf.	Ошибка проявляется лишь эпизодически.
+Die Platine hat beim EMV-Test nicht bestanden.	Плата не прошла испытания на ЭМС.
+# Рабочие фразы в лаборатории
+Kannst du mir kurz das Netzteil leihen?	Одолжишь мне ненадолго блок питания?
+Die Platinen kommen erst nächste Woche vom Bestücker.	Платы придут от монтажника только через неделю.
+Wir brauchen noch eine Revision der Platine.	Нужна ещё одна ревизия платы.
+Ich mache erst mal einen Funktionstest.	Сначала проведу функциональную проверку.
+Das Bauteil ist abgekündigt, wir brauchen eine Alternative.	Компонент снят с производства, нужна замена.
+Die Firmware muss noch angepasst werden.	Прошивку ещё нужно доработать.
+Bitte keine Arbeiten unter Spannung!	Никаких работ под напряжением!
+Wo ist der Not-Aus?	Где аварийная кнопка?
+Ich dokumentiere die Messergebnisse im Prüfprotokoll.	Записываю результаты измерений в протокол.
+Lass uns das Schaltbild gemeinsam durchgehen.	Давай вместе пройдёмся по схеме.
+Der Prototyp funktioniert, aber er braucht zu viel Strom.	Прототип работает, но потребляет слишком много.
+# Цифровая техника и встраиваемые системы
+die Digitaltechnik	цифровая техника
+das Bit	бит
+der Pegel	логический уровень
+der Pull-up-Widerstand	подтягивающий резистор
+die Schnittstelle	интерфейс
+die serielle Schnittstelle	последовательный интерфейс
+der Takt	тактовый сигнал
+die Taktfrequenz	тактовая частота
+der Speicher	память
+der Analog-Digital-Wandler	АЦП
+der Digital-Analog-Wandler	ЦАП
+die Abtastrate	частота дискретизации
+der Interrupt	прерывание
+die Firmware	прошивка
+flashen	прошить (микроконтроллер)
+der Programmieradapter	программатор
+das Embedded-System	встраиваемая система
+der Logikanalysator	логический анализатор
+Der Mikrocontroller hängt sich nach ein paar Minuten auf.	Микроконтроллер зависает через несколько минут.
+Der Pegel ist zu niedrig, der Eingang erkennt keine Eins.	Уровень слишком низкий, вход не видит единицу.
+Hast du die neue Firmware schon geflasht?	Ты уже залил новую прошивку?
+Die Kommunikation über die Schnittstelle bricht ab.	Связь по интерфейсу обрывается.
+# Силовая электроника
+die Leistungselektronik	силовая электроника
+der Umrichter	преобразователь
+der Schaltregler	импульсный стабилизатор
+die Pulsweitenmodulation	широтно-импульсная модуляция
+der Kühlkörper	радиатор
+die Verlustleistung	рассеиваемая мощность
+die Wärmeableitung	теплоотвод
+der Thyristor	тиристор
+der IGBT	IGBT-транзистор
+die Zwischenkreisspannung	напряжение звена постоянного тока
+der Netzfilter	сетевой фильтр
+die Welligkeit	пульсации напряжения
+der Einschaltstrom	бросок тока при включении
+Die Verlustleistung ist zu hoch, das Bauteil braucht Kühlung.	Потери слишком велики, компоненту нужно охлаждение.
+Der Zwischenkreis ist noch geladen, Vorsicht!	Звено постоянного тока ещё заряжено, осторожно!
+Der Schaltregler pfeift bei geringer Last.	Импульсный стабилизатор пищит на малой нагрузке.
+# Испытания, нормы и документация
+die Prüfung nach Norm	испытание по стандарту
+die Isolationsprüfung	проверка сопротивления изоляции
+die Hochspannungsprüfung	испытание повышенным напряжением
+die CE-Kennzeichnung	маркировка CE
+die Konformitätserklärung	декларация соответствия
+das Typenschild	заводская табличка
+die Betriebsanleitung	руководство по эксплуатации
+der Klemmenplan	схема подключения клемм
+der Stromlaufplan	электрическая принципиальная схема (по DIN)
+die Kabelliste	кабельный журнал
+die Prüfplakette	наклейка о проверке
+die Wiederholungsprüfung	периодическая проверка
+Das Gerät muss noch die Isolationsprüfung durchlaufen.	Прибор ещё должен пройти проверку изоляции.
+Ohne Konformitätserklärung dürfen wir nicht ausliefern.	Без декларации соответствия поставлять нельзя.
+Auf dem Typenschild steht 400 Volt.	На табличке указано 400 вольт.
+Der Klemmenplan stimmt nicht mit der Verdrahtung überein.	Схема клемм не совпадает с монтажом.
+Die Prüfplakette ist abgelaufen.	Срок проверки по наклейке истёк.
+# Освещение и бытовая электрика
+die Leuchte	светильник
+das Leuchtmittel	лампа (источник света)
+der Dimmer	диммер
+die Unterverteilung	распределительный щиток
+der Zähler	электросчётчик
+die Abzweigdose	распаечная коробка
+die Elektroinstallation	электромонтаж в здании
+Im Büro ist schon wieder eine Phase ausgefallen.	В офисе опять пропала одна фаза.
+Der Zähler läuft, obwohl alles aus ist.	Счётчик крутится, хотя всё выключено.
+In der Unterverteilung ist alles beschriftet.	В щитке всё подписано.
+Wer ist für die Elektroinstallation zuständig?	Кто отвечает за электромонтаж?
+Die Leuchte flackert.	Светильник мерцает.

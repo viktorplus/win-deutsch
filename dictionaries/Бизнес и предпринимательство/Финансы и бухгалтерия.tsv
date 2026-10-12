@@ -1,0 +1,326 @@
+# Бухгалтерия: основы
+die Buchhaltung	бухгалтерия
+der Buchhalter	бухгалтер
+die Buchhalterin	бухгалтер (женщина)
+die Buchführung	бухгалтерский учёт
+die doppelte Buchführung	двойная бухгалтерия
+die einfache Buchführung	упрощённый учёт
+die Buchung	проводка
+buchen	провести (по бухгалтерии)
+der Buchungssatz	бухгалтерская проводка (запись)
+das Konto	счёт (бухгалтерский)
+das Soll	дебет
+das Haben	кредит (сторона счёта)
+der Kontenrahmen	план счетов
+der Beleg	первичный документ
+die Belege sammeln	собирать первичные документы
+der Kassenbeleg	кассовый чек
+die Quittung	квитанция
+das Kassenbuch	кассовая книга
+die Aufbewahrungsfrist	срок хранения документов
+Belege acht Jahre aufbewahren	хранить бухгалтерские документы восемь лет
+die Buchhaltungssoftware	бухгалтерская программа
+die Finanzbuchhaltung	финансовый учёт
+die Lohnbuchhaltung	расчёт заработной платы
+das Geschäftsjahr	финансовый год
+der Monatsabschluss	закрытие месяца
+Ohne Beleg keine Buchung.	Нет документа — нет проводки.
+Die Buchhaltung mache ich selbst.	Бухгалтерию я веду сам.
+Die Belege für März fehlen noch.	Документов за март ещё нет.
+Haben Sie die Quittung aufgehoben?	Вы сохранили квитанцию?
+Das muss noch gebucht werden.	Это ещё нужно провести.
+
+# Счета и оплата
+die Rechnung	счёт (к оплате)
+eine Rechnung schreiben	выставить счёт
+die Rechnung stellen	выписать счёт
+die Rechnungsnummer	номер счёта
+das Rechnungsdatum	дата счёта
+der Rechnungsbetrag	сумма счёта
+der Nettobetrag	сумма без НДС
+der Bruttobetrag	сумма с НДС
+die Ausgangsrechnung	исходящий счёт
+die Eingangsrechnung	входящий счёт
+die Abschlagsrechnung	счёт на частичную оплату
+die Gutschrift	кредит-нота (зачисление)
+die Zahlung	платёж
+das Zahlungsziel	срок оплаты
+zahlbar innerhalb von 14 Tagen	оплата в течение 14 дней
+das Skonto	скидка за быструю оплату
+der Rabatt	скидка
+die Überweisung	банковский перевод
+überweisen	перевести (деньги)
+die Lastschrift	прямое дебетование
+der Verwendungszweck	назначение платежа
+die Bankverbindung	банковские реквизиты
+der Zahlungseingang	поступление оплаты
+offene Posten	неоплаченные счета
+Die Rechnung ist noch offen.	Счёт ещё не оплачен.
+Bitte geben Sie die Rechnungsnummer als Verwendungszweck an.	Укажите номер счёта в назначении платежа.
+Bei Zahlung innerhalb von 10 Tagen gewähren wir 2 % Skonto.	При оплате за 10 дней — скидка 2 %.
+Das Geld ist auf unserem Konto eingegangen.	Деньги поступили на наш счёт.
+Können Sie mir die Rechnung per E-Mail schicken?	Пришлите мне счёт по электронной почте?
+Die Rechnung ist fehlerhaft.	В счёте ошибка.
+
+# Неплатежи и долги
+die Mahnung	напоминание об оплате
+mahnen	напоминать о долге
+das Mahnverfahren	процедура взыскания долга
+die Zahlungserinnerung	вежливое напоминание об оплате
+der Zahlungsverzug	просрочка платежа
+in Verzug geraten	просрочить платёж
+die Verzugszinsen	пени за просрочку
+die Forderung	требование (дебиторская задолженность)
+die Verbindlichkeiten	обязательства (долги фирмы)
+der Schuldner	должник
+der Gläubiger	кредитор (заимодавец)
+das Inkassounternehmen	коллекторское агентство
+der Zahlungsausfall	неплатёж
+die Ratenzahlung	оплата в рассрочку
+die Stundung	отсрочка платежа
+Der Kunde zahlt nicht.	Клиент не платит.
+Wir haben bereits zweimal gemahnt.	Мы уже дважды напоминали.
+Wir übergeben die Forderung an ein Inkassobüro.	Мы передаём долг коллекторам.
+Können wir die Zahlung in Raten vereinbaren?	Можно договориться об оплате частями?
+
+# Выручка, прибыль, убыток
+der Umsatz	оборот (выручка)
+den Umsatz steigern	увеличить оборот
+der Jahresumsatz	годовой оборот
+der Erlös	доход от продаж
+der Gewinn	прибыль
+der Reingewinn	чистая прибыль
+der Bruttogewinn	валовая прибыль
+der Verlust	убыток
+Verluste machen	терпеть убытки
+die Gewinnspanne	размер прибыли (маржа)
+die Marge	маржа
+die Rendite	доходность
+die Rentabilität	рентабельность
+rentabel	рентабельный
+das Ergebnis	результат (финансовый)
+der Überschuss	излишек (положительный результат)
+die Einnahmen	поступления
+die Ausgaben	расходы
+in den roten Zahlen sein	быть в минусе
+schwarze Zahlen schreiben	работать с прибылью
+Der Umsatz ist um zehn Prozent gestiegen.	Оборот вырос на десять процентов.
+Der Gewinn ist im Vergleich zum Vorjahr gesunken.	Прибыль снизилась по сравнению с прошлым годом.
+Wir haben das Quartal mit einem Verlust abgeschlossen.	Мы закрыли квартал с убытком.
+Unterm Strich bleibt wenig übrig.	В итоге остаётся немного.
+Das lohnt sich nicht.	Это не окупается.
+
+# Затраты
+die Kosten	затраты
+die Fixkosten	постоянные затраты
+die variablen Kosten	переменные затраты
+die Betriebskosten	эксплуатационные расходы
+die Gemeinkosten	накладные расходы
+die Materialkosten	затраты на материалы
+die Herstellungskosten	себестоимость производства
+die Stückkosten	затраты на единицу
+die Kostenstelle	центр затрат
+die Kostenrechnung	калькуляция затрат
+die Kalkulation	калькуляция
+die Kostensenkung	снижение затрат
+Kosten senken	сокращать расходы
+die Kosten decken	покрывать затраты
+die Kostenexplosion	резкий рост затрат
+das Budget	бюджет
+das Budget überschreiten	превысить бюджет
+die Spesen	командировочные расходы
+die Reisekostenabrechnung	авансовый отчёт по поездке
+die Bewirtungskosten	представительские расходы
+Die Kosten laufen uns davon.	Расходы выходят из-под контроля.
+Wir müssen bei den Ausgaben sparen.	Нам нужно экономить на расходах.
+Das liegt noch im Rahmen des Budgets.	Это ещё в рамках бюджета.
+Die Energiekosten haben sich verdoppelt.	Расходы на энергию удвоились.
+Wer trägt die Kosten?	Кто несёт расходы?
+
+# Налоги для фирм
+die Steuer	налог
+die Steuererklärung	налоговая декларация
+die Steuererklärung abgeben	подать налоговую декларацию
+die Umsatzsteuer	налог с оборота (НДС)
+die Mehrwertsteuer	НДС
+die Vorsteuer	входящий НДС (к вычету)
+der Vorsteuerabzug	вычет входящего НДС
+die Umsatzsteuervoranmeldung	предварительная декларация по НДС
+die Einkommensteuer	подоходный налог
+die Körperschaftsteuer	налог на прибыль корпораций
+die Gewerbesteuer	промысловый налог
+der Hebesatz	муниципальная ставка налога
+die Lohnsteuer	налог на заработную плату
+die Steuervorauszahlung	авансовый налоговый платёж
+der Steuerbescheid	налоговое уведомление
+die Steuerschuld	налоговая задолженность
+die Steuernachzahlung	доплата налога
+die Steuererstattung	возврат налога
+steuerlich absetzbar	вычитаемый из налоговой базы
+von der Steuer absetzen	списать на расходы при налогообложении
+die Betriebsprüfung	налоговая проверка
+der Betriebsprüfer	налоговый проверяющий
+der Einspruch gegen den Steuerbescheid	возражение на налоговое уведомление
+das Elster-Portal	налоговый портал ELSTER
+die Steuerlast	налоговая нагрузка
+der Steuersatz	налоговая ставка
+der ermäßigte Steuersatz	льготная ставка налога
+Der reguläre Umsatzsteuersatz beträgt 19 Prozent.	Обычная ставка НДС — 19 процентов.
+Ist das steuerlich absetzbar?	Это можно вычесть из налогов?
+Die Voranmeldung ist bis zum Zehnten fällig.	Предварительная декларация — до десятого числа.
+Wir müssen eine Steuernachzahlung leisten.	Нам нужно доплатить налог.
+Nächste Woche kommt die Betriebsprüfung.	На следующей неделе налоговая проверка.
+Legen Sie Einspruch innerhalb eines Monats ein.	Подайте возражение в течение месяца.
+
+# Ликвидность и денежный поток
+die Liquidität	ликвидность
+liquide sein	располагать свободными деньгами
+der Liquiditätsengpass	нехватка ликвидности
+der Cashflow	денежный поток
+die Zahlungsfähigkeit	платёжеспособность
+zahlungsunfähig	неплатёжеспособный
+die Rücklage	резерв
+Rücklagen bilden	создавать резервы
+der Puffer	финансовая подушка
+der Kontokorrentkredit	овердрафт (для фирмы)
+der Dispo	превышение кредита по счёту (разг.)
+der Kreditrahmen	кредитный лимит
+der Kontostand	остаток на счёте
+der Kontoauszug	банковская выписка
+die Bankgebühren	банковские комиссии
+die Vorfinanzierung	предварительное финансирование
+das Factoring	факторинг
+Wir haben gerade einen Liquiditätsengpass.	У нас сейчас нехватка денег.
+Die Gehälter müssen pünktlich bezahlt werden.	Зарплаты нужно платить вовремя.
+Viele Firmen gehen nicht an Verlusten, sondern an fehlender Liquidität pleite.	Многие фирмы гибнут не от убытков, а от нехватки денег.
+Wir sollten einen Puffer für drei Monate haben.	Нам нужна подушка на три месяца.
+
+# Баланс и отчётность
+die Bilanz	баланс
+die Bilanz erstellen	составить баланс
+der Bilanzstichtag	отчётная дата баланса
+die Aktiva	актив (баланса)
+die Passiva	пассив (баланса)
+das Anlagevermögen	основные средства
+das Umlaufvermögen	оборотные средства
+der Jahresabschluss	годовая отчётность
+die Gewinn- und Verlustrechnung	отчёт о прибылях и убытках
+die Einnahmenüberschussrechnung	учёт доходов и расходов (EÜR)
+die Inventur	инвентаризация
+der Lagerbestand	складские остатки
+die Abschreibung	амортизация
+abschreiben	амортизировать
+die Nutzungsdauer	срок полезного использования
+das geringwertige Wirtschaftsgut	малоценный актив
+die Rückstellung	оценочный резерв
+der Wirtschaftsprüfer	аудитор
+die Wirtschaftsprüfung	аудит
+der Prüfbericht	аудиторское заключение
+der Lagebericht	отчёт о положении дел
+der Quartalsbericht	квартальный отчёт
+die Kennzahl	ключевой показатель
+die Eigenkapitalquote	доля собственного капитала
+Der Jahresabschluss muss bis Ende Juni fertig sein.	Годовой отчёт должен быть готов к концу июня.
+Den Laptop schreiben wir über drei Jahre ab.	Ноутбук мы амортизируем три года.
+Die Bilanz sieht gut aus.	Баланс выглядит хорошо.
+Am Jahresende machen wir Inventur.	В конце года мы проводим инвентаризацию.
+
+# Зарплаты и персонал в цифрах
+das Gehalt	оклад
+der Lohn	заработная плата (почасовая)
+das Bruttogehalt	оклад до вычетов
+das Nettogehalt	оклад на руки
+die Lohnnebenkosten	начисления на зарплату
+die Sozialabgaben	социальные взносы
+der Arbeitgeberanteil	доля работодателя (во взносах)
+die Gehaltsabrechnung	расчётный лист
+die Gehaltserhöhung	повышение оклада
+die Prämie	премия
+das Weihnachtsgeld	рождественская премия
+Die Gehälter werden am Monatsende überwiesen.	Зарплату перечисляют в конце месяца.
+Die Lohnnebenkosten sind in Deutschland hoch.	В Германии высокие начисления на зарплату.
+
+# Цены и калькуляция
+der Preis	цена
+der Einkaufspreis	закупочная цена
+der Verkaufspreis	продажная цена
+der Selbstkostenpreis	цена по себестоимости
+der Aufschlag	наценка
+der Deckungsbeitrag	маржинальный доход
+der Break-even-Point	порог рентабельности
+die Preiskalkulation	расчёт цены
+die Preiserhöhung	повышение цены
+kostendeckend arbeiten	работать без убытка
+Wir verkaufen unter Einstandspreis.	Мы продаём ниже закупочной стоимости.
+Bei diesem Preis verdienen wir nichts.	По такой цене мы ничего не зарабатываем.
+
+# Планирование и контроллинг
+das Controlling	контроллинг
+der Controller	специалист по контроллингу
+die Planung	планирование
+der Plan-Ist-Vergleich	сравнение плана и факта
+die Abweichung	отклонение
+die Prognose	прогноз
+die Hochrechnung	экстраполяция
+das Quartal	квартал
+im ersten Quartal	в первом квартале
+die Kennzahlen überwachen	отслеживать показатели
+der Finanzplan	финансовый план
+die Wirtschaftlichkeit	экономичность
+die Kosten-Nutzen-Analyse	анализ затрат и выгод
+die Investitionsrechnung	расчёт эффективности инвестиций
+sich amortisieren	окупиться
+Die Anschaffung amortisiert sich in zwei Jahren.	Покупка окупится за два года.
+Wir liegen zehn Prozent unter Plan.	Мы на десять процентов ниже плана.
+Die Zahlen für das dritte Quartal liegen vor.	Цифры за третий квартал готовы.
+
+# Фразы в бухгалтерии
+Kannst du mir die Zahlen bis Freitag schicken?	Пришлёшь мне цифры до пятницы?
+Das stimmt mit dem Kontoauszug nicht überein.	Это не сходится с выпиской.
+Hier fehlt eine Rechnung.	Здесь не хватает счёта.
+Die Kasse stimmt nicht.	Касса не сходится.
+Ich habe die Belege an den Steuerberater weitergeleitet.	Я передал документы налоговому консультанту.
+Bitte reichen Sie Ihre Spesen bis Monatsende ein.	Сдайте отчёт о расходах до конца месяца.
+Auf welche Kostenstelle soll ich das buchen?	На какой центр затрат это провести?
+Wir haben die Rechnung doppelt bezahlt.	Мы оплатили счёт дважды.
+Die Zahlung wurde storniert.	Платёж отменён.
+Der Betrag wurde falsch berechnet.	Сумма рассчитана неверно.
+Wir erstatten Ihnen den Differenzbetrag.	Мы вернём вам разницу.
+Die Buchhaltung ist auf dem neuesten Stand.	Бухгалтерия в полном порядке.
+
+# Банк, имущество, инвестиции
+die Bankverbindung angeben	указать банковские реквизиты
+die IBAN	номер счёта IBAN
+die Kreditkarte	кредитная карта
+die Firmenkreditkarte	корпоративная кредитная карта
+das Onlinebanking	онлайн-банкинг
+die Sammelüberweisung	пакетный перевод
+der Dauerauftrag	постоянное платёжное поручение
+die Barzahlung	оплата наличными
+bar bezahlen	платить наличными
+die Kasse	касса
+der Kassenbestand	остаток в кассе
+die Registrierkasse	кассовый аппарат
+das Vermögen	имущество
+die Vermögenswerte	активы (ценности)
+das Leasing	лизинг
+leasen	брать в лизинг
+der Leasingvertrag	договор лизинга
+die Anlage	вложение (денег)
+Geld anlegen	вкладывать деньги
+die Kapitalerhöhung	увеличение капитала
+die Dividende	дивиденд
+die Ausschüttung	выплата прибыли участникам
+der Wechselkurs	обменный курс
+die Währung	валюта
+das Währungsrisiko	валютный риск
+die Inflation	инфляция
+Wir leasen die Firmenwagen statt sie zu kaufen.	Мы берём машины в лизинг, а не покупаем.
+Die Gesellschafter bekommen eine Ausschüttung.	Участники получают выплату из прибыли.
+Der schwache Euro verteuert unsere Importe.	Слабый евро удорожает наш импорт.
+Barzahlung ist bei uns leider nicht möglich.	Оплата наличными у нас, к сожалению, невозможна.
+Ich habe einen Dauerauftrag für die Miete eingerichtet.	Я настроил автоплатёж за аренду.
+Die Firmenkreditkarte ist nur für Geschäftsausgaben.	Корпоративная карта — только для деловых расходов.
+Zum Jahresende zählen wir den Kassenbestand.	В конце года мы пересчитываем кассу.
+Die Inflation frisst unsere Gewinne auf.	Инфляция съедает нашу прибыль.
+Wir brauchen frisches Kapital.	Нам нужен свежий капитал.

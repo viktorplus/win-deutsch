@@ -1,0 +1,319 @@
+# Стройплощадка
+die Baustelle	стройплощадка
+die Baustelleneinrichtung	обустройство стройплощадки
+der Bauzaun	строительное ограждение
+der Baucontainer	бытовка
+der Kran	кран
+der Turmdrehkran	башенный кран
+der Bagger	экскаватор
+der Radlader	фронтальный погрузчик
+der Kipper	самосвал
+das Gerüst	строительные леса
+die Schalung	опалубка
+die Baugrube	котлован
+das Baumaterial	стройматериал
+die Lieferung	поставка
+der Polier	прораб (бригадир)
+der Bauarbeiter	строитель (рабочий)
+der Bauherr	застройщик
+der Bauunternehmer	строительный подрядчик
+Die Baustelle ist ab Montag eingerichtet.	С понедельника стройплощадка обустроена.
+Der Kran steht wegen Wind still.	Кран стоит из-за ветра.
+Die Lieferung kommt erst morgen früh.	Поставка придёт только завтра утром.
+Wo soll der Container hin?	Куда ставить бытовку?
+Ohne Gerüst kommen wir da nicht ran.	Без лесов туда не добраться.
+# Проектирование и чертежи
+der Bauplan	строительный чертёж
+der Grundriss	план этажа
+der Lageplan	ситуационный план
+der Gebäudeschnitt	разрез здания
+die Fassadenansicht	чертёж фасада
+der Architekt	архитектор
+der Bauingenieur	инженер-строитель
+der Tragwerksplaner	инженер-конструктор (статик)
+die Entwurfsplanung	проектная документация (стадия П)
+die Ausführungsplanung	рабочая документация
+die Werkplanung	рабочие чертежи
+der Bewehrungsplan	схема армирования
+das Leistungsverzeichnis	ведомость объёмов работ
+die Ausschreibung	тендер
+das Angebot	коммерческое предложение
+die Kostenschätzung	предварительная смета
+die Baugenehmigung	разрешение на строительство
+der Bauantrag	заявка на разрешение строительства
+das Bauamt	строительное ведомство
+der Bebauungsplan	план застройки
+Die Pläne sind noch nicht freigegeben.	Чертежи ещё не согласованы.
+Wir bauen nach dem Planstand vom März.	Строим по версии чертежей от марта.
+Die Baugenehmigung liegt noch nicht vor.	Разрешения на строительство пока нет.
+Das Leistungsverzeichnis ist unvollständig.	Ведомость работ неполная.
+Im Grundriss fehlt die Tür zum Technikraum.	На плане нет двери в техпомещение.
+# Земляные работы и фундамент
+der Erdaushub	выемка грунта
+ausheben	вынимать грунт
+der Baugrund	грунтовое основание
+das Bodengutachten	геологическое заключение
+das Grundwasser	грунтовые воды
+die Wasserhaltung	водоотлив
+der Verbau	крепление котлована
+das Fundament	фундамент
+das Streifenfundament	ленточный фундамент
+das Einzelfundament	столбчатый фундамент
+die Bodenplatte	фундаментная плита
+die Pfahlgründung	свайный фундамент
+der Pfahl	свая
+die Sauberkeitsschicht	бетонная подготовка
+die Abdichtung	гидроизоляция
+die Dränage	дренаж
+die Setzung	осадка (грунта, здания)
+die Frostschutzschicht	морозозащитный слой
+verdichten	уплотнять (грунт)
+Der Baugrund ist schlechter als im Gutachten angenommen.	Грунт хуже, чем предполагало заключение.
+Die Baugrube steht voll Wasser.	Котлован залит водой.
+Wir müssen tiefer gründen.	Фундамент придётся заглубить.
+Die Bodenplatte wird am Donnerstag betoniert.	Плиту бетонируют в четверг.
+Hier sind Setzungsrisse entstanden.	Здесь появились трещины от осадки.
+# Бетон и железобетон
+der Beton	бетон
+der Stahlbeton	железобетон
+der Spannbeton	предварительно напряжённый бетон
+der Transportbeton	товарный бетон
+das Betonfertigteil	сборный железобетонный элемент
+die Betonfestigkeitsklasse	класс прочности бетона
+der Zement	цемент
+die Gesteinskörnung	заполнитель (щебень, песок)
+die Bewehrung	армирование
+der Bewehrungsstahl	арматурная сталь
+die Betondeckung	защитный слой бетона
+die Bewehrungsmatte	арматурная сетка
+der Bügel	хомут (поперечная арматура)
+betonieren	бетонировать
+die Betonpumpe	бетононасос
+der Rüttler	глубинный вибратор
+ausschalen	распалубить
+aushärten	набирать прочность (о бетоне)
+die Nachbehandlung	уход за бетоном
+der Riss	трещина
+die Fuge	шов
+die Dehnungsfuge	деформационный шов
+Der Beton muss mindestens sieben Tage nachbehandelt werden.	Уход за бетоном — не менее семи дней.
+Die Betondeckung ist zu gering.	Защитный слой бетона недостаточен.
+Wann können wir ausschalen?	Когда можно распалубливать?
+Die Bewehrung wird morgen abgenommen.	Армирование принимают завтра.
+Der Betonmischer steht schon vor dem Tor.	Бетономешалка уже стоит у ворот.
+Bei Frost darf nicht betoniert werden.	В мороз бетонировать нельзя.
+# Кладка и коробка здания
+der Rohbau	коробка здания
+das Mauerwerk	кладка
+der Ziegel	кирпич
+der Kalksandstein	силикатный кирпич
+der Porenbetonstein	газобетонный блок
+der Mörtel	раствор (кладочный)
+die tragende Wand	несущая стена
+die Trennwand	перегородка
+die Decke	перекрытие
+die Geschossdecke	междуэтажное перекрытие
+der Sturz	перемычка
+die Stütze	колонна
+der Träger	балка
+der Unterzug	ригель
+die Treppe	лестница
+der Schacht	шахта
+das Geschoss	этаж
+das Kellergeschoss	подвальный этаж
+das Erdgeschoss	первый этаж
+Der Rohbau steht, jetzt kommt der Ausbau.	Коробка стоит, теперь отделка.
+Diese Wand ist tragend, die können wir nicht einfach entfernen.	Эта стена несущая, её нельзя просто убрать.
+Der Durchbruch ist an der falschen Stelle.	Проём пробит не в том месте.
+# Статика и несущие конструкции
+die Statik	статика (расчёт конструкций)
+der Statiker	расчётчик-статик
+das Tragwerk	несущая конструкция
+die Tragfähigkeit	несущая способность
+die Standsicherheit	устойчивость сооружения
+die Last	нагрузка (на сооружение)
+die Eigenlast	собственный вес
+die Verkehrslast	полезная нагрузка
+die Schneelast	снеговая нагрузка
+die Windlast	ветровая нагрузка
+das Auflager	опора (балки)
+die Spannweite	пролёт
+das Biegemoment	изгибающий момент
+die Querkraft	поперечная сила
+die Normalkraft	продольная сила
+der Knicknachweis	проверка на продольный изгиб
+die Durchbiegung der Decke	прогиб перекрытия
+der Nachweis	расчётная проверка
+die statische Berechnung	статический расчёт
+die Lastableitung	передача нагрузок
+der Stahlbau	стальные конструкции
+der Holzbau	деревянное строительство
+das Fachwerk	ферма
+die Aussteifung	связи жёсткости
+Das muss der Statiker freigeben.	Это должен одобрить статик.
+Die Decke ist für diese Last nicht ausgelegt.	Перекрытие не рассчитано на такую нагрузку.
+Können wir hier eine Öffnung in die Wand machen, ohne die Statik zu gefährden?	Можно ли сделать проём, не нарушив статику?
+Der Träger muss verstärkt werden.	Балку надо усилить.
+Der Nachweis ist erbracht.	Расчётная проверка выполнена.
+# Кровля, фасад и изоляция
+das Dach	крыша
+das Flachdach	плоская кровля
+das Steildach	скатная крыша
+der Dachstuhl	стропильная система
+die Dachrinne	водосточный жёлоб
+die Fassade	фасад
+die Wärmedämmung	теплоизоляция
+das Wärmedämmverbundsystem	фасадная система утепления (СФТК)
+die Dampfsperre	пароизоляция
+die Wärmebrücke	мостик холода
+der Schallschutz	звукоизоляция
+der Brandschutz	пожарная защита
+der Fluchtweg	путь эвакуации
+das Fenster	окно
+der Estrich	стяжка
+der Putz	штукатурка
+Am Flachdach ist eine undichte Stelle.	На плоской кровле протечка.
+Hier haben wir eine Wärmebrücke.	Здесь у нас мостик холода.
+Die Dämmung ist nicht lückenlos verlegt.	Утеплитель уложен с зазорами.
+Der Brandschutz hat Einwände gegen die Planung.	У пожарников есть замечания к проекту.
+Der Estrich muss erst trocknen.	Стяжка должна сначала высохнуть.
+# Строительные специальности (Gewerke)
+das Gewerk	вид работ (строительная специальность)
+der Rohbauer	подрядчик по коробке
+der Maurer	каменщик
+der Zimmerer	плотник
+der Dachdecker	кровельщик
+der Elektriker	электрик
+der Installateur	сантехник
+der Fliesenleger	плиточник
+der Maler	маляр
+der Trockenbauer	монтажник гипсокартона
+der Schlosser	слесарь-металлист
+der Tiefbau	подземное и дорожное строительство
+der Hochbau	гражданское строительство
+die Haustechnik	инженерные системы здания
+die Heizung, Lüftung, Sanitär	отопление, вентиляция, сантехника (ОВиК)
+der Ausbau	внутренняя отделка
+der Trockenbau	сухое строительство (гипсокартон)
+der Nachunternehmer	субподрядчик
+der Generalunternehmer	генподрядчик
+die Schnittstelle zwischen den Gewerken	стык между видами работ
+Der Elektriker kann erst anfangen, wenn der Trockenbau steht.	Электрик начнёт, когда поставят гипсокартон.
+Die Gewerke behindern sich gegenseitig.	Бригады мешают друг другу.
+Der Nachunternehmer ist heute nicht erschienen.	Субподрядчик сегодня не пришёл.
+Wer koordiniert die Haustechnik?	Кто координирует инженерные системы?
+# Управление строительством
+die Bauleitung	технический надзор (руководство стройкой)
+der Bauleiter	руководитель строительства
+die Objektüberwachung	авторский и технический надзор
+die Bauüberwachung	строительный контроль
+der Bauzeitenplan	календарный график строительства
+der Bauablauf	ход строительства
+der Meilenstein	ключевая веха
+die Baubesprechung	совещание на стройке
+das Bautagebuch	журнал производства работ
+das Protokoll	протокол
+der Nachtrag	дополнительное соглашение (допработы)
+die Mehrkosten	дополнительные расходы
+die Behinderungsanzeige	уведомление о препятствиях
+der Verzug	отставание (просрочка)
+die Vertragsstrafe	договорная неустойка
+die Abschlagsrechnung	промежуточный счёт
+das Aufmaß	обмер выполненных работ
+die Kostenkontrolle	контроль затрат
+Wir sind zwei Wochen im Verzug.	Мы отстаём на две недели.
+Das ist ein Nachtrag, das war nicht beauftragt.	Это допработы, их не заказывали.
+Bitte alles ins Bautagebuch eintragen.	Всё записывайте в журнал работ.
+Die nächste Baubesprechung ist Dienstag um acht.	Следующее совещание на стройке — во вторник в восемь.
+Der Bauzeitenplan ist nicht mehr zu halten.	График строительства уже не выдержать.
+Wer übernimmt die Mehrkosten?	Кто возьмёт на себя дополнительные расходы?
+Ich schicke das Protokoll heute noch rum.	Протокол разошлю сегодня же.
+Wir müssen eine Behinderung anmelden.	Нужно заявить о препятствии работам.
+# Приёмка и дефекты
+die Bauabnahme	приёмка объекта
+die Abnahme	приёмка работ
+die Teilabnahme	частичная приёмка
+das Abnahmeprotokoll	акт приёмки
+der Mangel	дефект
+die Mängelliste	перечень дефектов
+den Mangel beseitigen	устранить дефект
+die Mängelbeseitigung	устранение дефектов
+die Gewährleistung	гарантийные обязательства
+die Gewährleistungsfrist	гарантийный срок
+die Schlussrechnung	окончательный счёт
+die Übergabe	передача объекта
+die Restarbeiten	недоделки
+der Baumangel	строительный дефект
+die Feuchtigkeit	влажность (сырость)
+der Schimmel	плесень
+eine Bauleistung abnehmen	принять выполненные работы
+Die Abnahme wurde wegen erheblicher Mängel verweigert.	В приёмке отказали из-за существенных дефектов.
+Bis zur Abnahme müssen alle Restarbeiten erledigt sein.	До приёмки все недоделки должны быть устранены.
+Den Mangel bitte bis Ende der Woche beseitigen.	Устраните дефект до конца недели.
+Das fällt unter die Gewährleistung.	Это подпадает под гарантию.
+Hier ist Feuchtigkeit in die Wand gezogen.	Сюда в стену впиталась влага.
+Der Riss muss beobachtet werden.	За трещиной нужно наблюдать.
+# Безопасность на стройке
+die Baustellensicherheit	безопасность на стройке
+der Sicherheits- und Gesundheitsschutzkoordinator	координатор по охране труда (SiGeKo)
+der Schutzhelm	защитная каска
+die Sicherheitsschuhe	защитная обувь
+die Warnweste	сигнальный жилет
+die Absturzsicherung	защита от падения с высоты
+das Geländer	ограждение (перила)
+die Absperrung	оцепление
+Ohne Helm kein Zutritt zur Baustelle!	Без каски вход на стройку запрещён!
+Die Absturzsicherung am Rand fehlt.	На краю нет защиты от падения.
+Unter dem Kran nicht aufhalten!	Не находиться под краном!
+Der Bereich ist abgesperrt.	Зона огорожена.
+# Рабочие фразы на стройке
+Wann wird die Decke ausgeschalt?	Когда распалубят перекрытие?
+Das entspricht nicht dem Plan.	Это не соответствует чертежу.
+Wir müssen das mit dem Architekten klären.	Надо уточнить это с архитектором.
+Die Maße vor Ort stimmen nicht mit dem Plan überein.	Размеры на месте не совпадают с чертежом.
+Das Material ist noch nicht freigegeben.	Материал ещё не согласован.
+Wegen Regen fällt der Termin aus.	Из-за дождя работы отменяются.
+Der Bauherr will noch etwas ändern.	Застройщик хочет ещё что-то поменять.
+Kannst du ein Foto von der Stelle machen?	Можешь сфотографировать это место?
+Wir machen morgen einen Baustellenrundgang.	Завтра обходим стройку.
+Das hätte vor dem Betonieren auffallen müssen.	Это надо было заметить до бетонирования.
+Der Vermesser kommt am Montag.	Геодезист приедет в понедельник.
+Die Höhen müssen noch eingemessen werden.	Высотные отметки ещё нужно вынести.
+Wir haben eine Kollision zwischen Lüftungskanal und Träger.	Вентканал пересекается с балкой.
+# Геодезия и инфраструктура
+die Vermessung	геодезическая съёмка
+der Vermesser	геодезист
+das Nivelliergerät	нивелир
+der Höhenbezugspunkt	репер
+die Gebäudeachse	разбивочная ось здания
+das Schnurgerüst	обноска
+der Straßenbau	дорожное строительство
+der Brückenbau	мостостроение
+die Brücke	мост
+der Tunnel	тоннель
+die Fahrbahn	проезжая часть
+der Asphalt	асфальт
+der Unterbau	земляное полотно
+der Abwasserkanal	канализационный коллектор
+die Entwässerung	водоотведение
+der Hausanschluss	подключение здания к сетям
+die Leitungstrasse	трасса инженерных сетей
+die Spundwand	шпунтовая стенка
+der Damm	насыпь (дамба)
+die Sanierung	реконструкция (санация)
+der Abriss	снос
+der Bestand	существующее здание
+das Bauen im Bestand	строительство в существующей застройке
+Die Achsen sind abgesteckt.	Оси разбиты.
+Vor dem Graben müssen die Leitungspläne vorliegen.	До раскопок нужны планы сетей.
+Beim Aushub sind wir auf eine alte Leitung gestoßen.	При выемке наткнулись на старую трассу.
+Die Straße wird halbseitig gesperrt.	Дорогу перекроют наполовину.
+Im Bestand gibt es immer Überraschungen.	В старых зданиях всегда сюрпризы.
+Für den Abriss brauchen wir ein Schadstoffgutachten.	Для сноса нужно заключение о вредных веществах.
+Die Brücke wird im Taktschiebeverfahren gebaut.	Мост строят методом надвижки.
+Die Sanierung kostet mehr als ein Neubau.	Реконструкция обходится дороже нового здания.
+Der Neubau soll Ende nächsten Jahres bezugsfertig sein.	Новостройку должны сдать к концу следующего года.
+der Neubau	новостройка
+die Fertigstellung	завершение строительства
+das Richtfest	праздник подведения под крышу
+Nächste Woche feiern wir Richtfest.	На следующей неделе празднуем подведение под крышу.

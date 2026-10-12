@@ -1,0 +1,335 @@
+# Защита данных
+der Datenschutz	защита данных
+die DSGVO	DSGVO (GDPR)
+die Datenschutz-Grundverordnung	Общий регламент по защите данных
+personenbezogene Daten	персональные данные
+die Einwilligung	согласие (на обработку данных)
+einwilligen	давать согласие
+der Datenschutzbeauftragte	уполномоченный по защите данных
+die Datenschutzerklärung	политика конфиденциальности
+das Auskunftsrecht	право на информацию
+das Recht auf Löschung	право на удаление данных
+die Zweckbindung	целевое ограничение
+die Datenminimierung	минимизация данных
+anonymisieren	анонимизировать
+die Anonymisierung	анонимизация
+pseudonymisieren	псевдонимизировать
+die Datenpanne	инцидент с данными
+das Datenleck	утечка данных
+die Privatsphäre	частная жизнь
+die Aufsichtsbehörde	надзорный орган
+das Bußgeld	штраф
+der Verstoß	нарушение
+datenschutzkonform	соответствующий нормам защиты данных
+die Auftragsverarbeitung	обработка данных по поручению
+die Speicherdauer	срок хранения
+Das ist ein klarer Verstoß gegen die DSGVO.	Это явное нарушение GDPR.
+Haben die Nutzer eingewilligt?	Пользователи дали согласие?
+Die Daten werden auf Servern in den USA gespeichert.	Данные хранятся на серверах в США.
+Der Datenschutzbeauftragte muss das prüfen.	Это должен проверить уполномоченный по защите данных.
+Gegen das Unternehmen wurde ein Bußgeld verhängt.	На компанию наложили штраф.
+Die Daten müssen vorher anonymisiert werden.	Данные нужно заранее анонимизировать.
+Datenschutz wird in Deutschland großgeschrieben.	В Германии защите данных придают большое значение.
+Durch das Datenleck wurden Millionen Kundendaten veröffentlicht.	Из-за утечки были опубликованы данные миллионов клиентов.
+
+# Регулирование ИИ
+die KI-Verordnung	Регламент ЕС об ИИ
+der AI Act	AI Act (закон ЕС об ИИ)
+die Regulierung	регулирование
+regulieren	регулировать
+das Gesetz	закон
+die Richtlinie	директива
+die Europäische Kommission	Европейская комиссия
+das Europäische Parlament	Европейский парламент
+der risikobasierte Ansatz	риск-ориентированный подход
+das Hochrisiko-KI-System	ИИ-система высокого риска
+das unannehmbare Risiko	неприемлемый риск
+das begrenzte Risiko	ограниченный риск
+das minimale Risiko	минимальный риск
+verbieten	запрещать
+das Verbot	запрет
+die Kennzeichnungspflicht	обязанность маркировки
+kennzeichnen	маркировать
+die Pflicht	обязанность
+die Konformitätsbewertung	оценка соответствия
+die Übergangsfrist	переходный период
+in Kraft treten	вступать в силу
+das Social Scoring	социальный рейтинг
+die biometrische Fernidentifizierung	удалённая биометрическая идентификация
+die Gesichtserkennung	распознавание лиц
+die Auflage	предписание (требование)
+die Innovation	инновация
+Die KI-Verordnung ist 2024 in Kraft getreten.	Регламент об ИИ вступил в силу в 2024 году.
+Social Scoring ist in der EU verboten.	Социальный рейтинг в ЕС запрещён.
+KI-generierte Inhalte müssen gekennzeichnet werden.	Контент, созданный ИИ, нужно маркировать.
+Für Hochrisiko-Systeme gelten strenge Auflagen.	Для систем высокого риска действуют строгие требования.
+Die Regeln greifen schrittweise.	Правила вводятся поэтапно.
+Kritiker befürchten, dass Regulierung Innovation bremst.	Критики боятся, что регулирование тормозит инновации.
+Bei Verstößen drohen hohe Strafen.	За нарушения грозят крупные штрафы.
+
+# Предвзятость и дискриминация
+der Bias	предвзятость (bias)
+die Verzerrung	искажение
+voreingenommen	предвзятый
+die Diskriminierung	дискриминация
+diskriminieren	дискриминировать
+benachteiligen	ставить в невыгодное положение
+die Benachteiligung	ущемление
+die Fairness	справедливость (fairness)
+fair	честный (справедливый)
+gerecht	справедливый
+die Gleichbehandlung	равное обращение
+das Vorurteil	предрассудок
+das Stereotyp	стереотип
+die Minderheit	меньшинство
+das Geschlecht	пол (гендер)
+die Herkunft	происхождение
+neutral	нейтральный
+Das System benachteiligt Frauen bei Bewerbungen.	Система ущемляет женщин при отборе кандидатов.
+Die KI übernimmt die Vorurteile aus den Daten.	ИИ перенимает предрассудки из данных.
+Das Modell ist nicht neutral.	Модель не нейтральна.
+Wie stellen wir sicher, dass das System fair ist?	Как убедиться, что система справедлива?
+Die Trainingsdaten spiegeln alte Stereotype wider.	Обучающие данные отражают старые стереотипы.
+Verzerrte Daten führen zu unfairen Entscheidungen.	Искажённые данные ведут к несправедливым решениям.
+Menschen mit ausländischem Namen wurden seltener eingeladen.	Людей с иностранными именами реже приглашали.
+
+# Прозрачность и объяснимость
+die Transparenz	прозрачность
+transparent	прозрачный
+die Nachvollziehbarkeit	прослеживаемость
+nachvollziehbar	понятный (прослеживаемый)
+die Erklärbarkeit	объяснимость
+erklärbare KI	объяснимый ИИ
+die Offenlegung	раскрытие информации
+offenlegen	раскрывать
+die Dokumentation	документация
+die Rechenschaftspflicht	подотчётность
+die Begründung	обоснование
+das Recht auf Erklärung	право на объяснение
+Die Entscheidung muss nachvollziehbar sein.	Решение должно быть понятным.
+Warum wurde mein Kredit abgelehnt?	Почему мне отказали в кредите?
+Die Firma legt ihre Trainingsdaten nicht offen.	Компания не раскрывает свои обучающие данные.
+Nutzer müssen wissen, dass sie mit einer KI sprechen.	Пользователи должны знать, что общаются с ИИ.
+Mehr Transparenz schafft mehr Vertrauen.	Больше прозрачности — больше доверия.
+
+# Ответственность
+die Verantwortung	ответственность (моральная)
+die Haftung	ответственность (юридическая)
+haften	нести ответственность
+verantwortlich	ответственный
+der Hersteller	производитель
+der Betreiber	оператор (эксплуатант)
+der Schaden	ущерб
+der Schadensersatz	возмещение ущерба
+die Klage	иск
+klagen	судиться
+das Gericht	суд
+das Urteil	решение суда (приговор)
+die menschliche Aufsicht	человеческий надзор
+die Sorgfaltspflicht	обязанность проявлять осмотрительность
+Wer haftet, wenn die KI einen Fehler macht?	Кто отвечает, если ИИ ошибётся?
+Die letzte Entscheidung trifft ein Mensch.	Окончательное решение принимает человек.
+Der Hersteller lehnt jede Verantwortung ab.	Производитель отказывается от всякой ответственности.
+Bei einem Unfall eines autonomen Autos ist die Haftung unklar.	При аварии беспилотника неясно, кто отвечает.
+
+# Авторское право
+das Urheberrecht	авторское право
+der Urheber	автор (правообладатель)
+urheberrechtlich geschützt	защищённый авторским правом
+die Urheberrechtsverletzung	нарушение авторских прав
+das geistige Eigentum	интеллектуальная собственность
+die Lizenzgebühr	лицензионный сбор
+die Vergütung	вознаграждение
+der Künstler	художник (деятель искусства)
+der Verlag	издательство
+das Werk	произведение
+die Erlaubnis	разрешение
+Wem gehört ein Bild, das eine KI erstellt hat?	Кому принадлежит картинка, созданная ИИ?
+Autoren klagen gegen KI-Firmen.	Авторы судятся с ИИ-компаниями.
+Die Werke wurden ohne Erlaubnis zum Training genutzt.	Произведения использовали для обучения без разрешения.
+Künstler fordern eine faire Vergütung.	Художники требуют справедливого вознаграждения.
+
+# Дипфейки и дезинформация
+der Deepfake	дипфейк
+die Fälschung	подделка
+gefälscht	поддельный
+fälschen	подделывать
+die Desinformation	дезинформация
+die Falschnachricht	фейковая новость
+die Manipulation	манипуляция
+manipulieren	манипулировать
+die Propaganda	пропаганда
+die Wahlbeeinflussung	вмешательство в выборы
+eine Stimme imitieren	имитировать голос
+der Betrug	мошенничество
+der Enkeltrick	«звонок от внука» (мошенничество)
+die Echtheit	подлинность
+echt	настоящий
+der Faktenchecker	фактчекер
+die Medienkompetenz	медиаграмотность
+Das Video ist ein Deepfake.	Это видео — дипфейк.
+Echte und gefälschte Inhalte kann man kaum unterscheiden.	Подлинное и поддельное почти не различить.
+Betrüger imitieren die Stimme von Angehörigen.	Мошенники подделывают голос родственников.
+Vor der Wahl kursieren viele Falschnachrichten.	Перед выборами ходит много фейков.
+Glaub nicht alles, was du im Netz siehst.	Не верь всему, что видишь в сети.
+Die Plattform soll Deepfakes schneller löschen.	Платформа должна быстрее удалять дипфейки.
+Prüf zuerst, aus welcher Quelle das Video stammt.	Сначала проверь, откуда это видео.
+
+# Рынок труда
+der Arbeitsmarkt	рынок труда
+der Arbeitsplatz	рабочее место
+der Jobverlust	потеря работы
+ersetzen	заменять
+wegfallen	исчезать (о рабочих местах)
+der Strukturwandel	структурные изменения
+die Umschulung	переквалификация
+die Qualifikation	квалификация
+der Fachkräftemangel	нехватка специалистов
+die Fachkraft	квалифицированный специалист
+die Gewerkschaft	профсоюз
+der Betriebsrat	производственный совет
+die Mitbestimmung	право участия в управлении
+die Arbeitsbedingungen (Pl.)	условия труда
+die Überwachung am Arbeitsplatz	слежка на рабочем месте
+neue Berufe	новые профессии
+der Beschäftigte	работник (занятый)
+Viele Bürojobs werden sich verändern.	Многие офисные профессии изменятся.
+Die KI wird nicht alle Jobs ersetzen.	ИИ заменит не все профессии.
+Der Betriebsrat muss der Einführung zustimmen.	Внедрение должен одобрить производственный совет.
+Wer sich weiterbildet, hat bessere Chancen.	У тех, кто учится, больше шансов.
+Gerade einfache Tätigkeiten fallen weg.	Исчезают прежде всего простые виды работы.
+KI könnte den Fachkräftemangel lindern.	ИИ мог бы смягчить нехватку специалистов.
+Viele Beschäftigte haben Angst um ihren Job.	Многие работники боятся потерять работу.
+Die Gewerkschaft fordert klare Regeln für KI im Betrieb.	Профсоюз требует чётких правил для ИИ на предприятии.
+
+# Общество и ценности
+die Gesellschaft	общество
+gesellschaftlich	общественный
+die Ethik	этика
+ethisch	этичный
+die Moral	мораль
+der Wert	ценность
+die Menschenwürde	человеческое достоинство
+die Grundrechte (Pl.)	основные права
+die Chancengleichheit	равенство возможностей
+die digitale Kluft	цифровое неравенство
+die Abhängigkeit	зависимость
+das Vertrauen	доверие
+das Misstrauen	недоверие
+die Akzeptanz	принятие (одобрение) обществом
+die Debatte	дебаты
+die Kritik	критика
+der Kritiker	критик
+die Chance	шанс
+das Risiko	риск
+die Gefahr	опасность
+die Bildung	образование
+der Energieverbrauch	расход энергии
+die Nachhaltigkeit	устойчивость (экологическая)
+Die Debatte über KI wird emotional geführt.	Спор об ИИ ведётся эмоционально.
+Chancen und Risiken müssen abgewogen werden.	Нужно взвесить шансы и риски.
+Das Vertrauen in KI ist in Deutschland eher gering.	Доверие к ИИ в Германии довольно низкое.
+Schüler schreiben ihre Hausaufgaben mit KI.	Школьники делают домашку с помощью ИИ.
+KI darf die Menschenwürde nicht verletzen.	ИИ не должен нарушать человеческое достоинство.
+Wir dürfen uns nicht blind auf Maschinen verlassen.	Нельзя слепо полагаться на машины.
+Ältere Menschen fühlen sich oft abgehängt.	Пожилые люди часто чувствуют себя отстающими.
+
+# Безопасность и злоупотребления
+die Sicherheit	безопасность
+die Cybersicherheit	кибербезопасность
+der Missbrauch	злоупотребление
+missbrauchen	злоупотреблять
+der Hackerangriff	хакерская атака
+die Schwachstelle	уязвимость
+die Massenüberwachung	массовая слежка
+der Überwachungsstaat	государство тотальной слежки
+die autonome Waffe	автономное оружие
+die Kontrolle verlieren	терять контроль
+umstritten	спорный
+Die Technik kann auch missbraucht werden.	Технологию могут использовать и во зло.
+Einige Experten warnen vor einem Kontrollverlust.	Некоторые эксперты предупреждают о потере контроля.
+Kameras mit Gesichtserkennung sind umstritten.	Камеры с распознаванием лиц вызывают споры.
+Kriminelle schreiben Phishing-Mails jetzt mit KI.	Преступники теперь пишут фишинговые письма с ИИ.
+
+# Политика и экономика
+der Wettbewerb	конкуренция
+die Marktmacht	рыночная власть
+der Tech-Konzern	технологический концерн
+die digitale Souveränität	цифровой суверенитет
+der Standort	место ведения бизнеса
+die Förderung	господдержка (финансирование)
+fördern	поддерживать (финансово)
+das Monopol	монополия
+der Wirtschaftsstandort	экономическая площадка (страна)
+Europa ist abhängig von amerikanischen Tech-Konzernen.	Европа зависит от американских техгигантов.
+Europa will eigene KI-Modelle entwickeln.	Европа хочет создавать собственные модели ИИ.
+Die Bundesregierung fördert KI-Forschung mit Milliarden.	Правительство ФРГ финансирует исследования ИИ миллиардами.
+Deutschland droht den Anschluss zu verlieren.	Германии грозит отстать.
+
+# Этические дилеммы
+das Dilemma	дилемма
+die Abwägung	взвешивание (за и против)
+das Gewissen	совесть
+die Würde	достоинство
+die Autonomie	автономия
+die Selbstbestimmung	самоопределение
+die Menschenrechte (Pl.)	права человека
+der Leitsatz	руководящий принцип
+der Ethikrat	совет по этике
+vertretbar	допустимый (оправданный)
+Darf eine Maschine über Leben und Tod entscheiden?	Может ли машина решать вопросы жизни и смерти?
+Der Deutsche Ethikrat hat dazu eine Stellungnahme veröffentlicht.	Немецкий совет по этике опубликовал заключение.
+Nicht alles, was technisch möglich ist, ist auch vertretbar.	Не всё технически возможное допустимо.
+Ist es in Ordnung, Bewerbungen von einer KI prüfen zu lassen?	Нормально ли поручать проверку резюме ИИ?
+
+# Медицина и чувствительные сферы
+die Gesundheitsdaten (Pl.)	медицинские данные
+die Patientenakte	медицинская карта
+die Schweigepflicht	врачебная тайна
+sensibel	чувствительный
+die Kreditwürdigkeit	кредитоспособность
+die Bonitätsprüfung	проверка платёжеспособности
+die Polizei	полиция
+die Strafverfolgung	уголовное преследование
+die Justiz	правосудие
+Gesundheitsdaten sind besonders schützenswert.	Медицинские данные требуют особой защиты.
+Die Polizei setzt Gesichtserkennung ein.	Полиция применяет распознавание лиц.
+Eine KI entscheidet mit über meine Kreditwürdigkeit.	ИИ участвует в оценке моей кредитоспособности.
+
+# Права пользователей
+das Widerspruchsrecht	право на возражение
+widersprechen	возражать
+die Beschwerde	жалоба
+sich beschweren	жаловаться
+der Verbraucherschutz	защита прав потребителей
+der Verbraucher	потребитель
+das Opt-out	отказ (opt-out)
+Ich widerspreche der Nutzung meiner Daten.	Я возражаю против использования моих данных.
+Man kann sich bei der Aufsichtsbehörde beschweren.	Можно пожаловаться в надзорный орган.
+Der Verbraucherschutz warnt vor der App.	Защитники прав потребителей предупреждают об этом приложении.
+Wie kann ich das Training mit meinen Daten abschalten?	Как отключить обучение на моих данных?
+
+# Законодательство и институты
+der Verhaltenskodex	кодекс поведения
+die Selbstverpflichtung	добровольное обязательство
+die Selbstregulierung	саморегулирование
+die Rechtssicherheit	правовая определённость
+die Grauzone	серая зона
+die Gesetzeslücke	пробел в законодательстве
+der Gesetzgeber	законодатель
+die Behörde	ведомство
+die Strafe	наказание
+die Sanktion	санкция
+der Jahresumsatz	годовой оборот
+das Grundgesetz	Основной закон (Конституция ФРГ)
+die Ethikleitlinien (Pl.)	этические принципы
+die Folgenabschätzung	оценка последствий
+der Whistleblower	информатор (whistleblower)
+die Prüfstelle	орган по проверке
+Viele Fragen bewegen sich noch in einer rechtlichen Grauzone.	Многие вопросы пока в правовой серой зоне.
+Unternehmen wünschen sich mehr Rechtssicherheit.	Компании хотят больше правовой определённости.
+Strafen können bis zu sieben Prozent des weltweiten Jahresumsatzes betragen.	Штрафы могут достигать 7 % мирового годового оборота.
+Der Gesetzgeber hinkt der Technik hinterher.	Законодатель отстаёт от технологий.
+Die Tech-Konzerne setzen auf Selbstverpflichtungen.	Техгиганты делают ставку на добровольные обязательства.
+Eine Folgenabschätzung ist vorgeschrieben.	Оценка последствий обязательна.
+Das Gesetz lässt viele Lücken.	Закон оставляет много пробелов.

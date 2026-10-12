@@ -1,0 +1,331 @@
+# Налоговая и номера
+das Finanzamt	налоговая инспекция
+der Finanzbeamte	сотрудник налоговой
+der Sachbearbeiter	ответственный сотрудник (по делу)
+die Steuer	налог
+der Steuerzahler	налогоплательщик
+die Steuer-ID	налоговый идентификационный номер
+die Steuernummer	налоговый номер (для декларации)
+das Steuerjahr	налоговый год
+der Veranlagungszeitraum	период налогообложения
+die Steuerpflicht	налоговая обязанность
+steuerpflichtig	облагаемый налогом
+steuerfrei	не облагаемый налогом
+der Steuerberater	налоговый консультант
+der Lohnsteuerhilfeverein	союз помощи по подоходному налогу
+die Steuersoftware	программа для налогов
+das ELSTER-Portal	онлайн-портал налоговой ELSTER
+zuständig sein	отвечать за что-л. (по компетенции)
+Ihre Steuer-ID finden Sie auf Ihrer Lohnsteuerbescheinigung.	Налоговый ID указан в справке об удержанном налоге.
+Die Steuer-ID bekommt man automatisch nach der ersten Anmeldung.	Налоговый ID присылают после первой регистрации.
+Mein Arbeitgeber fragt nach meiner Steuer-ID.	Работодатель спрашивает мой налоговый ID.
+Welches Finanzamt ist für mich zuständig?	Какая налоговая за мной закреплена?
+Ich habe meine Steuer-ID verlegt.	Я куда-то задевал свой налоговый ID.
+
+# Подоходный налог и зарплата
+die Lohnsteuer	подоходный налог с зарплаты
+die Einkommensteuer	подоходный налог
+der Solidaritätszuschlag	надбавка солидарности
+die Kirchensteuer	церковный налог
+die Sozialabgaben	социальные отчисления
+der Bruttolohn	зарплата брутто
+der Nettolohn	зарплата нетто
+brutto	до вычета налогов
+netto	после вычета налогов
+die Gehaltsabrechnung	расчётный лист
+die Lohnsteuerbescheinigung	справка об удержанном налоге
+der Grundfreibetrag	необлагаемый минимум
+der Freibetrag	необлагаемая сумма
+der Kinderfreibetrag	необлагаемая сумма на ребёнка
+das Kindergeld	детское пособие
+das Elterngeld	родительское пособие
+der Progressionsvorbehalt	оговорка о прогрессии
+das zu versteuernde Einkommen	налогооблагаемый доход
+der Steuersatz	налоговая ставка
+der Spitzensteuersatz	максимальная ставка налога
+der Minijob	мини-джоб (работа до лимита)
+die Nebentätigkeit	подработка
+versteuern	платить налог (с чего-л.)
+Steuern zahlen	платить налоги
+Steuern hinterziehen	уклоняться от налогов
+die Steuerhinterziehung	уклонение от уплаты налогов
+Von meinem Brutto bleibt nach Abzügen nicht viel übrig.	После вычетов от брутто остаётся немного.
+Die Lohnsteuer wird direkt vom Gehalt abgezogen.	Налог удерживается прямо из зарплаты.
+Wenn ich aus der Kirche austrete, zahle ich keine Kirchensteuer.	Выйдя из церкви, я не плачу церковный налог.
+Muss ich meinen Nebenjob versteuern?	Нужно ли платить налог с подработки?
+
+# Налоговые классы
+die Steuerklasse	налоговый класс
+die Steuerklassenkombination	сочетание налоговых классов
+die Steuerklasse wechseln	сменить налоговый класс
+das Ehegattensplitting	совместное налогообложение супругов
+die Zusammenveranlagung	совместная декларация супругов
+die Einzelveranlagung	раздельная декларация
+ledig	холост (не замужем)
+verheiratet	женат (замужем)
+geschieden	разведён
+verwitwet	вдовый
+alleinerziehend	воспитывающий ребёнка в одиночку
+Steuerklasse I gilt für Ledige.	Первый класс — для неженатых.
+In Steuerklasse III zahlt man weniger Lohnsteuer.	В третьем классе удерживают меньше налога.
+Ehepaare können zwischen III/V und IV/IV wählen.	Супруги выбирают между III/V и IV/IV.
+Alleinerziehende haben Steuerklasse II.	У одиноких родителей второй класс.
+Steuerklasse VI gilt für jeden weiteren Job.	Шестой класс — для каждой дополнительной работы.
+Nach der Hochzeit ändert sich die Steuerklasse automatisch.	После свадьбы класс меняется автоматически.
+Den Wechsel der Steuerklasse beantragt man beim Finanzamt.	Смену класса оформляют в налоговой.
+
+# Налоговая декларация
+die Steuererklärung	налоговая декларация
+die Steuererklärung abgeben	подать декларацию
+die Steuererklärung machen	заполнить декларацию
+die Pflichtveranlagung	обязательная подача декларации
+die freiwillige Steuererklärung	добровольная декларация
+der Mantelbogen	основной бланк декларации
+die Anlage	приложение (к декларации)
+die Anlage N	приложение N (доходы по найму)
+die Anlage Kind	приложение «Ребёнок»
+das Formular	бланк
+ausfüllen	заполнять
+eintragen	вносить (данные)
+angeben	указывать
+elektronisch übermitteln	передать в электронном виде
+einreichen	подавать (документы)
+die Angaben	сведения
+die Einkünfte	доходы (по налоговым видам)
+die Einkünfte aus nichtselbstständiger Arbeit	доходы от работы по найму
+die Einkünfte aus selbstständiger Arbeit	доходы от самостоятельной деятельности
+die Kapitalerträge	доходы от капитала
+die Mieteinnahmen	доходы от аренды
+die Steuererstattung	возврат налога
+die Steuernachzahlung	доплата налога
+nachzahlen	доплачивать
+erstatten	возмещать
+Lohnt sich eine Steuererklärung für mich?	Мне выгодно подавать декларацию?
+Die meisten Arbeitnehmer bekommen Geld zurück.	Большинство работников получают возврат.
+Ich mache meine Steuererklärung mit ELSTER.	Я подаю декларацию через ELSTER.
+Ich habe meine Steuererklärung noch nicht gemacht.	Я ещё не сделал декларацию.
+Muss ich eine Steuererklärung abgeben?	Обязан ли я подавать декларацию?
+Wer Arbeitslosengeld bekommen hat, muss eine Steuererklärung abgeben.	Получавшие пособие по безработице обязаны подать декларацию.
+Das Formular ist ziemlich kompliziert.	Бланк довольно сложный.
+Wo trage ich die Fahrtkosten ein?	Куда вписать расходы на дорогу?
+Eine freiwillige Erklärung kann man vier Jahre rückwirkend abgeben.	Добровольную декларацию можно подать за четыре года назад.
+Ich bekomme etwa 800 Euro zurück.	Мне вернут около 800 евро.
+Ich muss 300 Euro nachzahlen.	Мне нужно доплатить 300 евро.
+
+# Вычеты
+absetzen	вычитать (из налогов)
+von der Steuer absetzen	списать с налогов
+steuerlich geltend machen	заявить к вычету
+die Werbungskosten	расходы, связанные с работой
+die Werbungskostenpauschale	паушальный вычет на рабочие расходы
+die Pendlerpauschale	вычет за дорогу на работу
+die Fahrtkosten	расходы на дорогу
+das Arbeitszimmer	рабочий кабинет (дома)
+die Homeoffice-Pauschale	вычет за работу из дома
+die Arbeitsmittel	рабочие принадлежности
+die Fortbildungskosten	расходы на повышение квалификации
+die Umzugskosten	расходы на переезд
+die doppelte Haushaltsführung	ведение двух хозяйств
+die Sonderausgaben	особые расходы
+die außergewöhnlichen Belastungen	чрезвычайные расходы
+die Krankheitskosten	расходы на лечение
+die haushaltsnahen Dienstleistungen	бытовые услуги
+die Handwerkerleistungen	услуги мастеров
+die Spende	пожертвование
+die Kinderbetreuungskosten	расходы на присмотр за детьми
+die Unterhaltszahlungen	алименты (выплаты)
+die Altersvorsorge	пенсионные накопления
+die Riester-Rente	пенсия Riester
+die Pauschale	паушальная сумма
+pauschal	паушально, без подтверждения
+anerkennen	признавать
+Den Laptop kann ich als Arbeitsmittel absetzen.	Ноутбук я могу списать как рабочее средство.
+Mein Arbeitsweg beträgt 25 Kilometer.	Дорога до работы — 25 километров.
+Die Pendlerpauschale wird pro Kilometer berechnet.	Дорожный вычет считают за каждый километр.
+Kann ich die Kosten für die Brille absetzen?	Можно списать расходы на очки?
+Spenden kann man von der Steuer absetzen.	Пожертвования можно вычесть из налогов.
+Die Handwerkerrechnung muss überwiesen worden sein.	Счёт мастера должен быть оплачен переводом.
+Barzahlungen werden nicht anerkannt.	Оплата наличными не признаётся.
+
+# Чеки и документы
+der Beleg	подтверждающий документ
+die Belege sammeln	собирать чеки
+der Nachweis	доказательство (подтверждение)
+die Bescheinigung	справка
+die Spendenquittung	квитанция о пожертвовании
+die Handwerkerrechnung	счёт от мастера
+die Kopie	копия
+das Original	оригинал
+die Unterlagen	документы (бумаги)
+der Ordner	папка
+aufbewahren	хранить (документы)
+die Aufbewahrungsfrist	срок хранения
+einscannen	сканировать
+nachreichen	предоставить позже
+das Schreiben	официальное письмо
+die Meldebescheinigung	справка о регистрации по месту жительства
+die Geburtsurkunde	свидетельство о рождении
+die Heiratsurkunde	свидетельство о браке
+der Personalausweis	удостоверение личности
+der Aufenthaltstitel	вид на жительство
+beglaubigen lassen	заверить (документ)
+die beglaubigte Kopie	заверенная копия
+die Übersetzung	перевод (документа)
+Belege muss man nur auf Anfrage einreichen.	Чеки подают только по запросу.
+Das Finanzamt hat weitere Unterlagen angefordert.	Налоговая запросила дополнительные документы.
+Bewahren Sie alle Quittungen auf.	Сохраняйте все квитанции.
+Ich finde die Rechnung vom letzten Jahr nicht mehr.	Не могу найти прошлогодний счёт.
+Bitte reichen Sie die fehlenden Nachweise bis Ende des Monats nach.	Донесите недостающие документы до конца месяца.
+
+# Налоговое уведомление
+der Steuerbescheid	налоговое уведомление
+der Bescheid	решение (официальное)
+den Bescheid prüfen	проверить уведомление
+die Festsetzung	установление суммы налога
+die Bearbeitungszeit	срок обработки
+die Abweichung	отклонение (от декларации)
+die Erläuterungen	пояснения
+vorläufig	предварительный
+der Vorbehalt der Nachprüfung	оговорка о последующей проверке
+die Vorauszahlung	авансовый платёж
+der Säumniszuschlag	пеня за просрочку
+der Verspätungszuschlag	штраф за опоздание с декларацией
+fällig	подлежащий оплате
+das Fälligkeitsdatum	срок платежа
+die Stundung	отсрочка платежа
+eine Stundung beantragen	ходатайствовать об отсрочке
+Der Steuerbescheid ist endlich gekommen.	Налоговое уведомление наконец пришло.
+Das Finanzamt ist von meiner Erklärung abgewichen.	Налоговая отступила от моей декларации.
+Wie lange dauert die Bearbeitung?	Сколько длится обработка?
+Die Erstattung wird auf Ihr Konto überwiesen.	Возврат переведут на ваш счёт.
+Die Nachzahlung ist innerhalb eines Monats fällig.	Доплату нужно внести в течение месяца.
+
+# Возражение
+der Einspruch	возражение (обжалование)
+Einspruch einlegen	подать возражение
+die Einspruchsfrist	срок обжалования
+die Begründung	обоснование
+begründen	обосновать
+der Änderungsantrag	заявление об исправлении
+die Korrektur	исправление
+der Fehler	ошибка
+berichtigen	исправить (официально)
+zurücknehmen	отозвать
+berücksichtigen	учитывать
+die Einspruchsentscheidung	решение по возражению
+die Klage beim Finanzgericht	иск в финансовый суд
+das Aktenzeichen	номер дела
+Hiermit lege ich Einspruch gegen den Steuerbescheid vom 3. Mai ein.	Настоящим обжалую налоговое уведомление от 3 мая.
+Die Begründung reiche ich nach.	Обоснование я пришлю позже.
+Der Einspruch muss innerhalb eines Monats eingehen.	Возражение должно поступить в течение месяца.
+Das Finanzamt hat meine Fahrtkosten nicht berücksichtigt.	Налоговая не учла мои расходы на дорогу.
+Dem Einspruch wurde stattgegeben.	Возражение удовлетворено.
+Der Einspruch wurde abgelehnt.	Возражение отклонено.
+Sehr geehrte Damen und Herren,	Уважаемые дамы и господа,
+Mit freundlichen Grüßen	С уважением (в письме)
+Bitte geben Sie immer Ihre Steuernummer an.	Всегда указывайте свой налоговый номер.
+
+# Сроки
+die Frist	срок
+die Abgabefrist	срок подачи
+die Fristverlängerung	продление срока
+die Frist einhalten	уложиться в срок
+die Frist versäumen	пропустить срок
+rechtzeitig	вовремя
+verspätet	с опозданием
+der Stichtag	крайний день (дата отсечки)
+ablaufen	истекать
+die Erinnerung	напоминание
+Die Abgabefrist ist der 31. Juli des Folgejahres.	Срок подачи — 31 июля следующего года.
+Mit Steuerberater hat man mehr Zeit.	С консультантом времени больше.
+Kann ich eine Fristverlängerung beantragen?	Можно попросить продлить срок?
+Ich habe die Frist verpasst – was jetzt?	Я пропустил срок — что теперь?
+Wer zu spät abgibt, muss einen Verspätungszuschlag zahlen.	Кто подаёт поздно, платит штраф за опоздание.
+Die Frist läuft nächste Woche ab.	Срок истекает на следующей неделе.
+
+# Своё дело
+selbstständig	работающий на себя
+der Freiberufler	фрилансер (свободная профессия)
+das Gewerbe	предпринимательская деятельность (Gewerbe)
+ein Gewerbe anmelden	зарегистрировать предпринимательство
+die Gewerbesteuer	промысловый налог
+die Umsatzsteuer	налог с оборота (НДС)
+die Umsatzsteuervoranmeldung	предварительная декларация по НДС
+die Kleinunternehmerregelung	режим малого предпринимателя
+der Fragebogen zur steuerlichen Erfassung	анкета для постановки на налоговый учёт
+die Einnahmenüberschussrechnung	учёт доходов и расходов (EÜR)
+die Betriebsausgaben	предпринимательские расходы
+eine Rechnung stellen	выставить счёт
+die Buchhaltung	бухгалтерия
+Als Freiberufler muss ich vierteljährlich Vorauszahlungen leisten.	Как фрилансер я плачу авансы ежеквартально.
+
+# Другие налоги
+die Grundsteuer	налог на недвижимость
+die Hundesteuer	налог на собаку
+die Kfz-Steuer	транспортный налог
+die Erbschaftsteuer	налог на наследство
+die Schenkungsteuer	налог на дарение
+die Abgeltungsteuer	налог на доходы с капитала (25 %)
+der Rundfunkbeitrag	взнос за радио и ТВ
+die Sozialversicherungsnummer	номер социального страхования
+das Doppelbesteuerungsabkommen	соглашение об избежании двойного налогообложения
+
+# Разговор в налоговой
+der Antrag	заявление
+einen Antrag stellen	подать заявление
+die Bestätigung	подтверждение
+die Auskunft	справка (информация)
+mitteilen	сообщать
+die Steuerprüfung	налоговая проверка
+die Selbstanzeige	явка с повинной (налоговая)
+die Steuerschuld	налоговая задолженность
+das Bußgeld	административный штраф
+Ich habe eine Frage zu meinem Steuerbescheid.	У меня вопрос по налоговому уведомлению.
+Können Sie mir erklären, warum ich nachzahlen muss?	Объясните, почему я должен доплатить?
+Ich verstehe dieses Schreiben nicht.	Я не понимаю это письмо.
+Unter welcher Nummer erreiche ich meinen Sachbearbeiter?	По какому номеру связаться с моим сотрудником?
+Ich bin dieses Jahr nach Deutschland gezogen.	В этом году я переехал в Германию.
+Ich habe nur einen Teil des Jahres in Deutschland gearbeitet.	Я работал в Германии только часть года.
+Wie viel kostet ein Steuerberater ungefähr?	Сколько примерно стоит налоговый консультант?
+Lohnt sich die Mitgliedschaft im Lohnsteuerhilfeverein?	Есть ли смысл вступать в союз помощи по налогам?
+Was kann ich alles absetzen?	Что я вообще могу списать?
+Brauche ich dafür einen Nachweis?	Мне нужно это подтверждать?
+Muss ich Einkünfte aus dem Ausland angeben?	Нужно ли указывать доходы из-за границы?
+Ich habe im Heimatland Steuern gezahlt.	Я платил налоги на родине.
+Wann bekomme ich mein Geld zurück?	Когда мне вернут деньги?
+Ich bin umgezogen und muss das dem Finanzamt mitteilen.	Я переехал и должен сообщить об этом в налоговую.
+Ich habe vergessen, eine Einnahme anzugeben.	Я забыл указать один доход.
+
+# Работа, выплаты и пособия
+der Arbeitgeber	работодатель
+der Arbeitnehmer	работник (по найму)
+der Arbeitsvertrag	трудовой договор
+das Weihnachtsgeld	рождественская премия
+das Urlaubsgeld	отпускные
+die Abfindung	выходное пособие
+die Überstunden	сверхурочные
+der Zuschlag	надбавка
+die Sachbezüge	доходы в натуральной форме
+der Dienstwagen	служебная машина
+die Ein-Prozent-Regelung	правило одного процента (служебное авто)
+das Jobticket	проездной от работодателя
+das Arbeitslosengeld	пособие по безработице
+das Bürgergeld	гражданское пособие (Bürgergeld)
+die Rente	пенсия
+die Rentenbesteuerung	налогообложение пенсий
+Die Abfindung muss versteuert werden.	С выходного пособия платят налог.
+Das Weihnachtsgeld wird mit dem Novembergehalt ausgezahlt.	Рождественскую премию выплачивают с ноябрьской зарплатой.
+Den Dienstwagen darf ich auch privat nutzen.	Служебную машину можно использовать и лично.
+Auch Rentner müssen manchmal eine Steuererklärung abgeben.	Пенсионерам тоже иногда нужно подавать декларацию.
+
+# Полезные глаголы
+abziehen	вычитать (сумму)
+einbehalten	удерживать (налог у источника)
+zurückfordern	требовать обратно
+beantragen	ходатайствовать (подавать запрос)
+prüfen	проверять
+genehmigen	одобрять
+schätzen	оценивать (сумму)
+die Schätzung	оценочное начисление налога
+Wenn keine Erklärung kommt, schätzt das Finanzamt die Steuer.	Без декларации налоговая насчитает налог сама.
+Ohne Belege wird es schwierig.	Без чеков будет сложно.

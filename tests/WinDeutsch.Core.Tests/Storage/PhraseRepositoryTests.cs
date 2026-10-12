@@ -55,6 +55,22 @@ public sealed class PhraseRepositoryTests : RepositoryTestBase
     }
 
     [Fact]
+    public void DeleteTopics_RemovesAllGivenTopicsWithTheirPhrases()
+    {
+        var a = Repo.AddTopic("A", "Cat");
+        var b = Repo.AddTopic("B", "Cat");
+        var kept = Repo.AddTopic("Kept", null);
+        Repo.AddPhrase(a.Id, "Hallo", "Привет");
+        Repo.AddPhrase(b.Id, "Danke", "Спасибо");
+        var k = Repo.AddPhrase(kept.Id, "Tschüss", "Пока");
+
+        Repo.DeleteTopics([a.Id, b.Id]);
+
+        Assert.Equal(new[] { "Kept" }, Repo.GetTopics().Select(t => t.Name));
+        Assert.Equal(new[] { k.Id }, Repo.GetPhrases().Select(x => x.Id));
+    }
+
+    [Fact]
     public void GetOrCreateTopic_MatchesNameCaseInsensitively_ElseCreates()
     {
         var work = Repo.AddTopic("Работа", null);

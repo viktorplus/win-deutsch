@@ -1,0 +1,312 @@
+# Голова и шея
+der Schädel	череп
+die Stirn	лоб
+die Schläfe	висок
+der Hinterkopf	затылок
+das Augenlid	веко
+die Augenbraue	бровь
+die Wimper	ресница
+die Pupille	зрачок
+die Netzhaut	сетчатка
+das Trommelfell	барабанная перепонка
+die Nasennebenhöhle	придаточная пазуха носа
+der Kiefer	челюсть
+das Kinn	подбородок
+die Wange	щека
+die Lippe	губа
+der Gaumen	нёбо
+die Zunge	язык (орган)
+die Mandeln	миндалины
+der Kehlkopf	гортань
+der Hals	шея
+der Nacken	задняя поверхность шеи
+die Ohrmuschel	ушная раковина
+das Zahnfleisch	десна
+die Stimmbänder	голосовые связки
+# Туловище и конечности
+die Schulter	плечо
+der Oberarm	верхняя часть руки
+der Unterarm	предплечье
+der Ellenbogen	локоть
+das Handgelenk	запястье
+der Daumen	большой палец руки
+das Schulterblatt	лопатка
+das Schlüsselbein	ключица
+der Brustkorb	грудная клетка
+die Rippe	ребро
+die Wirbelsäule	позвоночник
+der Wirbel	позвонок
+die Bandscheibe	межпозвоночный диск
+das Becken	таз
+die Hüfte	тазобедренная область
+die Leiste	пах
+der Bauchnabel	пупок
+das Gesäß	ягодицы
+der Oberschenkel	бедро
+der Unterschenkel	голень
+die Wade	икра (ноги)
+das Knie	колено
+die Kniescheibe	коленная чашечка
+der Knöchel	лодыжка
+die Ferse	пятка
+die Fußsohle	подошва стопы
+der Zeh	палец ноги
+# Внутренние органы и ткани
+das Herz	сердце
+die Lunge	лёгкие
+die Leber	печень
+die Niere	почка
+die Milz	селезёнка
+die Bauchspeicheldrüse	поджелудочная железа
+die Gallenblase	желчный пузырь
+der Magen	желудок
+der Darm	кишечник
+der Dünndarm	тонкая кишка
+der Dickdarm	толстая кишка
+der Blinddarm	аппендикс
+die Speiseröhre	пищевод
+die Luftröhre	трахея
+das Zwerchfell	диафрагма
+die Harnblase	мочевой пузырь
+die Schilddrüse	щитовидная железа
+die Gebärmutter	матка
+die Prostata	простата
+das Gehirn	головной мозг
+das Rückenmark	спинной мозг
+die Vene	вена
+die Arterie	артерия
+der Nerv	нерв
+der Muskel	мышца
+die Sehne	сухожилие
+das Kreuzband	крестообразная связка
+der Knorpel	хрящ
+das Gelenk	сустав
+der Lymphknoten	лимфоузел
+die Haut	кожа
+die Bronchien	бронхи
+der Harnleiter	мочеточник
+die Eierstöcke	яичники
+das Knochenmark	костный мозг
+die Hirnhaut	мозговая оболочка
+# Как описать боль
+stechende Schmerzen	колющая боль
+brennende Schmerzen	жгучая боль
+dumpfe Schmerzen	тупая боль
+pochende Schmerzen	пульсирующая боль
+krampfartige Schmerzen	схваткообразная боль
+ziehende Schmerzen	тянущая боль
+drückende Schmerzen	давящая боль
+ausstrahlen	отдавать (о боли)
+Der Schmerz strahlt in den linken Arm aus.	Боль отдаёт в левую руку.
+Es tut hier weh, wenn ich drücke.	Здесь больно, когда я нажимаю.
+Die Schmerzen kommen und gehen.	Боль то появляется, то проходит.
+Die Schmerzen werden immer schlimmer.	Боль становится всё сильнее.
+Nachts sind die Schmerzen am stärksten.	Ночью боль сильнее всего.
+Auf einer Skala von 1 bis 10 ist es eine 7.	По шкале от 1 до 10 — на семёрку.
+Beim Gehen tut mir das Knie weh.	При ходьбе у меня болит колено.
+Ich kann den Arm kaum bewegen.	Я едва могу двигать рукой.
+Der Schmerz ist plötzlich aufgetreten.	Боль возникла внезапно.
+Ich habe einen Druck auf der Brust.	У меня давит в груди.
+Es zieht im unteren Rücken.	Тянет в пояснице.
+Mir tut alles weh.	У меня всё тело ломит.
+Der Schmerz lässt langsam nach.	Боль постепенно утихает.
+Wenn ich mich bücke, wird es schlimmer.	Когда наклоняюсь, становится хуже.
+# Общее самочувствие
+die Beschwerden	жалобы (на здоровье)
+das Symptom	симптом
+sich unwohl fühlen	плохо себя чувствовать
+die Müdigkeit	усталость
+die Erschöpfung	изнеможение
+die Schwäche	слабость
+der Schüttelfrost	озноб
+der Schweißausbruch	приступ потливости
+der Nachtschweiß	ночная потливость
+die Appetitlosigkeit	отсутствие аппетита
+die Gewichtsabnahme	потеря веса
+die Schlafstörung	нарушение сна
+die Schlaflosigkeit	бессонница
+Ich bin ständig müde.	Я постоянно чувствую усталость.
+Ich habe keinen Appetit.	У меня нет аппетита.
+Ich habe in letzter Zeit stark abgenommen.	В последнее время я сильно похудел.
+Ich schwitze nachts sehr stark.	Ночью я сильно потею.
+Ich fühle mich schlapp.	Я чувствую себя вялым.
+Mir ist ständig kalt.	Мне постоянно холодно.
+Ich kann nicht durchschlafen.	Я не могу проспать всю ночь.
+Mir wird schwarz vor Augen.	У меня темнеет в глазах.
+Ich bin kurz ohnmächtig geworden.	Я ненадолго потерял сознание.
+das Kribbeln	покалывание
+das Taubheitsgefühl	онемение
+Meine Finger sind taub.	У меня онемели пальцы.
+# Дыхание и сердце
+die Atemnot	одышка
+kurzatmig sein	быстро задыхаться
+der Husten	кашель
+trockener Husten	сухой кашель
+der Auswurf	мокрота
+Beim Treppensteigen bekomme ich keine Luft.	На лестнице мне не хватает воздуха.
+das Pfeifen beim Atmen	свист при дыхании
+das Engegefühl in der Brust	чувство стеснения в груди
+das Herzrasen	учащённое сердцебиение
+das Herzstolpern	перебои в сердце
+Ich habe Herzklopfen.	У меня сильно стучит сердце.
+der Bluthochdruck	гипертония (высокое давление)
+niedriger Blutdruck	пониженное давление
+geschwollene Beine	отёкшие ноги
+Meine Knöchel sind abends geschwollen.	К вечеру у меня отекают лодыжки.
+die Heiserkeit	охриплость
+Ich bin heiser.	Я охрип.
+die verstopfte Nase	заложенный нос
+das Nasenbluten	носовое кровотечение
+Ich huste Blut.	Я кашляю кровью.
+Ich bekomme schlecht Luft durch die Nase.	Мне трудно дышать носом.
+Nachts muss ich mit erhöhtem Oberkörper schlafen.	Ночью приходится спать полусидя.
+die Brustschmerzen	боль в груди
+# Пищеварение и мочеиспускание
+die Übelkeit	тошнота
+das Erbrechen	рвота
+sich übergeben	стошнить
+der Durchfall	диарея
+die Verstopfung	запор
+die Blähungen	вздутие живота
+das Sodbrennen	изжога
+das Völlegefühl	чувство переполнения желудка
+das Aufstoßen	отрыжка
+die Bauchkrämpfe	спазмы в животе
+Ich habe mich zweimal übergeben.	Меня вырвало два раза.
+Ich kann nichts bei mir behalten.	Меня рвёт от любой еды.
+Nach dem Essen habe ich Bauchschmerzen.	После еды у меня болит живот.
+der Stuhlgang	стул (опорожнение кишечника)
+Ich habe Blut im Stuhl bemerkt.	Я заметил кровь в кале.
+Der Stuhl ist schwarz.	Стул чёрного цвета.
+Wasser lassen	мочиться
+Es brennt beim Wasserlassen.	Жжёт при мочеиспускании.
+Ich muss nachts oft auf die Toilette.	Ночью я часто хожу в туалет.
+der Harndrang	позыв к мочеиспусканию
+# Кожа
+der Ausschlag	сыпь
+der Juckreiz	зуд
+Es juckt überall.	Чешется везде.
+die Rötung	покраснение
+die Schwellung	припухлость
+die Blase	волдырь
+der Pickel	прыщ
+die Warze	бородавка
+das Muttermal	родинка
+Das Muttermal hat sich verändert.	Родинка изменилась.
+der blaue Fleck	синяк
+der Bluterguss	гематома
+die Narbe	шрам
+das Ekzem	экзема
+die Nesselsucht	крапивница
+die Schuppenflechte	псориаз
+der Sonnenbrand	солнечный ожог
+Die Haut ist trocken und rissig.	Кожа сухая и потрескавшаяся.
+# Травмы
+die Verletzung	травма
+sich verletzen	пораниться
+der Knochenbruch	перелом кости
+sich das Bein brechen	сломать ногу
+die Verstauchung	растяжение связок
+die Zerrung	растяжение мышцы
+die Prellung	ушиб
+die Verrenkung	вывих
+der Bänderriss	разрыв связок
+die Platzwunde	рваная рана
+die Schnittwunde	резаная рана
+die Schürfwunde	ссадина
+die Brandwunde	ожоговая рана
+die Gehirnerschütterung	сотрясение мозга
+der Bandscheibenvorfall	грыжа межпозвоночного диска
+der Hexenschuss	прострел в пояснице
+der Zeckenbiss	укус клеща
+der Insektenstich	укус насекомого
+die Vergiftung	отравление
+Ich bin auf der Treppe gestürzt.	Я упал на лестнице.
+Ich bin umgeknickt.	Я подвернул ногу.
+Die Wunde blutet stark.	Рана сильно кровоточит.
+Die Wunde hat sich entzündet.	Рана воспалилась.
+Ich habe mir den Kopf angeschlagen.	Я ударился головой.
+Ich kann das Bein nicht belasten.	Я не могу наступать на ногу.
+Ich habe mir beim Kochen die Hand verbrannt.	Я обжёг руку, когда готовил.
+# Инфекции
+die Entzündung	воспаление
+die Infektion	инфекция
+ansteckend	заразный
+sich anstecken	заразиться
+die Grippe	грипп
+die Erkältung	простуда
+die Lungenentzündung	воспаление лёгких
+die Bronchitis	бронхит
+die Mandelentzündung	ангина (тонзиллит)
+die Mittelohrentzündung	отит (воспаление среднего уха)
+die Bindehautentzündung	конъюнктивит
+die Blasenentzündung	цистит
+die Nierenbeckenentzündung	пиелонефрит
+die Magen-Darm-Grippe	кишечный грипп
+die Windpocken	ветрянка
+die Masern	корь
+die Gürtelrose	опоясывающий лишай
+der Keuchhusten	коклюш
+die Blutvergiftung	заражение крови
+erhöhte Temperatur	повышенная температура
+Das Fieber ist auf 39 Grad gestiegen.	Температура поднялась до 39 градусов.
+Das Fieber geht nicht runter.	Температура не снижается.
+Ich habe mich bei meinem Kind angesteckt.	Я заразился от своего ребёнка.
+# Хронические болезни
+die chronische Erkrankung	хроническое заболевание
+der Diabetes	диабет
+Ich bin Diabetiker.	Я диабетик.
+das Asthma	астма
+die Herzschwäche	слабость сердца (недостаточность)
+der Herzinfarkt	инфаркт
+der Schlaganfall	инсульт
+die Arterienverkalkung	атеросклероз
+die Thrombose	тромбоз
+die Krampfadern	варикозные вены
+das Rheuma	ревматизм
+die Arthrose	артроз
+die Gicht	подагра
+die Osteoporose	остеопороз
+die Migräne	мигрень
+die Epilepsie	эпилепсия
+die Schilddrüsenunterfunktion	пониженная функция щитовидки
+die Schilddrüsenüberfunktion	повышенная функция щитовидки
+der Krebs	рак
+der Tumor	опухоль
+die Depression	депрессия
+die Angststörung	тревожное расстройство
+der Heuschnupfen	сенная лихорадка
+die Laktoseintoleranz	непереносимость лактозы
+die Nierensteine	камни в почках
+die Gallensteine	желчные камни
+Die Krankheit liegt bei uns in der Familie.	Эта болезнь у нас в семье наследственная.
+Ich leide seit Jahren an Migräne.	Я много лет страдаю мигренью.
+Mein Vater hatte mit 50 einen Herzinfarkt.	У отца в 50 лет был инфаркт.
+Mein Blutzucker ist schlecht eingestellt.	Мой сахар плохо компенсирован.
+# Глаза, уши, нервная система
+Ich habe ein Flimmern vor den Augen.	У меня мерцание перед глазами.
+Ich sehe doppelt.	У меня двоится в глазах.
+Ich sehe verschwommen.	Я вижу нечётко.
+Meine Augen tränen.	У меня слезятся глаза.
+Mein Ohr ist verstopft.	У меня заложило ухо.
+Ich höre auf dem linken Ohr schlechter.	Левым ухом я слышу хуже.
+Ich habe Ohrensausen.	У меня шумит в ушах.
+der Drehschwindel	вращательное головокружение
+das Zittern	дрожь
+Meine Hände zittern.	У меня трясутся руки.
+die Lähmung	паралич
+die Sprachstörung	нарушение речи
+Ich kann mich schlecht konzentrieren.	Мне трудно сосредоточиться.
+die Vergesslichkeit	забывчивость
+der Krampf	судорога
+Ich habe einen Krampf in der Wade.	У меня судорога в икре.
+# Женское здоровье
+die Regelblutung	менструация
+Meine Periode ist ausgeblieben.	У меня задержка месячных.
+Ich habe starke Regelschmerzen.	У меня сильные боли при месячных.
+die Zwischenblutung	межменструальное кровотечение
+die Schwangerschaft	беременность
+Ich bin in der zwölften Woche schwanger.	Я на двенадцатой неделе беременности.
+die Fehlgeburt	выкидыш
+die Wechseljahre	климакс
+die Hitzewallungen	приливы жара

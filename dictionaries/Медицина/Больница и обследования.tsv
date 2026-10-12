@@ -1,0 +1,314 @@
+# Скорая и приёмное отделение
+die Notaufnahme	приёмное отделение (неотложка)
+der Rettungswagen	машина скорой помощи
+der Notarzt	врач скорой помощи
+der Rettungssanitäter	фельдшер скорой
+die Triage	сортировка пациентов (триаж)
+die Wartezeit	время ожидания
+der Schockraum	противошоковая палата
+eingeliefert werden	быть доставленным в больницу
+Er wurde mit dem Rettungswagen eingeliefert.	Его привезли на скорой.
+Wie lange muss ich hier noch warten?	Сколько мне ещё здесь ждать?
+Lebensbedrohliche Fälle werden zuerst behandelt.	Угрожающие жизни случаи лечат первыми.
+die Einweisung	направление в стационар
+Haben Sie eine Einweisung vom Hausarzt?	У вас есть направление в больницу от терапевта?
+die Erstversorgung	первичная помощь
+die stabile Seitenlage	устойчивое боковое положение
+die Wiederbelebung	сердечно-лёгочная реанимация
+der Herzstillstand	остановка сердца
+der Angehörige	родственник (пациента)
+Wer ist Ihr nächster Angehöriger?	Кто ваш ближайший родственник?
+Sind Sie gegen Tetanus geimpft?	У вас есть прививка от столбняка?
+Ist er bei Bewusstsein?	Он в сознании?
+Seit wann liegt er so da?	Сколько времени он так лежит?
+# Отделения и персонал
+das Klinikum	клиника (крупная больница)
+die Station	отделение (стационара)
+die Intensivstation	отделение интенсивной терапии
+die Kinderstation	детское отделение
+die Chirurgie	хирургия
+die Innere Medizin	терапия (внутренние болезни)
+die Kardiologie	кардиология
+die Neurologie	неврология
+die Orthopädie	ортопедия
+die Gynäkologie	гинекология
+die Ambulanz	амбулатория при больнице
+der Chefarzt	заведующий отделением
+der Oberarzt	старший врач
+der Assistenzarzt	врач-ассистент (ординатор)
+der Stationsarzt	лечащий врач отделения
+der Facharzt	врач-специалист
+die Pflegekraft	сотрудник по уходу
+der Pfleger	медбрат
+die Stationsleitung	старшая медсестра отделения
+das Patientenzimmer	палата
+das Einzelzimmer	одноместная палата
+die Besuchszeit	часы посещения
+Wann darf man Patienten besuchen?	Когда можно навещать пациентов?
+die Patientenklingel	кнопка вызова медсестры
+Drücken Sie die Klingel, wenn Sie etwas brauchen.	Нажмите кнопку вызова, если что-то нужно.
+Darf ich als Begleitperson übernachten?	Можно мне остаться на ночь как сопровождающему?
+# Осмотр
+die Untersuchung	обследование
+untersuchen	обследовать
+die Vorsorgeuntersuchung	профилактический осмотр
+abhören	выслушивать (стетоскопом)
+abtasten	прощупывать
+das Stethoskop	стетоскоп
+den Puls messen	измерять пульс
+den Blutdruck messen	измерять давление
+Fieber messen	измерять температуру
+die Körpergröße	рост
+das Körpergewicht	вес тела
+der Reflex	рефлекс
+der Sehtest	проверка зрения
+der Hörtest	проверка слуха
+der Abstrich	мазок
+die Gewebeprobe	образец ткани
+die Biopsie	биопсия
+Legen Sie sich bitte auf die Liege.	Ложитесь, пожалуйста, на кушетку.
+Machen Sie bitte den Mund weit auf.	Откройте, пожалуйста, широко рот.
+Halten Sie kurz die Luft an.	Задержите ненадолго дыхание.
+Tut das weh, wenn ich hier drücke?	Больно, когда я здесь нажимаю?
+Folgen Sie mit den Augen meinem Finger.	Следите глазами за моим пальцем.
+Wir müssen noch ein paar Tests machen.	Нам нужно провести ещё пару тестов.
+Ziehen Sie sich bitte bis auf die Unterwäsche aus.	Разденьтесь, пожалуйста, до белья.
+# Анализы
+Blut abnehmen	брать кровь
+die Blutabnahme	забор крови
+das Blutbild	общий анализ крови
+das große Blutbild	развёрнутый анализ крови
+der Blutzucker	уровень сахара в крови
+der Cholesterinwert	уровень холестерина
+der Entzündungswert	показатель воспаления
+die Urinprobe	проба мочи
+der Urinbecher	баночка для мочи
+die Stuhlprobe	анализ кала
+der Laborwert	лабораторный показатель
+das Labor	лаборатория
+der Schnelltest	экспресс-тест
+nüchtern	натощак
+Bitte kommen Sie morgen früh nüchtern.	Приходите завтра утром натощак.
+Machen Sie bitte eine Faust.	Сожмите, пожалуйста, кулак.
+Es pikst kurz.	Сейчас немного кольнёт.
+Ich kann kein Blut sehen.	Я не переношу вида крови.
+Die Ergebnisse kommen in drei Tagen.	Результаты будут через три дня.
+Ihre Werte sind im Normbereich.	Ваши показатели в норме.
+Der Wert ist leicht erhöht.	Показатель слегка повышен.
+Die Vene ist schwer zu finden.	Вену трудно найти.
+# Лучевая и функциональная диагностика
+das Röntgen	рентген
+röntgen	делать рентген
+die Röntgenaufnahme	рентгеновский снимок
+der Ultraschall	УЗИ
+das CT	КТ (компьютерная томография)
+das MRT	МРТ (магнитно-резонансная томография)
+das Kontrastmittel	контрастное вещество
+das EKG	ЭКГ
+das Belastungs-EKG	ЭКГ с нагрузкой
+das Langzeit-EKG	суточное мониторирование ЭКГ
+die Magenspiegelung	гастроскопия
+die Darmspiegelung	колоноскопия
+die Lungenfunktionsprüfung	исследование функции лёгких
+die Herzkatheteruntersuchung	катетеризация сердца
+die Mammographie	маммография
+Haben Sie Metall im Körper?	У вас есть металл в теле?
+Legen Sie bitte allen Schmuck ab.	Снимите, пожалуйста, все украшения.
+Bitte nicht bewegen.	Пожалуйста, не двигайтесь.
+Das Gerät ist ziemlich laut.	Аппарат довольно громкий.
+Ich habe Platzangst.	У меня клаустрофобия.
+Sind Sie schwanger?	Вы беременны?
+Das Gel ist etwas kalt.	Гель немного холодный.
+der Befund	заключение (результат обследования)
+Der Befund ist unauffällig.	Результат без патологии.
+# Операция
+die Operation	операция
+operieren	оперировать
+der Eingriff	вмешательство
+ambulant operieren	оперировать амбулаторно
+die Narkose	наркоз
+die Vollnarkose	общий наркоз
+die örtliche Betäubung	местная анестезия
+der Narkosearzt	анестезиолог
+das Aufklärungsgespräch	беседа о рисках (перед операцией)
+die Einwilligung	согласие
+der OP-Saal	операционная
+die Naht	шов
+die Fäden ziehen	снимать швы
+der Verband	повязка
+den Verband wechseln	менять повязку
+die Drainage	дренаж
+der Aufwachraum	палата пробуждения
+die Komplikation	осложнение
+Ab Mitternacht dürfen Sie nichts mehr essen.	После полуночи вам нельзя есть.
+Welche Risiken hat die Operation?	Какие риски у операции?
+Wie lange dauert der Eingriff?	Сколько длится вмешательство?
+Unterschreiben Sie bitte hier die Einwilligung.	Подпишите, пожалуйста, здесь согласие.
+Die Operation ist gut verlaufen.	Операция прошла хорошо.
+Wann darf ich wieder aufstehen?	Когда мне можно вставать?
+Die Fäden werden nach zehn Tagen gezogen.	Швы снимут через десять дней.
+Die Wunde heilt gut.	Рана хорошо заживает.
+# В стационаре
+stationär aufgenommen werden	быть госпитализированным
+die Aufnahme	поступление (в стационар)
+der Krankenhausaufenthalt	пребывание в больнице
+die Visite	обход
+der Tropf	капельница
+die Infusion	инфузия
+der Zugang	венозный катетер
+das Patientenarmband	браслет пациента
+die Bettpfanne	судно
+die Thrombosespritze	укол от тромбоза
+der Rollstuhl	инвалидная коляска
+die Krücken	костыли
+die Schonkost	щадящая диета
+Ich brauche ein Schmerzmittel.	Мне нужно обезболивающее.
+Wann kommt der Arzt zur Visite?	Когда врач придёт на обход?
+Kann ich etwas zu trinken bekommen?	Можно мне что-нибудь попить?
+Ich habe die ganze Nacht nicht geschlafen.	Я всю ночь не спал.
+Sie bekommen heute nur Flüssignahrung.	Сегодня вам только жидкая пища.
+Bitte bringen Sie Ihren Medikamentenplan mit.	Принесите, пожалуйста, свой план приёма лекарств.
+die Wertsachen	ценные вещи
+Haben Sie Ihre Krankenhaustasche gepackt?	Вы собрали сумку в больницу?
+der Sozialdienst	социальная служба больницы
+der Dolmetscher	переводчик
+Ich möchte mich beschweren.	Я хочу подать жалобу.
+der Haupteingang	главный вход
+die Patientenaufnahme	отдел приёма пациентов
+der Patientenfürsprecher	уполномоченный по правам пациентов
+Darf ich hier mein Handy benutzen?	Здесь можно пользоваться телефоном?
+Wo ist der Aufenthaltsraum?	Где комната отдыха?
+Ich möchte auf eigenen Wunsch entlassen werden.	Я хочу выписаться по собственному желанию.
+# Выписка и реабилитация
+die Entlassung	выписка
+entlassen werden	выписываться
+der Entlassungsbrief	выписной эпикриз
+die Reha	реабилитация
+die Anschlussheilbehandlung	долечивание после больницы
+die Physiotherapie	физиотерапия (ЛФК)
+die Nachsorge	последующее наблюдение
+der Kontrolltermin	контрольный приём
+Wann werde ich entlassen?	Когда меня выпишут?
+Sie können morgen nach Hause.	Завтра можете идти домой.
+Geben Sie den Brief bitte Ihrem Hausarzt.	Передайте, пожалуйста, письмо своему терапевту.
+Sie dürfen sechs Wochen nichts Schweres heben.	Шесть недель вам нельзя поднимать тяжёлое.
+die stufenweise Wiedereingliederung	поэтапное возвращение к работе
+die häusliche Pflege	уход на дому
+der Pflegedienst	служба ухода
+die Pflegeversicherung	страхование на случай ухода
+der Pflegegrad	степень потребности в уходе
+# Страховка и документы
+die gesetzliche Krankenversicherung	обязательное медстрахование
+die private Krankenversicherung	частное медстрахование
+die Zusatzversicherung	дополнительная страховка
+die elektronische Gesundheitskarte	электронная карта медстрахования
+die Zuzahlung	доплата
+die Überweisung	направление (к специалисту)
+die Kostenübernahme	покрытие расходов
+der Eigenanteil	собственная доля расходов
+der Selbstzahler	пациент, платящий сам
+die IGeL-Leistung	платная услуга (не по страховке)
+die Patientenverfügung	распоряжение пациента о лечении
+die Vorsorgevollmacht	доверенность на случай недееспособности
+die Schweigepflicht	врачебная тайна
+die Krankenakte	медкарта (история болезни)
+der Impfpass	прививочный паспорт
+der Mutterpass	карта беременной
+Die Kosten übernimmt die Kasse nicht.	Касса не покрывает эти расходы.
+Ich möchte meine Unterlagen anfordern.	Я хочу запросить свои документы.
+Brauche ich eine Überweisung vom Hausarzt?	Мне нужно направление от терапевта?
+Das ist eine Selbstzahlerleistung.	Эту услугу оплачивают сами.
+Ich hätte gern eine Kopie der Befunde.	Я бы хотел копию результатов.
+# Запись к специалисту
+der Hautarzt	дерматолог
+der Augenarzt	офтальмолог
+der HNO-Arzt	лор-врач
+der Frauenarzt	врач-гинеколог
+der Urologe	уролог
+der Kardiologe	кардиолог
+der Orthopäde	ортопед
+der Neurologe	невролог
+der Psychiater	психиатр
+der Psychotherapeut	психотерапевт
+der Kinderarzt	педиатр
+der Radiologe	рентгенолог
+der Internist	терапевт-интернист
+die Terminservicestelle	служба записи к врачам
+die Videosprechstunde	онлайн-консультация
+Auf einen Termin beim Neurologen wartet man Monate.	Приёма у невролога ждут месяцами.
+Ich habe eine Überweisung zum Kardiologen.	У меня направление к кардиологу.
+Gibt es eine Warteliste?	Есть лист ожидания?
+Rufen Sie bitte an, falls Sie absagen.	Позвоните, если будете отменять.
+Ich möchte eine Zweitmeinung einholen.	Я хочу получить второе мнение.
+Wie komme ich zur Station 4B?	Как пройти в отделение 4B?
+# Прививки и профилактика
+die Impfung	прививка
+impfen	прививать
+die Auffrischungsimpfung	ревакцинация
+die Grippeimpfung	прививка от гриппа
+die Impfreaktion	реакция на прививку
+die Krebsvorsorge	онкоскрининг
+die Früherkennung	раннее выявление
+Die Impfung wird von der Kasse bezahlt.	Прививку оплачивает касса.
+Der Arm kann ein paar Tage wehtun.	Рука может болеть пару дней.
+Bringen Sie bitte Ihren Impfpass mit.	Принесите, пожалуйста, прививочный паспорт.
+Ab 35 haben Sie alle drei Jahre Anspruch auf einen Check-up.	С 35 лет раз в три года положен чекап.
+# Разговор о результатах
+Was bedeutet dieser Befund?	Что означает это заключение?
+gutartig	доброкачественный
+bösartig	злокачественный
+Ist es gutartig oder bösartig?	Это доброкачественное или злокачественное?
+der Verdacht auf	подозрение на
+Es besteht der Verdacht auf eine Blinddarmentzündung.	Есть подозрение на аппендицит.
+Das müssen wir weiter abklären.	Это нужно дополнительно проверить.
+Muss ich operiert werden?	Мне нужна операция?
+Gibt es andere Behandlungsmöglichkeiten?	Есть другие варианты лечения?
+Wie sind die Heilungschancen?	Каковы шансы на выздоровление?
+Können Sie das bitte einfacher erklären?	Можете объяснить попроще?
+Darf mein Mann beim Gespräch dabei sein?	Можно моему мужу присутствовать при разговоре?
+# Роды и дети
+die Hebamme	акушерка
+der Kreißsaal	родильный зал
+die Entbindungsstation	родильное отделение
+die Wehen	схватки
+die Geburt	роды
+der Geburtstermin	предполагаемая дата родов
+der Kaiserschnitt	кесарево сечение
+die PDA	эпидуральная анестезия
+das Neugeborene	новорождённый
+das Wochenbett	послеродовой период
+Die Fruchtblase ist geplatzt.	Отошли воды.
+Die Wehen kommen alle fünf Minuten.	Схватки каждые пять минут.
+die Kinderklinik	детская больница
+Darf ich bei meinem Kind bleiben?	Можно мне остаться с ребёнком?
+Mein Kind hat hohes Fieber und ist sehr schläfrig.	У ребёнка высокая температура, он очень сонный.
+die U-Untersuchung	плановый осмотр ребёнка (U1–U9)
+das gelbe Heft	жёлтая книжка осмотров ребёнка
+der Fieberkrampf	фебрильные судороги
+Hat Ihr Kind genug getrunken?	Ваш ребёнок достаточно пил?
+# Процедуры и лечение
+der Gips	гипс
+die Schiene	шина (ортез)
+die Bandage	бандаж
+der Katheter	катетер
+die Dialyse	диализ
+die Chemotherapie	химиотерапия
+die Bestrahlung	лучевая терапия
+die Punktion	пункция
+die Inhalation	ингаляция
+die Krankengymnastik	лечебная гимнастика
+die Ergotherapie	эрготерапия
+die Logopädie	логопедия
+die Lymphdrainage	лимфодренаж
+Der Gips muss sechs Wochen dranbleiben.	Гипс нужно носить шесть недель.
+Wie oft muss ich zur Dialyse?	Как часто мне нужно на диализ?
+Mir wurden sechs Sitzungen Physiotherapie verschrieben.	Мне выписали шесть сеансов физиотерапии.
+# Психическое здоровье
+die psychiatrische Klinik	психиатрическая клиника
+die Tagesklinik	дневной стационар
+die Psychosomatik	психосоматика
+der Burnout	выгорание
+die Suchtberatung	консультация по зависимостям
+der Entzug	лечение зависимости (детокс)
+die Telefonseelsorge	телефон доверия
+Ich brauche dringend psychologische Hilfe.	Мне срочно нужна психологическая помощь.

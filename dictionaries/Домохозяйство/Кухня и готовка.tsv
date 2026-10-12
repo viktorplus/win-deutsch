@@ -1,0 +1,358 @@
+# Кухонная техника
+der Herd	плита
+die Herdplatte	конфорка
+das Kochfeld	варочная панель
+das Ceranfeld	стеклокерамическая панель
+das Induktionskochfeld	индукционная плита
+der Backofen	духовка
+die Mikrowelle	микроволновка
+der Kühlschrank	холодильник
+der Gefrierschrank	морозильник
+das Gefrierfach	морозильное отделение
+die Spülmaschine	посудомоечная машина
+der Wasserkocher	электрочайник
+die Kaffeemaschine	кофеварка
+der Toaster	тостер
+der Standmixer	блендер (стационарный)
+der Pürierstab	погружной блендер
+der Handmixer	ручной миксер
+die Küchenmaschine	кухонный комбайн
+die Dunstabzugshaube	вытяжка
+die Heißluftfritteuse	аэрогриль
+der Reiskocher	рисоварка
+die Küchenwaage	кухонные весы
+Der Kühlschrank kühlt nicht richtig.	Холодильник плохо охлаждает.
+Mach bitte die Dunstabzugshaube an.	Включи, пожалуйста, вытяжку.
+Die Mikrowelle piept.	Микроволновка пищит.
+Stell den Herd auf mittlere Stufe.	Поставь плиту на средний огонь.
+Die Herdplatte ist noch heiß.	Конфорка ещё горячая.
+
+# Посуда и приборы
+das Geschirr	посуда
+der Teller	тарелка
+der tiefe Teller	глубокая тарелка
+die Schüssel	миска
+die Tasse	чашка
+der Becher	кружка
+das Glas	стакан
+die Untertasse	блюдце
+die Teekanne	заварочный чайник
+die Karaffe	графин
+das Tablett	поднос
+das Besteck	столовые приборы
+die Gabel	вилка
+der Löffel	ложка
+der Teelöffel	чайная ложка
+das Messer	нож
+die Serviette	салфетка (столовая)
+spülmaschinenfest	можно мыть в посудомойке
+den Tisch decken	накрыть на стол
+den Tisch abräumen	убрать со стола
+Kannst du bitte den Tisch decken?	Можешь накрыть на стол?
+Die Teller stehen im oberen Schrank.	Тарелки стоят в верхнем шкафу.
+Das Glas ist zerbrochen.	Стакан разбился.
+
+# Кухонная утварь
+der Topf	кастрюля
+die Pfanne	сковорода
+der Deckel	крышка
+der Schnellkochtopf	скороварка
+der Bräter	гусятница (жаровня)
+das Schneidebrett	разделочная доска
+das Küchenmesser	кухонный нож
+der Sparschäler	овощечистка
+die Reibe	тёрка
+der Schneebesen	венчик
+der Kochlöffel	деревянная ложка (мешалка)
+der Pfannenwender	лопатка
+die Schöpfkelle	половник
+das Sieb	сито
+das Nudelsieb	дуршлаг
+die Knoblauchpresse	чесночница
+der Dosenöffner	консервный нож
+der Flaschenöffner	открывалка для бутылок
+der Korkenzieher	штопор
+die Küchenschere	кухонные ножницы
+das Backblech	противень
+die Backform	форма для выпечки
+das Backpapier	пергамент для выпечки
+die Frischhaltefolie	пищевая плёнка
+die Alufolie	фольга
+der Messbecher	мерный стакан
+das Nudelholz	скалка
+der Topflappen	прихватка
+die Schürze	фартук
+Wo ist der Deckel zu diesem Topf?	Где крышка от этой кастрюли?
+Die Pfanne ist beschichtet.	У сковороды антипригарное покрытие.
+
+# Продукты: основное
+die Lebensmittel (Pl.)	продукты питания
+das Brot	хлеб
+das Vollkornbrot	цельнозерновой хлеб
+das Brötchen	булочка
+das Mehl	мука
+der Zucker	сахар
+das Salz	соль
+der Reis	рис
+die Nudeln (Pl.)	макароны
+die Haferflocken (Pl.)	овсяные хлопья
+das Öl	растительное масло
+das Olivenöl	оливковое масло
+der Essig	уксус
+das Ei	яйцо
+die Hefe	дрожжи
+das Backpulver	разрыхлитель
+die Linsen (Pl.)	чечевица
+die Kartoffel	картофель
+die Brühe	бульон
+der Honig	мёд
+die Marmelade	джем (варенье)
+die Konserve	консервы
+die Tiefkühlkost	замороженные продукты
+das Fertiggericht	готовое блюдо (полуфабрикат)
+
+# Овощи, фрукты, зелень
+das Gemüse	овощи
+das Obst	фрукты
+die Zwiebel	лук (репчатый)
+der Knoblauch	чеснок
+die Möhre	морковь
+die Tomate	помидор
+die Gurke	огурец
+die Paprika	сладкий перец
+der Kohl	капуста
+der Blumenkohl	цветная капуста
+der Brokkoli	брокколи
+die Zucchini	кабачок
+die Aubergine	баклажан
+der Pilz	гриб
+die Rote Bete	свёкла
+der Salat	салат
+der Apfel	яблоко
+die Birne	груша
+die Banane	банан
+die Zitrone	лимон
+die Petersilie	петрушка
+der Dill	укроп
+der Schnittlauch	шнитт-лук
+die Frühlingszwiebel	зелёный лук
+reif	спелый
+unreif	неспелый
+Die Bananen sind schon braun.	Бананы уже потемнели.
+Das Gemüse ist aus der Region.	Овощи местные.
+
+# Мясо, рыба, молочное
+das Fleisch	мясо
+das Hackfleisch	фарш
+das Hähnchen	курица (тушка)
+die Hähnchenbrust	куриная грудка
+das Schweinefleisch	свинина
+das Rindfleisch	говядина
+die Wurst	колбаса
+der Schinken	ветчина
+der Fisch	рыба
+der Lachs	лосось
+die Milch	молоко
+die Butter	сливочное масло
+der Käse	сыр
+der Quark	творог
+der Joghurt	йогурт
+die Sahne	сливки
+die saure Sahne	сметана
+der Schmand	жирная сметана
+laktosefrei	безлактозный
+vegetarisch	вегетарианский
+vegan	веганский
+Ich esse kein Fleisch.	Я не ем мясо.
+
+# Специи и приправы
+das Gewürz	специя
+der Pfeffer	чёрный перец
+das Paprikapulver	молотая паприка
+der Zimt	корица
+das Lorbeerblatt	лавровый лист
+der Kümmel	тмин
+die Muskatnuss	мускатный орех
+der Senf	горчица
+der Ketchup	кетчуп
+die Sojasoße	соевый соус
+die Kräuter (Pl.)	травы (зелень)
+eine Prise Salz	щепотка соли
+würzen	приправлять
+salzen	солить
+pfeffern	перчить
+abschmecken	доводить до вкуса
+mit Salz und Pfeffer abschmecken	посолить и поперчить по вкусу
+scharf	острый
+mild	неострый (мягкий)
+fade	пресный
+versalzen	пересоленный
+Es fehlt noch etwas Salz.	Не хватает соли.
+
+# Нарезка и подготовка
+schneiden	резать
+klein schneiden	мелко нарезать
+in Würfel schneiden	нарезать кубиками
+in Scheiben schneiden	нарезать ломтиками
+in Streifen schneiden	нарезать соломкой
+hacken	рубить
+schälen	чистить (от кожуры)
+reiben	тереть на тёрке
+das Gemüse waschen	помыть овощи
+abtropfen lassen	дать стечь воде
+rühren	мешать
+umrühren	помешивать
+verrühren	размешать
+mischen	смешивать
+schlagen	взбивать
+die Sahne steif schlagen	взбить сливки
+kneten	месить
+der Teig	тесто
+den Teig ausrollen	раскатать тесто
+marinieren	мариновать
+auftauen	размораживать (продукты)
+entkernen	удалить косточки
+halbieren	разрезать пополам
+Schneid bitte die Zwiebeln.	Нарежь, пожалуйста, лук.
+Beim Zwiebelschneiden muss ich weinen.	Когда режу лук, я плачу.
+Das Messer ist stumpf.	Нож тупой.
+Ich habe mich in den Finger geschnitten.	Я порезал палец.
+
+# Варка, жарка, выпечка
+kochen	варить (готовить)
+zum Kochen bringen	довести до кипения
+köcheln lassen	варить на медленном огне
+aufkochen	вскипятить
+dünsten	припускать
+dämpfen	готовить на пару
+schmoren	тушить
+braten	жарить
+anbraten	обжарить
+frittieren	жарить во фритюре
+grillen	жарить на гриле
+backen	печь
+überbacken	запекать с корочкой
+garen	доводить до готовности
+den Backofen vorheizen	разогреть духовку
+aufwärmen	разогревать
+anbrennen	пригорать
+gar	готовый (сваренный)
+knusprig	хрустящий
+saftig	сочный
+der Kuchen	пирог (торт)
+das Gericht	блюдо
+die Beilage	гарнир
+die Suppe	суп
+die Soße	соус
+das Rührei	яичница-болтунья
+das Spiegelei	глазунья
+Das Essen ist angebrannt.	Еда подгорела.
+Das Wasser kocht.	Вода кипит.
+Die Nudeln sind al dente.	Макароны аль денте.
+Der Kuchen ist im Ofen.	Пирог в духовке.
+Lass es zehn Minuten köcheln.	Пусть поварится десять минут.
+Das Fleisch ist noch roh.	Мясо ещё сырое.
+Bei 180 Grad 30 Minuten backen.	Печь 30 минут при 180 градусах.
+
+# Рецепты и меры
+das Rezept	рецепт
+das Kochbuch	кулинарная книга
+die Zutaten (Pl.)	ингредиенты
+die Zubereitung	приготовление
+die Portion	порция
+für vier Personen	на четыре персоны
+das Gramm	грамм
+das Kilo	килограмм
+der Liter	литр
+der Esslöffel	столовая ложка
+ein gestrichener Teelöffel	чайная ложка без горки
+ein Becher Sahne	стаканчик сливок
+eine Packung	пачка
+eine Dose Tomaten	банка томатов
+nach Belieben	по желанию
+abwiegen	взвешивать
+die Kochzeit	время варки
+die Backzeit	время выпечки
+Hast du ein gutes Rezept für Gulasch?	У тебя есть хороший рецепт гуляша?
+Das Rezept ist von meiner Oma.	Это рецепт моей бабушки.
+Was brauchen wir für den Kuchen?	Что нам нужно для пирога?
+Das steht nicht im Rezept.	Этого нет в рецепте.
+
+# Запасы и хранение
+die Vorräte (Pl.)	запасы
+der Vorratsschrank	шкаф для продуктов
+die Speisekammer	кладовая
+haltbar	долго хранящийся
+das Mindesthaltbarkeitsdatum	срок годности
+abgelaufen	просроченный
+schimmelig	заплесневелый
+verderben	портиться
+einfrieren	замораживать
+kühl lagern	хранить в прохладе
+im Kühlschrank aufbewahren	хранить в холодильнике
+nach dem Öffnen	после вскрытия
+die Dose	консервная банка
+das Einmachglas	банка для консервирования
+die Frischhaltedose	контейнер для продуктов
+die Reste (Pl.)	остатки еды
+Reste verwerten	использовать остатки
+Lebensmittel verschwenden	выбрасывать продукты зря
+einkochen	консервировать (варить)
+Die Milch ist abgelaufen.	Молоко просрочено.
+Das Brot ist schimmelig.	Хлеб заплесневел.
+Die Milch ist sauer.	Молоко скисло.
+Wir haben keine Eier mehr.	У нас кончились яйца.
+Ist noch Milch da?	Молоко ещё есть?
+
+# Покупки продуктов
+einkaufen	делать покупки
+einkaufen gehen	идти за покупками
+der Einkaufszettel	список покупок
+der Supermarkt	супермаркет
+der Discounter	дискаунтер
+der Wochenmarkt	рынок (еженедельный)
+die Bäckerei	булочная
+die Metzgerei	мясная лавка
+der Bioladen	магазин экопродуктов
+der Einkaufswagen	тележка для покупок
+die Einkaufstasche	сумка для покупок
+die Tüte	пакет
+die Kasse	касса
+das Sonderangebot	спецпредложение
+im Angebot	по акции
+frisch	свежий
+Was steht auf dem Einkaufszettel?	Что в списке покупок?
+Kannst du auf dem Heimweg Brot mitbringen?	Купишь хлеба по дороге домой?
+Brauchen Sie eine Tüte?	Вам нужен пакет?
+Ich gehe schnell zum Bäcker.	Я быстро сбегаю за хлебом.
+Zahlen Sie bar oder mit Karte?	Наличными или картой?
+Die Tomaten kosten 2 Euro das Kilo.	Помидоры стоят 2 евро за кило.
+Ich hätte gern 200 Gramm Käse.	Мне, пожалуйста, 200 граммов сыра.
+Der Laden hat sonntags geschlossen.	В воскресенье магазин закрыт.
+Wir kaufen einmal pro Woche groß ein.	Раз в неделю мы делаем большую закупку.
+Der Kühlschrank ist leer.	Холодильник пуст.
+
+# За столом и на кухне
+das Frühstück	завтрак
+das Mittagessen	обед
+das Abendessen	ужин
+die Vorspeise	закуска
+die Hauptspeise	основное блюдо
+der Nachtisch	десерт
+lecker	вкусный
+vorkochen	готовить заранее
+Wasser für die Nudeln aufsetzen	поставить воду для макарон
+Was gibt es heute zu essen?	Что у нас сегодня поесть?
+Das Essen ist fertig!	Еда готова!
+Guten Appetit!	Приятного аппетита!
+Es schmeckt sehr gut.	Очень вкусно.
+Probier mal!	Попробуй!
+Das riecht lecker.	Вкусно пахнет.
+Ich koche heute Abend.	Сегодня вечером готовлю я.
+Wer kocht heute?	Кто сегодня готовит?
+Möchtest du noch etwas?	Хочешь ещё?
+Ich bin satt.	Я наелся.
+Ich habe Hunger.	Я голоден.
+Das ist mir zu salzig.	Для меня слишком солёно.
+Ich koche für die ganze Woche vor.	Я готовлю на всю неделю вперёд.
+Lass uns heute etwas bestellen.	Давай сегодня закажем еду.

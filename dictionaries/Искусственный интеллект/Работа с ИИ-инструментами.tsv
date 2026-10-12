@@ -1,0 +1,337 @@
+# Чат-боты и ассистенты
+der Chatbot	чат-бот
+der KI-Assistent	ИИ-ассистент
+der Sprachassistent	голосовой помощник
+das Sprachmodell	языковая модель
+das große Sprachmodell	большая языковая модель (LLM)
+der Chatverlauf	история переписки (чата)
+die Antwort	ответ
+die Frage	вопрос
+der Dialog	диалог
+der Chat	чат
+das Chatfenster	окно чата
+einen neuen Chat starten	начать новый чат
+eine Frage stellen	задать вопрос
+antworten	отвечать
+die Benutzeroberfläche	интерфейс пользователя
+das Abo	подписка
+die kostenlose Version	бесплатная версия
+die Bezahlversion	платная версия
+Der Chatbot beantwortet Kundenanfragen rund um die Uhr.	Чат-бот круглосуточно отвечает на запросы клиентов.
+Ich habe den Chatbot gefragt, und er wusste es nicht.	Я спросил чат-бота, а он не знал.
+Der Assistent hat mir die Mail in zwei Minuten geschrieben.	Ассистент написал мне письмо за две минуты.
+Frag doch mal die KI!	Спроси у ИИ!
+Die Antwort klingt überzeugend, ist aber falsch.	Ответ звучит убедительно, но он неверен.
+Für die Bezahlversion zahlen wir zwanzig Euro im Monat.	За платную версию мы платим двадцать евро в месяц.
+
+# Промпты
+der Prompt	промпт (запрос к ИИ)
+einen Prompt schreiben	писать промпт
+das Prompt Engineering	промпт-инжиниринг
+die Anweisung	указание (инструкция)
+die Rolle	роль
+der Kontext	контекст
+das Kontextfenster	контекстное окно
+das Beispiel	пример
+präzise formulieren	формулировать точно
+die Formulierung	формулировка
+umformulieren	переформулировать
+nachfragen	переспрашивать (уточнять)
+die Rückfrage	уточняющий вопрос
+der Systemprompt	системный промпт
+die Vorlage	шаблон
+die Prompt-Bibliothek	библиотека промптов
+das Ausgabeformat	формат ответа
+Je genauer der Prompt, desto besser das Ergebnis.	Чем точнее промпт, тем лучше результат.
+Gib der KI eine klare Rolle vor.	Задай ИИ чёткую роль.
+Formuliere den Prompt etwas konkreter.	Сформулируй промпт конкретнее.
+Antworte bitte in Stichpunkten.	Ответь, пожалуйста, тезисами.
+Fasse den Text in drei Sätzen zusammen.	Перескажи текст в трёх предложениях.
+Schreib das bitte etwas förmlicher.	Напиши это, пожалуйста, официальнее.
+Erkläre es so, als wäre ich zehn Jahre alt.	Объясни так, будто мне десять лет.
+Ich habe den Prompt mehrmals angepasst.	Я несколько раз менял промпт.
+Mit ein paar Beispielen klappt es viel besser.	С парой примеров получается гораздо лучше.
+Stell dir vor, du bist ein erfahrener Steuerberater.	Представь, что ты опытный налоговый консультант.
+Gib die Antwort als Tabelle aus.	Выведи ответ в виде таблицы.
+
+# Языковые модели
+generativ	генеративный
+die generative KI	генеративный ИИ
+die Halluzination	галлюцинация
+halluzinieren	галлюцинировать
+erfinden	придумывать (факты)
+der Wissensstand	уровень знаний (модели)
+die Quelle	источник
+die Quellenangabe	ссылка на источник
+überprüfen	перепроверять
+der Faktencheck	проверка фактов
+plausibel	правдоподобный
+das Open-Source-Modell	модель с открытым кодом
+der Anbieter	провайдер (поставщик)
+die API	API (программный интерфейс)
+lokal ausführen	запускать локально
+Das Modell hat sich die Quelle einfach ausgedacht.	Модель просто придумала источник.
+Sprachmodelle können halluzinieren.	Языковые модели могут галлюцинировать.
+Prüf die Fakten lieber noch mal nach.	Лучше перепроверь факты.
+Das Modell kennt nur Daten bis zu einem bestimmten Datum.	Модель знает данные лишь до определённой даты.
+Welches Modell nutzt ihr in der Firma?	Какую модель вы используете в компании?
+Wir lassen das Modell lokal laufen.	Мы запускаем модель локально.
+Der Anbieter speichert unsere Eingaben nicht.	Провайдер не хранит наши запросы.
+
+# Генерация текстов
+einen Text generieren	генерировать текст
+der Entwurf	черновик
+einen Entwurf erstellen	составить черновик
+zusammenfassen	резюмировать
+die Zusammenfassung	краткое содержание
+übersetzen	переводить
+korrigieren	исправлять
+Korrektur lesen	вычитывать
+der Stil	стиль
+der Tonfall	тон
+umschreiben	переписывать
+kürzen	сокращать
+die Gliederung	план (структура текста)
+der Blogbeitrag	пост для блога
+der Werbetext	рекламный текст
+die Produktbeschreibung	описание товара
+die Stellenanzeige	вакансия (объявление)
+das Anschreiben	сопроводительное письмо
+Ich lasse mir erst mal einen Entwurf schreiben.	Сначала пусть ИИ напишет черновик.
+Der Text klingt zu sehr nach KI.	Текст слишком отдаёт ИИ.
+Kannst du das kürzer und freundlicher machen?	Можешь сделать покороче и дружелюбнее?
+Die Zusammenfassung spart mir viel Lesezeit.	Резюме экономит мне много времени на чтение.
+Übersetze die E-Mail bitte ins Englische.	Переведи, пожалуйста, письмо на английский.
+Den Feinschliff mache ich selbst.	Окончательную шлифовку делаю сам.
+Schreib mir drei Vorschläge für die Betreffzeile.	Напиши три варианта темы письма.
+
+# Генерация изображений
+der Bildgenerator	генератор изображений
+ein Bild generieren	сгенерировать картинку
+das KI-Bild	изображение, созданное ИИ
+die Bildbeschreibung	описание изображения
+fotorealistisch	фотореалистичный
+die Illustration	иллюстрация
+das Logo	логотип
+die Bildbearbeitung	редактирование изображений
+den Hintergrund entfernen	удалять фон
+die Variante	вариант
+das Seitenverhältnis	соотношение сторон
+die Bildrechte (Pl.)	права на изображение
+das Wasserzeichen	водяной знак
+das Titelbild	обложка (титульная картинка)
+Das Bild sieht täuschend echt aus.	Картинка выглядит совсем как настоящая.
+Die Hände sehen auf KI-Bildern oft seltsam aus.	На ИИ-картинках руки часто выглядят странно.
+Erstelle mir vier Varianten für das Titelbild.	Сделай четыре варианта обложки.
+Für die Präsentation habe ich die Bilder generiert.	Картинки для презентации я сгенерировал.
+Darf ich das Bild kommerziell nutzen?	Можно использовать картинку в коммерческих целях?
+
+# Автоматизация в офисе
+die Büroarbeit	офисная работа
+die Routineaufgabe	рутинная задача
+automatisieren	автоматизировать
+der Arbeitsablauf	рабочий процесс
+der Workflow	воркфлоу (последовательность задач)
+das Protokoll	протокол (встречи)
+das Meeting	совещание (митинг)
+die Transkription	расшифровка (транскрипция)
+transkribieren	расшифровывать запись
+die Tabellenkalkulation	электронная таблица
+die Formel	формула
+das Postfach	почтовый ящик
+die Terminplanung	планирование встреч
+die Rechnung	счёт (фактура)
+die Rechnungsverarbeitung	обработка счетов
+das Dokument	документ
+die Zeitersparnis	экономия времени
+die Effizienz	эффективность
+produktiv	продуктивный
+die Produktivität	продуктивность
+Die KI schreibt automatisch das Protokoll.	ИИ автоматически ведёт протокол.
+Das spart mir jeden Tag eine Stunde.	Это экономит мне час каждый день.
+Die Rechnungen werden jetzt automatisch erfasst.	Счета теперь вносятся автоматически.
+Lass dir die Formel für Excel erklären.	Попроси объяснить формулу для Excel.
+Routineaufgaben übernimmt bei uns die KI.	У нас рутину берёт на себя ИИ.
+Das Meeting wurde automatisch transkribiert.	Совещание было расшифровано автоматически.
+Mein Postfach sortiert sich inzwischen fast von selbst.	Мой ящик теперь сортируется почти сам.
+
+# ИИ на работе: разговоры
+Nutzt du KI bei der Arbeit?	Ты используешь ИИ на работе?
+Ich nutze KI vor allem für E-Mails.	Я использую ИИ в основном для писем.
+Bei uns ist ChatGPT offiziell erlaubt.	У нас ChatGPT официально разрешён.
+Unsere Firma hat einen eigenen KI-Assistenten.	У нашей компании свой ИИ-ассистент.
+Ohne KI wäre ich nie so schnell fertig geworden.	Без ИИ я бы так быстро не справился.
+Ehrlich gesagt war das Ergebnis enttäuschend.	Честно говоря, результат разочаровал.
+Ich traue den Antworten nicht ganz.	Я не вполне доверяю ответам.
+Das hat die KI geschrieben, oder?	Это ведь ИИ написал?
+Man merkt sofort, dass der Text generiert ist.	Сразу видно, что текст сгенерирован.
+Die KI ersetzt mich nicht, sie unterstützt mich.	ИИ меня не заменяет, а помогает.
+Ich habe gestern einen Workshop zu KI-Tools besucht.	Вчера я был на воркшопе по ИИ-инструментам.
+Wer sich nicht mit KI beschäftigt, wird abgehängt.	Кто не осваивает ИИ, отстанет.
+Das kann die KI noch nicht wirklich gut.	Это ИИ пока делает не очень хорошо.
+Für Kreatives nutze ich lieber meinen eigenen Kopf.	Для творческих задач я предпочитаю свою голову.
+Dürfen wir Kundendaten in das Tool eingeben?	Можно вводить данные клиентов в этот инструмент?
+Bitte keine vertraulichen Daten in den Chatbot kopieren!	Не копируйте конфиденциальные данные в чат-бот!
+Die IT hat das Tool noch nicht freigegeben.	ИТ-отдел ещё не одобрил этот инструмент.
+Ich probier das mal mit der KI aus.	Попробую это с помощью ИИ.
+Der Chef will, dass wir mehr mit KI arbeiten.	Начальник хочет, чтобы мы больше работали с ИИ.
+Wir haben die KI-Nutzung im Team geregelt.	Мы урегулировали использование ИИ в команде.
+Seit wir KI nutzen, bleibt mehr Zeit für Kunden.	С ИИ у нас больше времени на клиентов.
+Das Ergebnis war erstaunlich gut.	Результат оказался удивительно хорошим.
+Am Anfang war ich ziemlich skeptisch.	Сначала я был настроен довольно скептически.
+
+# Инструменты и интеграция
+das KI-Tool	ИИ-инструмент
+das Werkzeug	инструмент (средство)
+das Plug-in	плагин
+die Erweiterung	расширение
+die Integration	интеграция
+integrieren	интегрировать
+die App	приложение (мобильное)
+die Lizenz	лицензия
+der Zugang	доступ (аккаунт)
+das Benutzerkonto	учётная запись
+sich anmelden	входить в систему
+die Einstellungen (Pl.)	настройки
+der Verlauf	история (запросов)
+löschen	удалять
+eine Datei hochladen	загрузить файл
+herunterladen	скачивать
+die Programmierhilfe	помощь в программировании
+der Codevorschlag	подсказка кода
+die Suchmaschine	поисковая система
+die Websuche	поиск в интернете
+die Spracheingabe	голосовой ввод
+die Sprachausgabe	озвучивание (голосовой вывод)
+Lade die PDF hoch und stell deine Fragen.	Загрузи PDF и задавай вопросы.
+Das Plug-in ist direkt in Outlook integriert.	Плагин встроен прямо в Outlook.
+Wir haben zehn Lizenzen für das Team gekauft.	Мы купили десять лицензий для команды.
+Lösch bitte den Verlauf nach der Sitzung.	Удали, пожалуйста, историю после сеанса.
+Die KI schlägt beim Programmieren den nächsten Codeblock vor.	При программировании ИИ подсказывает следующий блок кода.
+
+# Агенты и автоматизация процессов
+der KI-Agent	ИИ-агент
+die Aufgabe	задача
+eine Aufgabe delegieren	делегировать задачу
+selbstständig	самостоятельно
+der Arbeitsschritt	рабочий шаг
+die Prozessautomatisierung	автоматизация процессов
+der Bot	бот
+auslösen	запускать (триггерить)
+der Auslöser	триггер
+die Freigabe	одобрение (согласование)
+kontrollieren	контролировать
+die Kontrolle	контроль
+die Kundenanfrage	запрос клиента
+das Ticket	тикет (заявка)
+weiterleiten	пересылать
+Der Agent bucht selbstständig Termine.	Агент сам назначает встречи.
+Am Ende muss immer ein Mensch freigeben.	В конце всегда должен одобрить человек.
+Der Bot sortiert eingehende Anfragen vor.	Бот предварительно сортирует входящие запросы.
+Schwierige Fälle leitet der Bot an einen Mitarbeiter weiter.	Сложные случаи бот передаёт сотруднику.
+Jedes Ticket bekommt automatisch eine Kategorie.	Каждому тикету автоматически присваивается категория.
+
+# Обучение и навыки
+die KI-Kompetenz	ИИ-грамотность
+die Schulung	обучение (курс для сотрудников)
+die Weiterbildung	повышение квалификации
+der Leitfaden	руководство (памятка)
+die Nutzungsrichtlinie	правила использования
+ausprobieren	пробовать
+experimentieren	экспериментировать
+die Erfahrung	опыт
+der Tipp	совет
+der Anfänger	новичок
+der Umgang mit KI	обращение с ИИ
+Alle Mitarbeiter bekommen eine KI-Schulung.	Все сотрудники проходят обучение по ИИ.
+Hast du einen guten Tipp für Prompts?	Есть хороший совет по промптам?
+Am besten lernt man durch Ausprobieren.	Лучше всего учиться на практике.
+Laut Leitfaden dürfen wir nur freigegebene Tools nutzen.	По памятке можно пользоваться только одобренными инструментами.
+
+# Качество и проверка
+die Qualität	качество
+die Fehlerquelle	источник ошибок
+der Fehler	ошибка
+nacharbeiten	дорабатывать
+die Nachbearbeitung	доработка
+gegenlesen	перечитывать (проверять)
+die Endkontrolle	финальная проверка
+die Richtigkeit	правильность
+Ohne Nachbearbeitung geht es selten.	Без доработки редко обходится.
+Lies den Text vorher noch mal gegen.	Перечитай текст ещё раз перед отправкой.
+Die Zahlen stimmen nicht, bitte prüfen.	Цифры не сходятся, проверьте.
+Für die Richtigkeit bist du selbst verantwortlich.	За правильность отвечаешь ты сам.
+Die KI hat sich bei der Rechnung vertan.	ИИ ошибся в расчёте.
+
+# Документы и перевод
+das PDF	PDF-файл
+die Präsentation	презентация
+die Folie	слайд
+der Bericht	отчёт
+das Handbuch	руководство пользователя
+der Vertrag	договор
+die Klausel	пункт договора
+die Kernaussage	основная мысль
+die Stichpunkte (Pl.)	тезисы
+herausfiltern	отбирать (выделять)
+Die KI erstellt aus dem Bericht zehn Folien.	ИИ делает из отчёта десять слайдов.
+Such mir alle Fristen aus dem Vertrag heraus.	Найди мне все сроки в договоре.
+Was sind die Kernaussagen dieses Dokuments?	Каковы основные мысли этого документа?
+Beantworte die Frage nur anhand des Handbuchs.	Отвечай только на основе руководства.
+die Übersetzungssoftware	программа-переводчик
+die Fremdsprache	иностранный язык
+die Muttersprache	родной язык
+der Fachbegriff	специальный термин
+der Fachtext	специальный текст
+sinngemäß	по смыслу
+wörtlich	дословно
+Die Übersetzung ist zu wörtlich.	Перевод слишком дословный.
+Übersetze sinngemäß, nicht Wort für Wort.	Переводи по смыслу, а не слово в слово.
+Mit KI schreibe ich E-Mails auf Deutsch viel schneller.	С ИИ я пишу письма по-немецки гораздо быстрее.
+Die Fachbegriffe hat das Tool falsch übersetzt.	Специальные термины инструмент перевёл неверно.
+
+# Ограничения инструментов
+die Begrenzung	ограничение
+das Nutzungslimit	лимит использования
+die Wartezeit	время ожидания
+die Fehlermeldung	сообщение об ошибке
+der Ausfall	сбой
+nicht verfügbar	недоступен
+die Zeichengrenze	ограничение по символам
+Das Tool ist gerade überlastet.	Инструмент сейчас перегружен.
+Ich habe mein Tageslimit schon erreicht.	Я уже исчерпал дневной лимит.
+Der Text ist zu lang für ein einziges Mal.	Текст слишком длинный для одного раза.
+Die KI hat meine Frage falsch verstanden.	ИИ неправильно понял мой вопрос.
+Manchmal antwortet sie einfach am Thema vorbei.	Иногда отвечает просто не по теме.
+
+# Полезные фразы для промптов
+Nenne mir fünf Ideen für eine Teamveranstaltung.	Предложи пять идей для командного мероприятия.
+Erstelle eine Checkliste für den ersten Arbeitstag.	Составь чек-лист для первого рабочего дня.
+Welche Argumente sprechen dagegen?	Какие аргументы против?
+Fasse die wichtigsten Punkte des Meetings zusammen.	Изложи главное с совещания.
+Schreib eine höfliche Absage an den Kunden.	Напиши вежливый отказ клиенту.
+Formuliere das positiver.	Сформулируй это позитивнее.
+Prüfe den Text auf Rechtschreibfehler.	Проверь текст на орфографические ошибки.
+Vergleiche die beiden Angebote in einer Tabelle.	Сравни оба предложения в таблице.
+Stell mir Rückfragen, bevor du antwortest.	Задай уточняющие вопросы, прежде чем отвечать.
+Denk Schritt für Schritt.	Рассуждай шаг за шагом.
+Nutze nur die Informationen aus dem Anhang.	Используй только информацию из вложения.
+Wie würde ein Kunde darauf reagieren?	Как бы на это отреагировал клиент?
+Erkläre mir den Fehler in diesem Code.	Объясни мне ошибку в этом коде.
+Schreib eine Antwort auf diese Beschwerde.	Напиши ответ на эту жалобу.
+Mach daraus einen LinkedIn-Post.	Сделай из этого пост для LinkedIn.
+
+# Впечатления и мнения
+die Arbeitserleichterung	облегчение работы
+der Zeitfresser	пожиратель времени
+die Spielerei	баловство (игрушка)
+der Gamechanger	то, что меняет правила игры
+hilfreich	полезный
+überflüssig	лишний
+die Skepsis	скептицизм
+die Begeisterung	воодушевление
+Für mich ist KI ein echter Gamechanger.	Для меня ИИ реально меняет всё.
+Anfangs hielt ich das für eine Spielerei.	Сначала я считал это баловством.
+Das Tool ist im Alltag wirklich hilfreich.	Инструмент действительно полезен в повседневной работе.
+Ohne KI möchte ich nicht mehr arbeiten.	Без ИИ я больше не хочу работать.
+Die Begeisterung im Team ist groß.	В команде большое воодушевление.

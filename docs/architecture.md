@@ -38,7 +38,7 @@ src/WinDeutsch.Core/        net8.0, без ссылок на WPF/WinForms
   Storage/                  Database, PhraseRepository, Statistics
   Learning/                 LearningRules, PhraseSelector, QuizBuilder
   Scheduling/               ShowScheduler, PauseOption
-  Import/                   ImportParser, ImportService, TextFileReader, Exporter
+  Import/                   ImportParser, ImportService, TextFileReader, Exporter, DictionaryFolder
   Settings/                 AppSettings, SettingsStore, IntervalKind
   Backup/                   BackupService
   Seed/                     SeedData + 8 файлов *.tsv (EmbeddedResource)
@@ -51,6 +51,7 @@ src/WinDeutsch.App/         net8.0-windows, WPF, AssemblyName=WinDeutsch
   Tray/TrayIcon.cs
   Platform/                 NativeMethods, FullscreenDetector, IdleDetector, HotkeyManager,
                             AutostartRegistry, ScreenHelper, NoActivateWindow, SingleInstance
+dictionaries/               <Категория>/<Тема>.tsv; копируются в dictionaries\ рядом с exe
 tests/WinDeutsch.Core.Tests/  xunit, только логика Core
 scripts/publish.ps1         сборка dist\WinDeutsch.exe
 ```
@@ -98,6 +99,10 @@ Unknown, Later, Excluded, RepeatMore), `DisplayMode` (Widget/Popup), `Translatio
 - Импорт/экспорт: `ImportParser` (разделители, `#`-комментарии), `TextFileReader`
   (UTF-8 или Windows-1251), `ImportService` (предпросмотр, дубликаты, темы из третьей колонки),
   `Exporter.ToTsv`.
+- Словари: `DictionaryFolder` перечисляет `dictionaries\<категория>\<тема>.tsv` рядом с exe
+  (`AppContext.BaseDirectory`) и добавляет файл в тему его категории через `ImportService`
+  (дубликаты пропускаются, повторное добавление безопасно). В single-file они не упаковываются,
+  чтобы пользователь мог класть свои файлы.
 
 ## Настройки
 
@@ -171,6 +176,7 @@ Unknown, Later, Excluded, RepeatMore), `DisplayMode` (Widget/Popup), `Translatio
 - `WidgetWindow` — перетаскиваемое окно с изменением размера за угол (отключается «Закрепить позицию»),
   `PopupWindow` — всплывающая карточка. Оба без фокуса и вне панели задач (`NoActivateWindow`).
 - `LibraryWindow` — вкладки «Фразы», «Статистика», «История»; `ImportDialog`, `PhraseEditDialog`;
+  «Словари…» (`TopicDialogs.PickDictionaries`), «Удалить категорию» (`PhraseRepository.DeleteTopics`);
   `SettingsWindow` — вкладки Показ · Тесты · Внешний вид · Поведение · Данные.
 - `TrayIcon` — `NotifyIcon`, меню, серый значок на паузе, `ShowBalloon`.
 - `Platform/`: `FullscreenDetector` (`SHQueryUserNotificationState` и размер окна переднего плана),

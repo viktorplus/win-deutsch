@@ -58,6 +58,10 @@ public sealed class PhraseRepository
     // Phrases and their events go with the topic (ON DELETE CASCADE).
     public void DeleteTopic(long topicId) => Execute("DELETE FROM topics WHERE id = $id", ("$id", topicId));
 
+    // Same as DeleteTopic for several topics in one transaction (deleting a category).
+    public void DeleteTopics(IReadOnlyCollection<long> topicIds) =>
+        ExecuteForEach(topicIds, "DELETE FROM topics WHERE id = $id", null);
+
     public Topic GetOrCreateTopic(string name, string? category)
     {
         var trimmed = name.Trim();

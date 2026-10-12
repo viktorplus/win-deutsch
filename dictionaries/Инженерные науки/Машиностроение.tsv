@@ -1,0 +1,326 @@
+# Детали машин
+das Bauteil	деталь (конструктивный элемент)
+die Baugruppe	сборочный узел
+das Maschinenelement	деталь машины
+das Einzelteil	отдельная деталь
+das Normteil	стандартная деталь
+das Zukaufteil	покупная деталь
+das Gehäuse	корпус
+der Deckel	крышка
+der Flansch	фланец
+die Feder	пружина
+die Druckfeder	пружина сжатия
+die Zugfeder	пружина растяжения
+die Tellerfeder	тарельчатая пружина
+die Dichtung	уплотнение
+der Dichtring	уплотнительное кольцо
+der O-Ring	кольцо круглого сечения (O-ring)
+der Wellendichtring	манжета вала
+die Buchse	втулка
+die Hülse	гильза
+der Bolzen	палец (цилиндрическая ось)
+der Stift	штифт
+der Passstift	установочный штифт
+der Sicherungsring	стопорное кольцо
+die Passfeder	призматическая шпонка
+die Nut	паз
+der Wellenabsatz	уступ вала
+die Fase	фаска
+die Verrundung	скругление
+die Bohrung	отверстие
+das Gewinde	резьба
+das Innengewinde	внутренняя резьба
+das Außengewinde	наружная резьба
+das Sackloch	глухое отверстие
+die Durchgangsbohrung	сквозное отверстие
+Dieses Bauteil ist ein Normteil, das können wir einfach bestellen.	Это стандартная деталь, её можно просто заказать.
+Die Dichtung muss bei jeder Wartung getauscht werden.	Уплотнение меняют при каждом ТО.
+Das Gehäuse ist zu schwer, wir müssen Material sparen.	Корпус слишком тяжёлый, надо сэкономить материал.
+# Соединения деталей
+die Schraube	винт
+die Mutter	гайка
+die Sechskantschraube	болт с шестигранной головкой
+die Zylinderschraube	винт с цилиндрической головкой
+die Senkschraube	винт с потайной головкой
+die Gewindestange	резьбовая шпилька
+die Unterlegscheibe	шайба
+die Schraubenverbindung	резьбовое соединение
+die Schweißverbindung	сварное соединение
+die Nietverbindung	заклёпочное соединение
+der Niet	заклёпка
+die Klebeverbindung	клеевое соединение
+die Pressverbindung	прессовое соединение
+die Schweißnaht	сварной шов
+formschlüssig	с геометрическим замыканием
+kraftschlüssig	с силовым замыканием
+stoffschlüssig	с замыканием материалом (сварка, клей)
+lösbar	разъёмный
+unlösbar	неразъёмный
+das Anzugsmoment	момент затяжки
+die Schraube mit dem vorgeschriebenen Drehmoment anziehen	затянуть винт с предписанным моментом
+die Schraubensicherung	фиксатор резьбы
+Die Schraube lockert sich.	Винт откручивается.
+Die Schrauben müssen über Kreuz angezogen werden.	Винты затягивают крест-накрест.
+Welches Anzugsmoment ist hier vorgeschrieben?	Какой момент затяжки здесь предписан?
+Hier reicht eine M8-Schraube nicht aus.	Здесь винта M8 недостаточно.
+Die Schweißnaht muss noch geprüft werden.	Сварной шов ещё нужно проверить.
+# Валы и подшипники
+die Welle	вал
+die Achse	ось
+die Antriebswelle	приводной вал
+die Hohlwelle	полый вал
+die Kurbelwelle	коленчатый вал
+die Nockenwelle	распределительный вал
+der Wellenzapfen	цапфа вала
+das Lager	подшипник
+das Wälzlager	подшипник качения
+das Gleitlager	подшипник скольжения
+das Kugellager	шарикоподшипник
+das Rollenlager	роликоподшипник
+das Kegelrollenlager	конический роликоподшипник
+das Nadellager	игольчатый подшипник
+das Festlager	фиксирующая опора
+das Loslager	плавающая опора
+die Lagerung	подшипниковый узел
+der Innenring	внутреннее кольцо
+der Außenring	наружное кольцо
+der Käfig	сепаратор
+die Lagerluft	зазор в подшипнике
+die Schmierung	смазывание
+das Schmierfett	консистентная смазка
+die Lebensdauer	срок службы
+die Kupplung	муфта
+die Nabe	ступица
+die Welle-Nabe-Verbindung	соединение вал–ступица
+die Unwucht	дисбаланс
+die Durchbiegung	прогиб
+die Torsion	кручение
+Das Lager ist heißgelaufen.	Подшипник перегрелся.
+Wir sollten hier ein Rillenkugellager einsetzen.	Здесь стоит поставить радиальный шарикоподшипник.
+Die Welle muss gewuchtet werden.	Вал нужно отбалансировать.
+Das Lager läuft unrund und macht Geräusche.	Подшипник работает неровно и шумит.
+Die Lebensdauer des Lagers beträgt etwa 20.000 Stunden.	Ресурс подшипника — около 20 000 часов.
+# Передачи и привод
+das Getriebe	редуктор (коробка передач)
+das Zahnrad	зубчатое колесо
+das Ritzel	шестерня
+der Zahn	зуб
+die Verzahnung	зубчатое зацепление
+die Geradverzahnung	прямозубое зацепление
+die Schrägverzahnung	косозубое зацепление
+das Stirnradgetriebe	цилиндрический редуктор
+das Kegelradgetriebe	конический редуктор
+das Schneckengetriebe	червячный редуктор
+das Planetengetriebe	планетарная передача
+die Übersetzung	передаточное отношение
+die Untersetzung	понижающая передача
+der Riementrieb	ременная передача
+der Zahnriemen	зубчатый ремень
+der Kettentrieb	цепная передача
+die Riemenscheibe	шкив
+der Antrieb	привод
+der Getriebemotor	мотор-редуктор
+das Drehmoment	крутящий момент
+die Drehzahl	частота вращения
+die Leistung	мощность
+der Wirkungsgrad	КПД
+das Zahnflankenspiel	боковой зазор зубьев
+die Bremse	тормоз
+der Verschleiß	износ
+Das Getriebe hat eine Übersetzung von 1 zu 10.	Передаточное отношение редуктора — 1:10.
+Bei dieser Drehzahl reicht das Drehmoment nicht.	На этих оборотах не хватает крутящего момента.
+Der Zahnriemen muss nachgespannt werden.	Зубчатый ремень нужно подтянуть.
+Das Getriebe ist undicht, es verliert Öl.	Редуктор негерметичен, течёт масло.
+Wir müssen den Wirkungsgrad des Antriebs verbessern.	Надо повысить КПД привода.
+Die Zahnräder zeigen starken Verschleiß.	На зубчатых колёсах сильный износ.
+# Конструирование
+die Konstruktion	конструкция
+der Konstrukteur	конструктор
+das Konstruktionsbüro	конструкторское бюро
+das Lastenheft	техническое задание (заказчика)
+das Pflichtenheft	техническое задание (исполнителя)
+die Anforderung	требование
+der Entwurf	эскизный проект
+das Konzept	концепция
+die Auslegung	расчёт (выбор параметров)
+die Festigkeitsberechnung	расчёт на прочность
+der Sicherheitsfaktor	коэффициент запаса прочности
+die Belastung	нагрузка
+die mechanische Spannung	механическое напряжение
+die Verformung	деформация
+die Steifigkeit	жёсткость
+die Festigkeit	прочность
+die Lastannahme	расчётная нагрузка
+der Prototyp	прототип
+die Stückliste	ведомость деталей
+die Variante	вариант исполнения
+die Änderung	изменение (в документации)
+der Änderungsstand	индекс изменения
+fertigungsgerecht konstruieren	конструировать с учётом технологичности
+montagegerecht	удобный для сборки
+die Montage	сборка
+der Bauraum	монтажное пространство
+das Gewicht reduzieren	снизить массу
+Das Bauteil passt nicht in den Bauraum.	Деталь не помещается в отведённое пространство.
+Wer hat die Stückliste zuletzt geändert?	Кто последним менял ведомость деталей?
+Die Anforderungen aus dem Lastenheft sind widersprüchlich.	Требования ТЗ противоречат друг другу.
+Haben wir die Lastannahmen mit dem Kunden abgestimmt?	Мы согласовали расчётные нагрузки с заказчиком?
+Der Sicherheitsfaktor ist zu knapp bemessen.	Запас прочности заложен слишком маленький.
+Lass uns zwei Varianten ausarbeiten und dann entscheiden.	Давай проработаем два варианта и решим.
+Das ist so nicht montierbar.	Так это не собрать.
+Können wir das Teil fertigungsgerechter gestalten?	Можно сделать деталь технологичнее?
+# Технический чертёж
+die technische Zeichnung	технический чертёж
+die Einzelteilzeichnung	деталировочный чертёж
+die Zusammenbauzeichnung	сборочный чертёж
+die Ansicht	вид (на чертеже)
+die Vorderansicht	главный вид
+die Draufsicht	вид сверху
+die Seitenansicht	вид сбоку
+der Schnitt	разрез
+die Einzelheit	выносной элемент
+die Bemaßung	простановка размеров
+das Maß	размер
+das Nennmaß	номинальный размер
+die Maßlinie	размерная линия
+die Maßhilfslinie	выносная линия
+die Mittellinie	осевая линия
+die verdeckte Kante	невидимый контур
+der Maßstab	масштаб
+das Schriftfeld	основная надпись (штамп)
+die Zeichnungsnummer	номер чертежа
+die Oberflächenangabe	обозначение шероховатости
+die Rauheit	шероховатость
+die Norm	стандарт
+die DIN-Norm	стандарт DIN
+die Zeichnung freigeben	утвердить чертёж
+In der Zeichnung fehlt ein Maß.	На чертеже не хватает размера.
+Die Zeichnung ist noch nicht freigegeben.	Чертёж ещё не утверждён.
+Bitte die Zeichnung im Maßstab 1:2 ausdrucken.	Распечатай чертёж в масштабе 1:2.
+Welcher Zeichnungsstand ist aktuell?	Какая версия чертежа актуальна?
+Hier ist die Bemaßung doppelt.	Здесь размер проставлен дважды.
+Mach bitte noch einen Schnitt durch die Bohrung.	Сделай ещё разрез по отверстию.
+# Допуски и посадки
+die Toleranz	допуск
+die Toleranz einhalten	соблюдать допуск
+das Toleranzfeld	поле допуска
+das Abmaß	отклонение размера
+das obere Abmaß	верхнее отклонение
+das untere Abmaß	нижнее отклонение
+das Istmaß	действительный размер
+das Höchstmaß	наибольший предельный размер
+das Mindestmaß	наименьший предельный размер
+die Passung	посадка
+die Spielpassung	посадка с зазором
+die Übermaßpassung	посадка с натягом
+die Übergangspassung	переходная посадка
+das Spiel	зазор
+das Übermaß	натяг
+die Allgemeintoleranz	общий допуск
+die Form- und Lagetoleranz	допуск формы и расположения
+die Ebenheit	плоскостность
+die Rundheit	круглость
+die Parallelität	параллельность
+die Rechtwinkligkeit	перпендикулярность
+die Koaxialität	соосность
+der Rundlauf	радиальное биение
+das Bezugselement	база (на чертеже)
+die Toleranzkette	размерная цепь
+Das Teil liegt außerhalb der Toleranz.	Деталь вышла за допуск.
+Die Toleranz ist zu eng, das wird teuer.	Допуск слишком жёсткий, это будет дорого.
+Können wir die Toleranz auf plus/minus 0,1 aufweiten?	Можно расширить допуск до ±0,1?
+Wir brauchen hier eine Passung H7/g6.	Здесь нужна посадка H7/g6.
+Das Maß ist grenzwertig, aber noch in Ordnung.	Размер на грани, но ещё в норме.
+Die Toleranzkette geht nicht auf.	Размерная цепь не сходится.
+# CAD и расчёты
+das CAD-Modell	CAD-модель
+das Volumenmodell	твердотельная модель
+die Skizze	эскиз
+die Zwangsbedingung	геометрическое ограничение (в CAD)
+extrudieren	выдавить (в CAD)
+parametrisch	параметрический
+die Simulation	моделирование (симуляция)
+die FEM-Berechnung	расчёт методом конечных элементов
+das Netz	сетка конечных элементов
+die Randbedingung	граничное условие
+die Vergleichsspannung	эквивалентное напряжение
+die Kollisionsprüfung	проверка на коллизии
+das PDM-System	система управления инженерными данными
+die STEP-Datei	файл STEP
+die Zeichnung aus dem Modell ableiten	создать чертёж по модели
+Schick mir bitte das Modell als STEP-Datei.	Пришли модель в формате STEP.
+Die Baugruppe ist im CAD zu groß und lädt ewig.	Сборка в CAD слишком большая и долго грузится.
+Die FEM zeigt eine Spannungsspitze an der Kerbe.	МКЭ показывает пик напряжений в надрезе.
+Die Randbedingungen sind nicht realistisch.	Граничные условия нереалистичны.
+Hast du das Modell schon eingecheckt?	Ты уже загрузил модель в PDM?
+Das Netz ist an der Stelle zu grob.	Сетка в этом месте слишком грубая.
+# Изготовление деталей
+die Fertigung	изготовление
+das Fertigungsverfahren	метод изготовления
+die spanende Bearbeitung	обработка резанием
+das Drehen	токарная обработка
+das Fräsen	фрезерование
+das Bohren	сверление
+das Schleifen	шлифование
+das Gießen	литьё
+das Schmieden	ковка
+das Biegen	гибка
+das Stanzen	вырубка (штамповка)
+das Tiefziehen	глубокая вытяжка
+das Laserschneiden	лазерная резка
+das Schweißen	сварка
+der 3D-Druck	3D-печать
+die Drehmaschine	токарный станок
+die Fräsmaschine	фрезерный станок
+die CNC-Maschine	станок с ЧПУ
+das Werkzeug	инструмент
+die Vorrichtung	приспособление (оснастка)
+das Rohteil	заготовка
+das Fertigteil	готовая деталь
+die Aufspannung	установ (закрепление детали)
+die Losgröße	размер партии
+die Rüstzeit	время переналадки
+die Stückzahl	количество штук
+entgraten	снимать заусенцы
+Das Teil lässt sich so nicht fräsen.	Эту деталь так не отфрезеровать.
+Wie viele Aufspannungen brauchen wir?	Сколько установов нам нужно?
+Bei dieser Stückzahl lohnt sich Gießen.	При таком тираже выгодно литьё.
+Die Werkstatt fragt, ob die Kante entgratet werden soll.	Цех спрашивает, притуплять ли кромку.
+Das NC-Programm ist noch nicht fertig.	Программа ЧПУ ещё не готова.
+Kann die Fertigung das überhaupt herstellen?	Производство вообще сможет это сделать?
+# Гидравлика и пневматика
+die Hydraulik	гидравлика
+die Pneumatik	пневматика
+der Zylinder	цилиндр
+der Kolben	поршень
+die Pumpe	насос
+das Ventil	клапан
+das Wegeventil	распределитель
+das Druckbegrenzungsventil	предохранительный клапан
+der Druck	давление
+die Druckluft	сжатый воздух
+der Schlauch	шланг
+die Rohrleitung	трубопровод
+die Leckage	утечка
+Der Zylinder fährt nicht aus.	Цилиндр не выдвигается.
+Der Druck fällt ständig ab.	Давление постоянно падает.
+Am Anschluss gibt es eine Leckage.	На штуцере есть утечка.
+# Рабочие фразы конструктора
+Wie ist der aktuelle Stand bei der Konstruktion?	Как продвигается конструирование?
+Bis wann brauchst du die Zeichnungen?	К какому сроку тебе нужны чертежи?
+Ich schicke dir die Änderungen bis Freitag.	Пришлю изменения до пятницы.
+Das muss der Versuch zeigen.	Это покажет испытание.
+Lass uns das im Design-Review besprechen.	Обсудим это на разборе конструкции.
+Wir haben ein Problem mit der Montage.	У нас проблема со сборкой.
+Der Kunde will eine Änderung am Gehäuse.	Заказчик хочет изменить корпус.
+Das ist ein Kompromiss zwischen Kosten und Gewicht.	Это компромисс между стоимостью и массой.
+Ich habe das nachgerechnet, es hält.	Я пересчитал, выдержит.
+Das Teil ist überdimensioniert.	Деталь рассчитана с большим запасом.
+Wir müssen die Herstellkosten senken.	Нужно снизить себестоимость изготовления.
+Der Lieferant kann das Teil erst in sechs Wochen liefern.	Поставщик привезёт деталь только через шесть недель.
+Prüf bitte mal, ob das kollidiert.	Проверь, пожалуйста, нет ли коллизии.
+Die Funktion ist erfüllt, aber die Optik nicht.	Функцию выполняет, но внешний вид не тот.
+Das Teil wird zu teuer, wenn wir so weitermachen.	Если так продолжать, деталь выйдет слишком дорогой.
+Können wir hier ein Gleichteil verwenden?	Можно здесь использовать унифицированную деталь?
+Die Konstruktion ist eingefroren, Änderungen nur noch über den Änderungsantrag.	Конструкция заморожена, изменения только через запрос.
+Ich brauche noch die Anschlussmaße vom Motor.	Мне ещё нужны присоединительные размеры двигателя.

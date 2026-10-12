@@ -1,0 +1,305 @@
+# Рецепт
+das Kassenrezept	рецепт по страховке (розовый)
+das Privatrezept	частный рецепт (синий)
+das grüne Rezept	зелёный рецепт (рекомендация)
+das E-Rezept	электронный рецепт
+das Betäubungsmittelrezept	рецепт на наркотические средства
+verschreibungspflichtig	рецептурный
+apothekenpflichtig	продаётся только в аптеке
+frei verkäuflich	свободной продажи
+verschreiben	выписывать (лекарство)
+ein Rezept einlösen	получить лекарство по рецепту
+von der Zuzahlung befreit sein	быть освобождённым от доплаты
+der Befreiungsausweis	справка об освобождении от доплат
+die Packungsgröße	размер упаковки
+Das E-Rezept ist auf Ihrer Karte gespeichert.	Электронный рецепт записан на вашей карте.
+Kann ich das E-Rezept per App einlösen?	Можно отоварить электронный рецепт через приложение?
+Das Rezept ist abgelaufen.	Срок рецепта истёк.
+Der Arzt hat das falsche Medikament aufgeschrieben.	Врач выписал не то лекарство.
+Ich brauche die große Packung.	Мне нужна большая упаковка.
+Auf dem Rezept fehlt die Unterschrift.	На рецепте нет подписи.
+# Виды лекарств
+das Arzneimittel	лекарственное средство
+das Schmerzmittel	болеутоляющее
+das Antibiotikum	антибиотик
+ein fiebersenkendes Mittel	жаропонижающее
+das Beruhigungsmittel	успокоительное
+das Schlafmittel	снотворное
+der Blutverdünner	средство для разжижения крови
+der Blutdrucksenker	средство от давления
+der Magenschutz	препарат для защиты желудка
+das Abführmittel	слабительное
+ein Mittel gegen Durchfall	средство от диареи
+das Antihistaminikum	антигистаминное
+das Kortison	кортизон (гормон)
+das Insulin	инсулин
+der Hustenlöser	отхаркивающее
+der Hustenstiller	противокашлевое
+das Nasenspray	спрей для носа
+das Generikum	дженерик
+das Originalpräparat	оригинальный препарат
+das pflanzliche Mittel	растительный препарат
+das homöopathische Mittel	гомеопатическое средство
+das Nahrungsergänzungsmittel	БАД
+die Antibabypille	противозачаточная таблетка
+die Pille danach	экстренная контрацепция
+der Wirkstoff	действующее вещество
+der Impfstoff	вакцина
+das Desinfektionsmittel	дезинфицирующее средство
+die Wundsalbe	заживляющая мазь
+# Действующие вещества и группы
+das Ibuprofen	ибупрофен
+das Paracetamol	парацетамол
+die Acetylsalicylsäure	ацетилсалициловая кислота
+das Metamizol	метамизол (анальгин)
+das Diclofenac	диклофенак
+das Opioid	опиоид
+das Antidepressivum	антидепрессант
+der Betablocker	бета-блокатор
+der ACE-Hemmer	ингибитор АПФ
+das Diuretikum	диуретик
+die Wassertablette	мочегонная таблетка
+der Cholesterinsenker	средство для снижения холестерина
+das Schilddrüsenhormon	гормон щитовидной железы (препарат)
+das Antimykotikum	противогрибковое средство
+das krampflösende Mittel	спазмолитик
+das Mittel gegen Übelkeit	противорвотное
+das Eisenpräparat	препарат железа
+das Magnesium	магний
+das Vitamin D	витамин D
+# Формы выпуска
+die Tablette	таблетка
+die Filmtablette	таблетка в оболочке
+die Brausetablette	шипучая таблетка
+die Lutschtablette	таблетка для рассасывания
+die Retardtablette	таблетка пролонгированного действия
+magensaftresistent	кишечнорастворимый
+die Bruchkerbe	риска на таблетке
+die Kapsel	капсула
+das Dragee	драже
+die Tropfen	капли
+der Sirup	сироп
+der Hustensaft	сироп от кашля
+die Salbe	мазь
+die Creme	крем
+das Gel	гель
+das Zäpfchen	свеча (суппозиторий)
+das Pflaster	пластырь
+das Schmerzpflaster	обезболивающий пластырь
+die Spritze	шприц
+die Fertigspritze	готовый шприц
+der Insulinpen	инсулиновая ручка
+die Ampulle	ампула
+das Pulver	порошок
+das Granulat	гранулы
+die Lösung	раствор
+die Augentropfen	глазные капли
+die Ohrentropfen	ушные капли
+das Asthmaspray	ингалятор от астмы
+Kann ich die Tablette teilen?	Можно разделить таблетку?
+Darf ich die Kapsel öffnen?	Можно вскрыть капсулу?
+# Дозировка и приём
+die Dosierung	дозировка
+die Dosis	доза
+die Tagesdosis	суточная доза
+die Höchstdosis	максимальная доза
+die Einnahme	приём (лекарства)
+einnehmen	принимать внутрь
+anwenden	применять
+auftragen	наносить (мазь)
+einreiben	втирать
+inhalieren	делать ингаляцию
+dreimal täglich	три раза в день
+morgens und abends	утром и вечером
+auf nüchternen Magen	на пустой желудок
+unzerkaut schlucken	глотать не разжёвывая
+mit reichlich Flüssigkeit	запивая большим количеством жидкости
+bei Bedarf	при необходимости
+absetzen	отменять (препарат)
+die Dosis erhöhen	повысить дозу
+die Dosis reduzieren	снизить дозу
+ausschleichen	отменять постепенно, снижая дозу
+Nehmen Sie eine Tablette zum Frühstück.	Принимайте одну таблетку за завтраком.
+Nicht mehr als vier Tabletten pro Tag.	Не больше четырёх таблеток в день.
+Nehmen Sie das Antibiotikum bis zum Ende.	Пропейте антибиотик до конца.
+Ich habe vergessen, meine Tablette zu nehmen.	Я забыл принять таблетку.
+Darf ich die doppelte Dosis nehmen?	Можно принять двойную дозу?
+Wie lange muss ich das nehmen?	Сколько времени мне это принимать?
+Ich nehme das schon seit Jahren.	Я принимаю это уже много лет.
+Lassen Sie die Tablette unter der Zunge zergehen.	Рассасывайте таблетку под языком.
+Zweimal täglich dünn auftragen.	Наносить тонким слоем дважды в день.
+Vor Gebrauch schütteln.	Перед употреблением взбалтывать.
+Setzen Sie das Medikament nicht eigenmächtig ab.	Не отменяйте лекарство самовольно.
+Zwischen den Einnahmen sollten acht Stunden liegen.	Между приёмами должно пройти восемь часов.
+# Применение: как правильно
+Den Kopf leicht nach hinten neigen.	Слегка запрокиньте голову.
+Zwei Tropfen in jedes Auge geben.	Закапывать по две капли в каждый глаз.
+Nach dem Inhalieren den Mund ausspülen.	После ингаляции прополоскать рот.
+Das Pflaster alle drei Tage wechseln.	Менять пластырь каждые три дня.
+Die Spritze in die Bauchhaut setzen.	Делать укол в кожу живота.
+Die Brausetablette in einem Glas Wasser auflösen.	Растворить шипучую таблетку в стакане воды.
+Den Saft mit dem Messbecher abmessen.	Отмерить сироп мерным стаканчиком.
+der Messlöffel	мерная ложка
+den Blutzucker messen	измерять сахар в крови
+Das Zäpfchen nach dem Stuhlgang einführen.	Вводить свечу после стула.
+Die Salbe nicht auf offene Wunden auftragen.	Не наносить мазь на открытые раны.
+Nach dem Eincremen die Hände waschen.	После нанесения крема вымыть руки.
+# Побочные действия и взаимодействия
+die Nebenwirkung	побочное действие
+die Wechselwirkung	взаимодействие (лекарств)
+die Unverträglichkeit	непереносимость (препарата)
+die allergische Reaktion	аллергическая реакция
+die Überdosierung	передозировка
+die Gewöhnung	привыкание
+die Mundtrockenheit	сухость во рту
+die Magenbeschwerden	желудочные расстройства
+die Lichtempfindlichkeit	светочувствительность
+die Benommenheit	заторможенность
+die Fahrtüchtigkeit	способность водить машину
+Die Tabletten machen mich müde.	От таблеток меня клонит в сон.
+Seit ich das nehme, ist mir übel.	С тех пор как принимаю, меня тошнит.
+Ich vertrage das Medikament nicht.	Я плохо переношу это лекарство.
+Kann das von den Tabletten kommen?	Это может быть от таблеток?
+Macht das Mittel abhängig?	Вызывает ли средство зависимость?
+Das Medikament kann die Reaktionsfähigkeit beeinträchtigen.	Лекарство может снижать скорость реакции.
+Während der Einnahme keinen Alkohol trinken.	Во время приёма не пить алкоголь.
+Verträgt sich das mit meinen anderen Medikamenten?	Совместимо ли это с моими другими лекарствами?
+Melden Sie Nebenwirkungen Ihrem Arzt.	Сообщайте врачу о побочных эффектах.
+Grapefruitsaft kann die Wirkung verstärken.	Грейпфрутовый сок может усилить действие.
+Die Pille wirkt dann eventuell nicht sicher.	Тогда таблетка может не защищать надёжно.
+# Инструкция (Beipackzettel)
+der Beipackzettel	листок-вкладыш
+die Packungsbeilage	инструкция к препарату
+das Anwendungsgebiet	показания к применению
+die Gegenanzeige	противопоказание
+die Vorsichtsmaßnahme	мера предосторожности
+die Zusammensetzung	состав
+der Hilfsstoff	вспомогательное вещество
+das Verfallsdatum	срок годности
+sehr häufig	очень часто (более 1 из 10)
+gelegentlich	нечасто (до 1 из 100)
+selten	редко (до 1 из 1000)
+Arzneimittel für Kinder unzugänglich aufbewahren.	Хранить в недоступном для детей месте.
+Nicht über 25 °C lagern.	Хранить при температуре не выше 25 °C.
+Im Kühlschrank aufbewahren.	Хранить в холодильнике.
+Vor Licht schützen.	Беречь от света.
+Nach Anbruch drei Monate haltbar.	После вскрытия годен три месяца.
+in Schwangerschaft und Stillzeit	при беременности и кормлении грудью
+Fragen Sie Ihren Arzt oder Apotheker.	Спросите врача или фармацевта.
+Lesen Sie die Packungsbeilage sorgfältig durch.	Внимательно прочитайте инструкцию.
+Was soll ich tun, wenn ich zu viel genommen habe?	Что делать, если я принял слишком много?
+# В аптеке: диалоги
+die Apotheke	аптека
+der Apotheker	фармацевт
+die Notdienstapotheke	дежурная аптека
+die Versandapotheke	интернет-аптека
+Welche Apotheke hat heute Notdienst?	Какая аптека сегодня дежурит?
+Haben Sie das vorrätig?	Это есть у вас в наличии?
+Das ist zurzeit nicht lieferbar.	Сейчас этого нет у поставщика.
+Gibt es ein günstigeres Präparat?	Есть препарат подешевле?
+Wir haben ein Generikum mit dem gleichen Wirkstoff.	У нас есть дженерик с тем же веществом.
+Für wen ist das Medikament?	Для кого это лекарство?
+Nehmen Sie noch andere Medikamente ein?	Вы принимаете ещё другие лекарства?
+Ist das auch für Kinder geeignet?	Это подходит и для детей?
+Kann ich das in der Stillzeit nehmen?	Можно принимать при кормлении грудью?
+Ich hätte gern etwas gegen Halsschmerzen.	Мне бы что-нибудь от боли в горле.
+Was können Sie mir gegen Sodbrennen empfehlen?	Что посоветуете от изжоги?
+Brauchen Sie eine Quittung für die Steuer?	Вам нужен чек для налоговой?
+Das macht fünf Euro Zuzahlung.	Доплата составит пять евро.
+Können Sie mir das zurücklegen?	Можете отложить это для меня?
+Haben Sie eine Kundenkarte?	У вас есть карта клиента?
+Wohin mit alten Medikamenten?	Куда девать старые лекарства?
+Darf ich das Medikament ins Ausland mitnehmen?	Можно взять лекарство за границу?
+Können Sie mir die Einnahme aufschreiben?	Можете записать, как принимать?
+# Аптечка и медтовары
+die Hausapotheke	домашняя аптечка
+die Reiseapotheke	дорожная аптечка
+der Verbandskasten	аптечка с перевязочными средствами
+das Fieberthermometer	градусник
+die Mullbinde	марлевый бинт
+die elastische Binde	эластичный бинт
+die Kompresse	марлевая салфетка
+das Kühlpack	охлаждающий пакет
+die Wärmflasche	грелка
+die Pinzette	пинцет
+das Blutdruckmessgerät	тонометр
+das Blutzuckermessgerät	глюкометр
+die Teststreifen	тест-полоски
+die Kompressionsstrümpfe	компрессионные чулки
+der Inhalator	ингалятор (прибор)
+die Tablettenbox	таблетница
+# Особые группы пациентов
+für Kinder ab sechs Jahren	для детей с шести лет
+für Säuglinge nicht geeignet	не подходит для грудных детей
+die Dosierung nach Körpergewicht	дозировка по массе тела
+Ich bin schwanger. Darf ich das nehmen?	Я беременна. Мне можно это принимать?
+Meine Mutter muss zwölf Tabletten am Tag nehmen.	Маме приходится пить двенадцать таблеток в день.
+der Medikationsplan	план приёма лекарств
+bei eingeschränkter Nierenfunktion	при нарушенной функции почек
+die Leberwerte kontrollieren	контролировать печёночные пробы
+Ältere Menschen reagieren empfindlicher.	Пожилые люди реагируют чувствительнее.
+Ich kann Tabletten schlecht schlucken.	Мне трудно глотать таблетки.
+Gibt es das auch als Saft?	Это есть и в виде сиропа?
+Gibt es das auch zuckerfrei?	Это есть и без сахара?
+laktosefrei	без лактозы
+# Самолечение и советы фармацевта
+die Selbstmedikation	самолечение
+wirken	действовать
+die Wirkung	действие (эффект)
+lindern	облегчать (симптомы)
+der Placeboeffekt	эффект плацебо
+der Kräutertee	травяной чай
+die Abwehrkräfte stärken	укреплять иммунитет
+Wann wirkt das Mittel?	Когда средство начнёт действовать?
+Das Mittel wirkt schnell.	Средство действует быстро.
+Damit sollten Sie zum Arzt gehen.	С этим вам лучше пойти к врачу.
+Wenn es nach drei Tagen nicht besser wird, gehen Sie zum Arzt.	Если через три дня не полегчает, идите к врачу.
+Trinken Sie viel und schonen Sie sich.	Пейте много и берегите себя.
+Das hilft bei leichten Schmerzen.	Это помогает при несильной боли.
+Nehmen Sie das nicht länger als drei Tage ohne ärztlichen Rat.	Не принимайте дольше трёх дней без совета врача.
+# Хранение и утилизация
+die Aufbewahrung	хранение
+abgelaufen	просроченный
+Kann man die Tabletten nach dem Verfallsdatum noch nehmen?	Можно ли пить таблетки после срока годности?
+Abgelaufene Medikamente gehören nicht ins Abwasser.	Просроченные лекарства нельзя сливать в канализацию.
+Alte Tabletten können in den Restmüll.	Старые таблетки можно выбросить в бытовой мусор.
+Die Tabletten in der Originalverpackung aufbewahren.	Хранить таблетки в оригинальной упаковке.
+die Kühlkette	холодовая цепь
+Das Insulin muss gekühlt werden.	Инсулин нужно хранить в холоде.
+Im Flugzeug gehören Medikamente ins Handgepäck.	В самолёте лекарства кладут в ручную кладь.
+die ärztliche Bescheinigung	справка от врача
+# Что спросить в аптеке по симптомам
+Ich suche etwas gegen Reiseübelkeit.	Ищу что-нибудь от укачивания.
+Haben Sie etwas gegen Insektenstiche?	У вас есть что-нибудь от укусов насекомых?
+Ich brauche etwas gegen Fußpilz.	Мне нужно что-нибудь от грибка стопы.
+Haben Sie etwas für trockene Augen?	Есть что-нибудь от сухости глаз?
+Was hilft gegen Blasen an den Füßen?	Что помогает от волдырей на ногах?
+Ich hätte gern Halstabletten mit Salbei.	Мне бы пастилки для горла с шалфеем.
+eine Salbe gegen Prellungen	мазь от ушибов
+ein Kühlgel nach Sonnenbrand	охлаждающий гель после загара
+Nasentropfen für Kinder	детские капли в нос
+Mein Kind hat Läuse.	У ребёнка вши.
+ein Mittel gegen Kopfläuse	средство от вшей
+Ich brauche einen Schwangerschaftstest.	Мне нужен тест на беременность.
+die Kondome	презервативы
+Haben Sie Zinksalbe?	У вас есть цинковая мазь?
+die Herpescreme	крем от герпеса
+die Elektrolytlösung	электролитный раствор (при диарее)
+die Kohletabletten	активированный уголь
+# Понятия и частые вопросы
+die Packung	упаковка
+die Blisterpackung	блистер
+das Präparat	препарат
+die Darreichungsform	лекарственная форма
+die Wirkdauer	продолжительность действия
+der Wirkungseintritt	начало действия
+die Halbwertszeit	период полувыведения
+das Rabattarzneimittel	препарат по скидочному договору кассы
+Ihre Kasse hat einen Rabattvertrag für ein anderes Präparat.	У вашей кассы скидочный договор на другой препарат.
+Welche Stärke brauchen Sie, 400 oder 600?	Какая нужна дозировка: 400 или 600?
+Kann ich die Tabletten mit Milch einnehmen?	Можно запивать таблетки молоком?
+Darf ich damit Auto fahren?	Можно мне при этом водить машину?
+Die Tabletten helfen nicht mehr richtig.	Таблетки уже плохо помогают.
+Wie viel kostet das ohne Rezept?	Сколько это стоит без рецепта?
+Der Arzt hat mein Medikament umgestellt.	Врач поменял мне лекарство.
+Ich nehme die Pille.	Я принимаю противозачаточные.

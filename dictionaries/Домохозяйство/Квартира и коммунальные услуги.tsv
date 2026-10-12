@@ -1,0 +1,330 @@
+# Поиск квартиры
+die Wohnung	квартира
+die Wohnungssuche	поиск жилья
+die Wohnungsanzeige	объявление о квартире
+die Mietwohnung	съёмная квартира
+die Eigentumswohnung	собственная квартира
+die Wohngemeinschaft (WG)	квартира с соседями (WG)
+das WG-Zimmer	комната в WG
+die Zweizimmerwohnung	двухкомнатная квартира
+der Altbau	старый дом (довоенный)
+der Neubau	новостройка
+die Quadratmeter (Pl.)	квадратные метры
+möbliert	меблированный
+die Einbauküche	встроенная кухня
+der Balkon	балкон
+der Aufzug	лифт
+das Erdgeschoss	первый этаж
+der erste Stock	второй этаж
+das Dachgeschoss	мансарда
+der Keller	подвал
+die Besichtigung	просмотр квартиры
+eine Wohnung besichtigen	осмотреть квартиру
+der Makler	риелтор
+die Maklerprovision	комиссия риелтора
+die Selbstauskunft	анкета арендатора
+die Schufa-Auskunft	справка о кредитной истории
+Ist die Wohnung noch frei?	Квартира ещё свободна?
+Wann kann ich die Wohnung besichtigen?	Когда можно посмотреть квартиру?
+Ab wann ist die Wohnung frei?	С какого числа квартира свободна?
+Sind Haustiere erlaubt?	Можно с домашними животными?
+Die Wohnung ist hell und ruhig.	Квартира светлая и тихая.
+Die Lage ist super.	Отличное расположение.
+Auf eine Wohnung kommen hundert Bewerber.	На одну квартиру сто претендентов.
+
+# Договор аренды
+der Mietvertrag	договор аренды
+den Mietvertrag unterschreiben	подписать договор аренды
+der Vermieter	арендодатель
+die Vermieterin	арендодательница
+der Mieter	арендатор (жилец)
+der Hauptmieter	основной арендатор
+der Untermieter	субарендатор
+untervermieten	сдавать в субаренду
+befristet	срочный (на срок)
+unbefristet	бессрочный
+die Kündigungsfrist	срок уведомления о расторжении
+kündigen	расторгнуть (договор)
+die Kündigung	уведомление о расторжении
+die Wohnung kündigen	расторгнуть аренду квартиры
+die Mieterhöhung	повышение арендной платы
+die Staffelmiete	ступенчатая аренда
+die Indexmiete	индексируемая аренда
+das Übergabeprotokoll	акт приёма-передачи
+die Wohnungsübergabe	передача квартиры
+der Mieterverein	союз арендаторов
+die Mietpreisbremse	ограничение роста аренды
+Die Kündigungsfrist beträgt drei Monate.	Срок уведомления — три месяца.
+Was steht im Mietvertrag?	Что написано в договоре аренды?
+Der Vertrag läuft auf meinen Namen.	Договор оформлен на моё имя.
+Laut Mietvertrag ist das verboten.	По договору это запрещено.
+
+# Аренда и залог
+die Miete	арендная плата
+die Kaltmiete	аренда без коммуналки
+die Warmmiete	аренда с коммуналкой
+die Kaution	залог (депозит)
+die Kaution zurückbekommen	получить залог обратно
+drei Monatsmieten Kaution	залог в три месячные платы
+das Mietkautionskonto	счёт для залога
+der Dauerauftrag	постоянное поручение (банк)
+die Miete überweisen	перевести арендную плату
+die Mietschulden (Pl.)	долг по аренде
+die Mietminderung	снижение аренды из-за дефектов
+die Miete mindern	уменьшить арендную плату
+Die Miete ist am Monatsanfang fällig.	Аренду надо платить в начале месяца.
+Die Miete ist gestiegen.	Аренда подорожала.
+Wie hoch ist die Miete?	Какая арендная плата?
+Die Miete beträgt 900 Euro warm.	Аренда — 900 евро с коммуналкой.
+
+# Коммунальные платежи
+die Nebenkosten (Pl.)	коммунальные расходы
+die Betriebskosten (Pl.)	эксплуатационные расходы
+die Nebenkostenabrechnung	годовой расчёт коммуналки
+die Nachzahlung	доплата
+die Gutschrift	возврат переплаты
+die Vorauszahlung	авансовый платёж
+der Abschlag	ежемесячный аванс (за услуги)
+die Müllgebühren (Pl.)	плата за вывоз мусора
+die Grundsteuer	налог на недвижимость
+die Treppenhausreinigung	уборка подъезда
+der Rundfunkbeitrag	взнос за ТВ и радио
+Wir müssen 300 Euro nachzahlen.	Нам надо доплатить 300 евро.
+Die Abrechnung ist falsch.	Расчёт неверный.
+Ich möchte die Belege einsehen.	Я хочу посмотреть платёжные документы.
+Die Nebenkosten sind zu hoch.	Коммунальные платежи слишком высокие.
+Was ist in den Nebenkosten enthalten?	Что входит в коммунальные платежи?
+
+# Электричество и газ
+der Strom	электричество
+der Stromanbieter	поставщик электроэнергии
+der Stromvertrag	договор на электричество
+den Stromanbieter wechseln	сменить поставщика электричества
+der Stromzähler	электросчётчик
+der Zählerstand	показания счётчика
+den Zählerstand ablesen	снять показания счётчика
+der Stromverbrauch	расход электроэнергии
+die Kilowattstunde	киловатт-час
+die Stromrechnung	счёт за электричество
+der Grundversorger	базовый поставщик
+der Ökostrom	зелёная электроэнергия
+der Stromausfall	отключение электричества
+Strom sparen	экономить электричество
+die Energiekosten (Pl.)	расходы на энергию
+das Gas	газ
+der Gaszähler	газовый счётчик
+der Gasherd	газовая плита
+Bei uns ist der Strom ausgefallen.	У нас отключился свет.
+Der Ableser kommt am Dienstag.	Контролёр придёт снимать показания во вторник.
+Ich muss den Strom anmelden.	Мне нужно оформить договор на электричество.
+Es riecht nach Gas!	Пахнет газом!
+
+# Отопление и вода
+die Heizung	отопление
+die Zentralheizung	центральное отопление
+die Gasheizung	газовое отопление
+die Fernwärme	централизованное теплоснабжение
+der Heizkörper	батарея (радиатор)
+das Thermostat	терморегулятор
+die Heizung aufdrehen	прибавить отопление
+die Heizung runterdrehen	убавить отопление
+die Heizung entlüften	спустить воздух из батареи
+die Heizkosten (Pl.)	расходы на отопление
+die Heizkostenabrechnung	расчёт за отопление
+der Heizkostenverteiler	счётчик тепла на батарее
+die Heizperiode	отопительный сезон
+das Warmwasser	горячая вода
+das Kaltwasser	холодная вода
+der Wasserzähler	счётчик воды
+der Wasserverbrauch	расход воды
+richtig lüften	правильно проветривать
+stoßlüften	коротко проветривать настежь
+die Feuchtigkeit	влажность
+Die Heizung wird nicht warm.	Батарея не греет.
+Die Heizung gluckert.	Батарея булькает.
+Im Winter muss man regelmäßig lüften.	Зимой нужно регулярно проветривать.
+Die Wände sind feucht.	Стены сырые.
+
+# Интернет и телефон
+der Internetanschluss	подключение к интернету
+der Internetanbieter	интернет-провайдер
+der Router	роутер
+das WLAN	Wi-Fi
+das WLAN-Passwort	пароль от Wi-Fi
+der Glasfaseranschluss	оптоволоконное подключение
+der DSL-Vertrag	договор на DSL
+die Vertragslaufzeit	срок действия договора
+die Mindestlaufzeit	минимальный срок договора
+den Vertrag kündigen	расторгнуть договор с провайдером
+der Techniker	техник
+die Freischaltung	активация подключения
+die Störung	неполадка (сбой)
+eine Störung melden	сообщить о неполадке
+die Hotline	горячая линия
+den Router neu starten	перезагрузить роутер
+der Festnetzanschluss	стационарный телефон
+der Mobilfunkvertrag	договор мобильной связи
+Das Internet ist schon wieder weg.	Интернет опять пропал.
+Das WLAN ist sehr langsam.	Wi-Fi очень медленный.
+Wann wird der Anschluss freigeschaltet?	Когда подключат интернет?
+Der Techniker kommt zwischen 8 und 12 Uhr.	Техник придёт между 8 и 12.
+Ich warte seit drei Wochen auf den Anschluss.	Я жду подключения уже три недели.
+
+# Управляющая компания
+die Hausverwaltung	управляющая компания
+der Hausmeister	завхоз (комендант дома)
+der Eigentümer	собственник
+die Eigentümerversammlung	собрание собственников
+der Mangel	недостаток (дефект)
+einen Mangel anzeigen	заявить о дефекте
+die Mängelanzeige	заявление о дефектах
+einen Schaden melden	сообщить о повреждении
+schriftlich	письменно
+per Einschreiben	заказным письмом
+eine Frist setzen	установить срок
+Ich habe die Hausverwaltung schon dreimal angerufen.	Я уже трижды звонил в управляющую компанию.
+Die Hausverwaltung reagiert nicht.	Управляющая компания не отвечает.
+Der Hausmeister wechselt die Glühbirne im Treppenhaus.	Завхоз меняет лампочку в подъезде.
+Wer ist für die Reparatur zuständig?	Кто отвечает за ремонт?
+Das muss der Vermieter bezahlen.	Это должен оплатить арендодатель.
+
+# Соседи
+der Nachbar	сосед
+die Nachbarin	соседка
+die Nachbarschaft	соседи (соседство)
+sich bei den Nachbarn vorstellen	познакомиться с соседями
+der Lärm	шум
+laut	громкий
+sich beschweren	жаловаться
+der Streit	ссора
+der Nachbarschaftsstreit	конфликт с соседями
+die Blumen gießen	поливать цветы
+die Einweihungsparty	новоселье
+Guten Tag, ich bin der neue Nachbar.	Здравствуйте, я ваш новый сосед.
+Die Nachbarn sind sehr nett.	Соседи очень милые.
+Die Nachbarn haben sich über den Lärm beschwert.	Соседи пожаловались на шум.
+Könnten Sie bitte etwas leiser sein?	Не могли бы вы потише?
+Können Sie ein Paket für mich annehmen?	Можете принять для меня посылку?
+Ein Paket liegt beim Nachbarn.	Посылка у соседа.
+Könnten Sie im Urlaub meine Blumen gießen?	Польёте мои цветы, пока я в отпуске?
+Über uns wohnt eine Familie mit Kindern.	Над нами живёт семья с детьми.
+Ich lade euch zur Einweihungsparty ein.	Приглашаю вас на новоселье.
+
+# Правила дома
+die Hausordnung	правила дома
+die Ruhezeiten (Pl.)	часы тишины
+die Mittagsruhe	дневной тихий час
+die Nachtruhe	ночная тишина
+das Treppenhaus	подъезд (лестничная клетка)
+die Kehrwoche	неделя дежурства по уборке
+Schnee räumen	убирать снег
+der Winterdienst	зимняя уборка снега
+der Fahrradkeller	подвал для велосипедов
+der Kinderwagen	детская коляска
+das Rauchverbot	запрет на курение
+die Haustür abschließen	запирать входную дверь
+der Briefkasten	почтовый ящик
+das Klingelschild	табличка на звонке
+die Gemeinschaftsräume (Pl.)	общие помещения
+der Dachboden	чердак
+die Haustiere (Pl.)	домашние животные
+Rücksicht nehmen	проявлять уважение к другим
+Ab 22 Uhr ist Nachtruhe.	С 22 часов нужно соблюдать тишину.
+Kinderwagen dürfen nicht im Treppenhaus stehen.	Коляски нельзя ставить в подъезде.
+Grillen auf dem Balkon ist verboten.	Жарить гриль на балконе запрещено.
+Die Haustür bleibt nachts zu.	Ночью входная дверь закрыта.
+
+# Переезд
+der Umzug	переезд
+umziehen	переезжать
+einziehen	въезжать
+ausziehen	съезжать
+der Einzug	въезд
+der Auszug	выезд
+der Umzugskarton	коробка для переезда
+das Umzugsunternehmen	компания по переездам
+der Umzugshelfer	помощник при переезде
+packen	упаковывать
+auspacken	распаковывать
+einen Transporter mieten	арендовать фургон
+die Halteverbotszone	зона запрета остановки
+schleppen	таскать
+der Nachmieter	следующий арендатор
+einen Nachmieter suchen	искать нового жильца
+die Schlüsselübergabe	передача ключей
+der Schlüssel	ключ
+der Wohnungsschlüssel	ключ от квартиры
+der Ersatzschlüssel	запасной ключ
+einen Nachsendeauftrag stellen	оформить пересылку почты
+Wir ziehen nächsten Monat um.	Мы переезжаем в следующем месяце.
+Kannst du mir beim Umzug helfen?	Поможешь мне с переездом?
+Die Kartons sind beschriftet.	Коробки подписаны.
+Wohin kommt das Sofa?	Куда ставим диван?
+Der Schrank passt nicht durch die Tür.	Шкаф не проходит в дверь.
+Wir haben keinen Aufzug und wohnen im vierten Stock.	Лифта нет, а мы живём на пятом этаже.
+Muss ich beim Auszug streichen?	Мне нужно красить стены при выезде?
+
+# Регистрация и страховки
+sich anmelden	зарегистрироваться (по адресу)
+sich ummelden	перерегистрироваться (по адресу)
+die Anmeldung	регистрация по месту жительства
+das Bürgeramt	бюро граждан (ведомство)
+die Wohnungsgeberbestätigung	подтверждение от арендодателя
+die Meldebescheinigung	справка о регистрации
+die neue Adresse	новый адрес
+einen Termin beim Bürgeramt bekommen	получить запись в бюро граждан
+das Wohngeld	жилищная субсидия
+der Wohnberechtigungsschein	право на соцжильё (WBS)
+die Hausratversicherung	страховка домашнего имущества
+die Haftpflichtversicherung	страховка ответственности
+Ich muss mich innerhalb von zwei Wochen anmelden.	Я должен зарегистрироваться в течение двух недель.
+
+# Проблемы в квартире
+die Klingel	дверной звонок
+der Rauchmelder	дымовой датчик
+der Einbruch	кража со взломом
+das Ungeziefer	паразиты (насекомые)
+die Kakerlake	таракан
+hellhörig	со слабой звукоизоляцией
+Es tropft von der Decke.	С потолка капает.
+Die Wohnung ist hellhörig.	В квартире всё слышно.
+Die Fenster sind undicht.	Окна пропускают воздух.
+Die Klingel funktioniert nicht.	Звонок не работает.
+Der Aufzug ist schon wieder kaputt.	Лифт опять сломался.
+Im Keller ist eingebrochen worden.	В подвал кто-то вломился.
+Wir haben Mäuse im Keller.	У нас в подвале мыши.
+Der Rauchmelder piept.	Дымовой датчик пищит.
+Im Schlafzimmer bildet sich Schimmel.	В спальне появляется плесень.
+
+# Дом и жильё: дополнительно
+der Mietspiegel	таблица средних арендных ставок
+die Wohnfläche	жилая площадь
+der Stellplatz	парковочное место
+die Tiefgarage	подземный гараж
+das Mehrfamilienhaus	многоквартирный дом
+das Hochhaus	высотка
+der Hinterhof	задний двор
+die Gegensprechanlage	домофон
+der Türöffner	кнопка открывания двери
+der Aushang	объявление на доске
+sich abmelden	сняться с регистрации
+der Eigenbedarf	личная потребность владельца
+die Mietbescheinigung	справка об аренде
+der Gasanbieter	поставщик газа
+die Gasrechnung	счёт за газ
+das Abwasser	сточные воды
+Wir suchen eine Dreizimmerwohnung.	Мы ищем трёхкомнатную квартиру.
+Die Wohnung hat 70 Quadratmeter.	Площадь квартиры — 70 квадратных метров.
+Ich wohne zur Untermiete bei einer Freundin.	Я живу в субаренде у подруги.
+Wie viel Kaution muss ich zahlen?	Сколько залога нужно заплатить?
+Der Vermieter will die Kaution nicht zurückzahlen.	Арендодатель не хочет возвращать залог.
+Die Miete wird vom Konto abgebucht.	Аренда списывается со счёта.
+Die Nebenkosten werden jährlich abgerechnet.	Коммунальные платежи пересчитываются раз в год.
+Kann ich den Zählerstand online melden?	Можно передать показания онлайн?
+Die Heizung ist im Sommer aus.	Летом отопление выключено.
+Der Router blinkt rot.	Роутер мигает красным.
+Die Hausverwaltung hat einen Aushang gemacht.	Управляющая компания повесила объявление.
+Das Treppenhaus wird jeden Freitag geputzt.	Подъезд убирают каждую пятницу.
+Wer hat diese Woche Kehrwoche?	Кто на этой неделе дежурит по уборке?
+Die Nachbarn feiern schon wieder bis spät in die Nacht.	Соседи опять празднуют до поздней ночи.
+Der Umzugswagen steht vor der Tür.	Грузовик для переезда стоит у дома.

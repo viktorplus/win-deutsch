@@ -1,0 +1,314 @@
+# Поиск вакансий
+die Arbeitssuche	поиск работы
+arbeitssuchend sein	быть в поиске работы
+arbeitslos sein	быть безработным
+die Jobbörse	сайт с вакансиями
+der Arbeitsmarkt	рынок труда
+der Fachkräftemangel	нехватка специалистов
+die Fachkraft	квалифицированный специалист
+die Branche	отрасль
+der Quereinsteiger	человек, пришедший из другой сферы
+die Vollzeitstelle	работа на полную ставку
+die Teilzeitstelle	работа на неполную ставку
+die Festanstellung	постоянная работа в штате
+die Zeitarbeitsfirma	фирма по аренде персонала
+die Personalvermittlung	подбор персонала (услуга)
+der Headhunter	хедхантер
+die Initiativbewerbung	заявка без открытой вакансии
+nach einer Stelle suchen	искать место работы
+sich beruflich umorientieren	сменить профессиональное направление
+der Berufseinsteiger	начинающий специалист
+Ich suche eine Stelle als Buchhalter.	Я ищу работу бухгалтером.
+Ich bin seit drei Monaten auf Jobsuche.	Я ищу работу уже три месяца.
+Ich möchte in meinem Beruf arbeiten.	Я хочу работать по своей профессии.
+Ich bin auch für Teilzeit offen.	Я рассматриваю и неполную занятость.
+Ich suche etwas in der Nähe von Köln.	Я ищу что-нибудь недалеко от Кёльна.
+Ich habe schon viele Absagen bekommen.	Я уже получил много отказов.
+In meiner Branche gibt es viele offene Stellen.	В моей отрасли много открытых вакансий.
+Ich schaue jeden Tag in die Jobbörsen.	Я каждый день смотрю сайты вакансий.
+# Объявление о вакансии
+die Stellenanzeige	объявление о вакансии
+die Stellenausschreibung	конкурс на замещение должности
+die offene Stelle	свободная вакансия
+das Anforderungsprofil	требования к кандидату
+die Voraussetzung	обязательное условие
+das Aufgabengebiet	круг обязанностей
+die Berufserfahrung	опыт работы
+fließende Deutschkenntnisse	свободное владение немецким
+gute Englischkenntnisse	хороший английский
+der Führerschein Klasse B	водительские права категории B
+die Belastbarkeit	стрессоустойчивость
+die Teamfähigkeit	умение работать в команде
+die Zuverlässigkeit	надёжность
+die Eigeninitiative	инициативность
+die Flexibilität	гибкость
+die Kommunikationsstärke	коммуникабельность
+das Einstiegsgehalt	стартовая зарплата
+die Vergütung	вознаграждение (оплата)
+die betriebliche Altersvorsorge	корпоративная пенсия
+flexible Arbeitszeiten	гибкий график
+die Homeoffice-Möglichkeit	возможность работать из дома
+der Arbeitsort	место работы (город)
+der Ansprechpartner	контактное лицо
+die Kennziffer	код вакансии
+der Bewerbungsschluss	крайний срок подачи заявок
+w/m/d	ж/м/д (пол в вакансии)
+Wir suchen Verstärkung für unser Team.	Мы ищем пополнение в нашу команду.
+Die Stelle ist ab sofort zu besetzen.	Вакансия доступна немедленно.
+Die Stelle ist auf zwei Jahre befristet.	Должность ограничена сроком два года.
+Wir bieten eine unbefristete Anstellung.	Мы предлагаем бессрочную работу.
+Sie verfügen über eine abgeschlossene Ausbildung.	У вас есть законченное профобразование.
+Sie haben mindestens drei Jahre Berufserfahrung.	У вас не менее трёх лет опыта.
+Bitte senden Sie Ihre vollständigen Unterlagen.	Пожалуйста, пришлите полный пакет документов.
+Bewerbungsschluss ist der 30. Juni.	Приём заявок до 30 июня.
+Bitte geben Sie die Kennziffer an.	Пожалуйста, укажите код вакансии.
+Wir freuen uns auf Ihre Bewerbung!	Ждём вашу заявку!
+# Заявка на работу
+die Bewerbung	заявка на работу
+sich bewerben um	подать заявку на (вакансию)
+sich bewerben bei	подать заявку в (компанию)
+der Bewerber	соискатель
+die Bewerbungsunterlagen	документы для заявки
+die Bewerbungsmappe	папка с документами соискателя
+die Online-Bewerbung	онлайн-заявка
+das Bewerbungsformular	анкета на сайте компании
+der Anhang	вложение (к письму)
+als PDF anhängen	приложить в формате PDF
+eine Bewerbung abschicken	отправить заявку
+die Eingangsbestätigung	подтверждение получения
+die Absage	отказ
+die Zusage	положительный ответ
+das Bewerbungsverfahren	процедура отбора кандидатов
+die Einladung zum Vorstellungsgespräch	приглашение на собеседование
+Ich bewerbe mich auf die Stelle als Lagerist.	Я откликаюсь на вакансию кладовщика.
+Ich habe meine Bewerbung gestern abgeschickt.	Я вчера отправил свою заявку.
+Ist meine Bewerbung bei Ihnen angekommen?	Моя заявка до вас дошла?
+Wie lange dauert das Bewerbungsverfahren?	Сколько длится отбор?
+Anbei finden Sie meine Bewerbungsunterlagen.	Во вложении — мои документы.
+Ich habe mich bei zehn Firmen beworben.	Я подал заявки в десять фирм.
+Leider haben wir uns für einen anderen Bewerber entschieden.	К сожалению, мы выбрали другого кандидата.
+Wir haben Ihre Bewerbung erhalten.	Мы получили вашу заявку.
+Ihre Unterlagen werden derzeit geprüft.	Ваши документы сейчас рассматриваются.
+Wir melden uns innerhalb von zwei Wochen.	Мы свяжемся с вами в течение двух недель.
+Darf ich nach dem Stand meiner Bewerbung fragen?	Можно узнать, на каком этапе моя заявка?
+Die Dateien dürfen höchstens 5 MB groß sein.	Файлы — не больше 5 МБ.
+Ich fasse alle Unterlagen in einer PDF-Datei zusammen.	Я объединяю все документы в один PDF.
+# Резюме
+der Lebenslauf	резюме
+der tabellarische Lebenslauf	резюме в виде таблицы
+das Bewerbungsfoto	фото для резюме
+die persönlichen Daten	личные данные
+das Geburtsdatum	дата рождения
+der Familienstand	семейное положение
+die Staatsangehörigkeit	гражданство
+der berufliche Werdegang	профессиональный путь
+die Schulbildung	школьное образование
+der Schulabschluss	окончание школы (уровень)
+das Studium	учёба в вузе
+der Hochschulabschluss	высшее образование (диплом)
+die Ausbildung	профессиональное обучение
+die Weiterbildung	повышение квалификации
+das Praktikum	стажировка (практика)
+die Sprachkenntnisse	знание языков
+die EDV-Kenntnisse	компьютерные навыки
+die Hobbys und Interessen	хобби и интересы
+die Lücke im Lebenslauf	пробел в резюме
+die Muttersprache	родной язык
+Deutsch auf Niveau B2	немецкий на уровне B2
+verhandlungssicheres Englisch	английский для деловых переговоров
+Grundkenntnisse in Excel	базовые знания Excel
+Ort, Datum, Unterschrift	место, дата, подпись
+Ich habe meinen Lebenslauf aktualisiert.	Я обновил своё резюме.
+Mein Lebenslauf ist zwei Seiten lang.	Моё резюме на две страницы.
+Wie erkläre ich die Lücke in meinem Lebenslauf?	Как объяснить пробел в моём резюме?
+In dieser Zeit habe ich einen Deutschkurs besucht.	В это время я ходил на курсы немецкого.
+Ich war zwei Jahre in Elternzeit.	Я два года был в отпуске по уходу за ребёнком.
+In Deutschland ist ein Foto nicht Pflicht.	В Германии фото не обязательно.
+Die neueste Station steht oben.	Последнее место работы указывается первым.
+Meine Muttersprache ist Russisch.	Мой родной язык — русский.
+Ich habe in Russland Maschinenbau studiert.	Я учился в России на инженера-механика.
+Danach habe ich sechs Jahre als Ingenieur gearbeitet.	Потом я шесть лет работал инженером.
+# Сопроводительное письмо
+das Anschreiben	сопроводительное письмо
+das Motivationsschreiben	мотивационное письмо
+die Betreffzeile	строка темы
+die Anrede	обращение
+die Unterschrift	подпись
+Floskeln vermeiden	избегать шаблонных фраз
+Sehr geehrte Frau Müller,	Уважаемая госпожа Мюллер,
+Sehr geehrte Damen und Herren,	Уважаемые дамы и господа,
+Mit freundlichen Grüßen	С уважением
+Mit großem Interesse habe ich Ihre Stellenanzeige gelesen.	С большим интересом я прочитал ваше объявление.
+Hiermit bewerbe ich mich um die Stelle als Pflegefachkraft.	Настоящим подаю заявку на место медработника по уходу.
+Ich bin auf Ihre Anzeige im Internet aufmerksam geworden.	Я увидел ваше объявление в интернете.
+Ihr Unternehmen hat mich sofort angesprochen.	Ваша компания меня сразу заинтересовала.
+Ich bringe fünf Jahre Berufserfahrung mit.	У меня пять лет опыта работы.
+Zu meinen Stärken gehören Genauigkeit und Geduld.	Мои сильные стороны — точность и терпение.
+Ich arbeite gern im Team.	Мне нравится работать в команде.
+Ich kann ab dem 1. März anfangen.	Я могу приступить с 1 марта.
+Ich bin sofort verfügbar.	Я могу выйти на работу сразу.
+der frühestmögliche Eintrittstermin	самая ранняя дата выхода на работу
+Über eine Einladung zu einem persönlichen Gespräch freue ich mich sehr.	Буду рад приглашению на личную беседу.
+Meine Gehaltsvorstellung liegt bei 45.000 Euro brutto im Jahr.	Жду 45 000 евро брутто в год.
+Das Anschreiben sollte nicht länger als eine Seite sein.	Письмо не должно быть длиннее страницы.
+Ich habe das Anschreiben auf die Stelle zugeschnitten.	Я адаптировал письмо под эту вакансию.
+In Ihrer Anzeige suchen Sie jemanden mit Erfahrung im Vertrieb.	В объявлении вы ищете человека с опытом продаж.
+Genau diese Erfahrung bringe ich mit.	Именно такой опыт у меня есть.
+Ich möchte mich beruflich weiterentwickeln.	Я хочу профессионально расти.
+# Характеристики и документы
+das Arbeitszeugnis	характеристика с места работы
+das qualifizierte Arbeitszeugnis	подробная характеристика с работы
+das einfache Arbeitszeugnis	простая справка о работе
+das Zwischenzeugnis	промежуточная характеристика
+das Schulzeugnis	школьный аттестат
+das Abschlusszeugnis	документ об окончании обучения
+die Zeugnissprache	шифрованный язык характеристик
+die Bescheinigung	справка
+die beglaubigte Kopie	заверенная копия
+etwas beglaubigen lassen	заверить документ
+etwas übersetzen lassen	заказать перевод
+der vereidigte Übersetzer	присяжный переводчик
+das Referenzschreiben	рекомендательное письмо
+die Referenz	рекомендация (отзыв)
+das Zertifikat	сертификат
+die Teilnahmebestätigung	подтверждение участия
+das Original	оригинал
+Er erledigte seine Aufgaben stets zu unserer vollsten Zufriedenheit.	Он всегда выполнял задачи к нашему полному удовлетворению.
+Ich brauche ein Arbeitszeugnis von meinem alten Arbeitgeber.	Мне нужна характеристика от прежнего работодателя.
+Der Arbeitgeber ist verpflichtet, ein Zeugnis auszustellen.	Работодатель обязан выдать характеристику.
+Haben Sie Ihre Zeugnisse übersetzen lassen?	Вы перевели свои аттестаты?
+Meine Zeugnisse sind auf Russisch.	Мои документы на русском языке.
+Ich kann Referenzen angeben.	Я могу назвать рекомендателей.
+Bitte reichen Sie nur Kopien ein, keine Originale.	Подавайте только копии, не оригиналы.
+Die Übersetzung muss beglaubigt sein.	Перевод должен быть заверен.
+# Признание дипломов
+die Anerkennung	признание (диплома)
+der ausländische Abschluss	иностранный диплом
+die Gleichwertigkeit	равноценность
+die Gleichwertigkeitsprüfung	проверка равноценности
+der Anerkennungsbescheid	решение о признании
+die Zeugnisbewertung	оценка иностранного диплома (ZAB)
+die Zentralstelle für ausländisches Bildungswesen	Центральное бюро по иностранному образованию
+der reglementierte Beruf	регулируемая профессия
+die Berufserlaubnis	временное разрешение на работу по профессии
+die Approbation	лицензия врача (апробация)
+die Kenntnisprüfung	экзамен на знания (для признания)
+die Ausgleichsmaßnahme	компенсационная мера (доучивание)
+die teilweise Anerkennung	частичное признание
+die volle Anerkennung	полное признание
+die Fächerübersicht	перечень предметов к диплому
+die Anerkennungsberatung	консультация по признанию
+der Antrag auf Anerkennung	заявление на признание
+Ist mein Abschluss in Deutschland anerkannt?	Признаётся ли мой диплом в Германии?
+Ich habe die Anerkennung meines Diploms beantragt.	Я подал на признание диплома.
+Für meinen Beruf brauche ich keine Anerkennung.	Для моей профессии признание не нужно.
+Die Anerkennung kostet zwischen 100 und 600 Euro.	Признание стоит от 100 до 600 евро.
+Das Verfahren dauert bis zu drei Monate.	Процедура занимает до трёх месяцев.
+Mein Abschluss wurde nur teilweise anerkannt.	Мой диплом признали лишь частично.
+Ich muss noch eine Ausgleichsmaßnahme machen.	Мне ещё нужно пройти доучивание.
+Wo kann ich mich zur Anerkennung beraten lassen?	Где получить консультацию по признанию?
+Welche Stelle ist für meinen Beruf zuständig?	Какое ведомство отвечает за мою профессию?
+Als Ärztin brauche ich eine Approbation.	Как врачу мне нужна апробация.
+# Джобцентр и агентство по труду
+die Agentur für Arbeit	агентство по труду
+das Jobcenter	джобцентр
+sich arbeitssuchend melden	встать на учёт как ищущий работу
+sich arbeitslos melden	зарегистрироваться безработным
+das Arbeitslosengeld	пособие по безработице
+das Bürgergeld	базовое пособие (Bürgergeld)
+der Arbeitsvermittler	консультант по трудоустройству
+die Berufsberatung	профориентация
+der Kooperationsplan	план сотрудничества с джобцентром
+der Vermittlungsvorschlag	вакансия, предложенная агентством
+der Bildungsgutschein	ваучер на обучение
+die Weiterbildungsmaßnahme	курс переподготовки
+der Eingliederungszuschuss	доплата работодателю за найм
+die Sperrzeit	период лишения пособия
+der Integrationskurs	интеграционный курс
+der Berufssprachkurs	курс немецкого для работы
+Ich habe morgen einen Termin bei meinem Arbeitsvermittler.	Завтра у меня встреча с моим консультантом.
+Ich muss meine Bewerbungsbemühungen nachweisen.	Мне нужно подтвердить свои поиски работы.
+Das Jobcenter übernimmt die Kosten für den Kurs.	Джобцентр оплачивает курс.
+Kann ich einen Bildungsgutschein bekommen?	Можно мне получить ваучер на обучение?
+Ich habe einen Vermittlungsvorschlag bekommen.	Мне прислали вакансию из агентства.
+Man muss sich spätestens drei Monate vorher arbeitssuchend melden.	Встать на учёт нужно не позднее чем за три месяца.
+Ich bin beim Jobcenter gemeldet.	Я стою на учёте в джобцентре.
+Ein Berufssprachkurs würde mir sehr helfen.	Курс профессионального немецкого мне бы очень помог.
+Ich habe den Termin verpasst, weil ich krank war.	Я пропустил встречу, потому что болел.
+Muss ich jede Stelle annehmen?	Я обязан соглашаться на любую работу?
+# Нетворкинг
+das Netzwerk	сеть контактов
+netzwerken	заводить полезные связи
+Kontakte pflegen	поддерживать контакты
+das Vitamin B	блат (связи)
+die Empfehlung	рекомендация знакомого
+die Jobmesse	ярмарка вакансий
+das Berufsnetzwerk	профессиональная соцсеть
+das LinkedIn-Profil	профиль в LinkedIn
+der Recruiter	рекрутер
+die Visitenkarte	визитка
+der verdeckte Stellenmarkt	скрытый рынок вакансий
+der Branchentreff	встреча профессионалов отрасли
+Viele Stellen werden über Beziehungen vergeben.	Многие места получают по знакомству.
+Kannst du mich weiterempfehlen?	Можешь меня порекомендовать?
+Ich habe die Stelle über einen Bekannten gefunden.	Я нашёл работу через знакомого.
+Darf ich Sie auf LinkedIn hinzufügen?	Можно добавить вас в LinkedIn?
+Ein Recruiter hat mich angeschrieben.	Мне написал рекрутер.
+Ich war auf einer Jobmesse in Frankfurt.	Я был на ярмарке вакансий во Франкфурте.
+Haben Sie eine Visitenkarte für mich?	У вас есть для меня визитка?
+Ich möchte mein Netzwerk in Deutschland ausbauen.	Я хочу расширить свои связи в Германии.
+Darf ich mich auf Sie beziehen?	Можно сослаться на вас?
+Melden Sie sich gern, wenn etwas frei wird.	Сообщите, если что-то освободится.
+Frau Schmidt hat mir Ihren Kontakt gegeben.	Госпожа Шмидт дала мне ваш контакт.
+Wissen Sie, ob Ihre Firma gerade Leute sucht?	Не знаете, ваша фирма сейчас набирает людей?
+# Ответ работодателя
+die Rückmeldung	ответ (от компании)
+nachfassen	напомнить о себе
+der Bewerberpool	база кандидатов
+die Datenschutzerklärung	политика конфиденциальности
+die Einwilligung	согласие на обработку данных
+seine Bewerbung zurückziehen	отозвать заявку
+Vielen Dank für Ihre Rückmeldung.	Спасибо за ваш ответ.
+Ich würde gern nachfragen, ob die Stelle noch frei ist.	Хотел бы уточнить, свободна ли ещё вакансия.
+Ich freue mich auf Ihre Antwort.	Жду вашего ответа.
+Könnten Sie mir sagen, warum ich abgelehnt wurde?	Можете сказать, почему мне отказали?
+Ich ziehe meine Bewerbung zurück.	Я отзываю свою заявку.
+Wir nehmen Sie gern in unseren Bewerberpool auf.	Мы с радостью внесём вас в базу кандидатов.
+Dürfen wir Ihre Unterlagen für spätere Stellen speichern?	Можно сохранить ваши документы для будущих вакансий?
+Bitte senden Sie mir meine Unterlagen zurück.	Пожалуйста, верните мне мои документы.
+Ich habe leider noch keine Antwort erhalten.	Я, к сожалению, ещё не получил ответа.
+Ich habe inzwischen ein anderes Angebot angenommen.	Я уже принял другое предложение.
+Wir möchten Sie gern kennenlernen.	Мы хотели бы с вами познакомиться.
+# Навыки и статус
+die Fachkompetenz	профессиональная компетенция
+die Sozialkompetenz	социальная компетентность
+die Führungserfahrung	опыт руководства
+die Projekterfahrung	проектный опыт
+die Auslandserfahrung	опыт работы за границей
+die Arbeitserlaubnis	разрешение на работу
+der Aufenthaltstitel	вид на жительство
+die Niederlassungserlaubnis	бессрочный вид на жительство
+die Blaue Karte EU	Голубая карта ЕС
+die Chancenkarte	карта возможностей (поиск работы)
+Darf ich in Deutschland arbeiten?	Мне разрешено работать в Германии?
+Meine Arbeitserlaubnis ist an den Arbeitgeber gebunden.	Моё разрешение привязано к работодателю.
+Ich habe einen unbefristeten Aufenthaltstitel.	У меня бессрочный вид на жительство.
+Ich kann gut mit Kunden umgehen.	Я хорошо нахожу общий язык с клиентами.
+Ich lerne schnell und arbeite mich gern ein.	Я быстро учусь и легко вникаю в дело.
+Mir fehlt noch Erfahrung in Deutschland.	Мне пока не хватает опыта в Германии.
+# Профиль на порталах вакансий
+das Suchprofil	параметры поиска (на сайте)
+der Jobalert	рассылка новых вакансий
+das Stichwort	ключевое слово
+der Suchfilter	фильтр поиска
+die Umkreissuche	поиск в радиусе от города
+das Karriereportal	раздел «Карьера» на сайте фирмы
+ein Profil anlegen	создать профиль
+Ich habe einen Jobalert für Lagerjobs eingerichtet.	Я настроил рассылку вакансий на складе.
+Ich lade meinen Lebenslauf auf das Portal hoch.	Я загружаю резюме на портал.
+Mein Profil ist für Arbeitgeber sichtbar.	Мой профиль видят работодатели.
+Ich filtere nach Stellen im Umkreis von 30 Kilometern.	Я ищу вакансии в радиусе 30 километров.
+Auf der Karriereseite der Firma gibt es mehr Informationen.	Больше информации — на карьерной странице фирмы.
+Viele Firmen nutzen ein Bewerbermanagementsystem.	Многие фирмы используют систему учёта кандидатов.
+Beim Hochladen bekomme ich eine Fehlermeldung.	При загрузке у меня выходит ошибка.
+Kann ich mich auch ohne Anschreiben bewerben?	Можно подать заявку без сопроводительного письма?

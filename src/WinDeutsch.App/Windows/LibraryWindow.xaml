@@ -52,6 +52,7 @@
                         <Button Content="Новая тема" Click="OnAddTopic"/>
                         <Button Content="Переименовать" Click="OnRenameTopic"/>
                         <Button Content="Удалить тему" Click="OnDeleteTopic"/>
+                        <Button Content="Удалить категорию" Click="OnDeleteCategory"/>
                     </WrapPanel>
                     <TreeView x:Name="TopicTree" ItemContainerStyle="{StaticResource NodeStyle}"
                               SelectedItemChanged="OnTreeSelectionChanged">
@@ -90,6 +91,7 @@
                         <Button Content="Изменить" Click="OnEditPhrase"/>
                         <Button Content="Действия ▾" Click="OnShowActions"/>
                         <Button Content="Импорт…" Click="OnImport"/>
+                        <Button Content="Словари…" Click="OnImportDictionaries"/>
                         <Button Content="Экспорт ▾" Click="OnShowExport"/>
                         <Button Content="Восстановить базовый набор" Click="OnRestoreSeed"/>
                     </WrapPanel>

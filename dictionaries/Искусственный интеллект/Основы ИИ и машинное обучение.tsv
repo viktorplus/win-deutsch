@@ -1,0 +1,329 @@
+# Основные понятия
+die künstliche Intelligenz	искусственный интеллект
+die KI	ИИ (сокращение)
+das maschinelle Lernen	машинное обучение
+das Modell	модель
+der Algorithmus	алгоритм
+die Vorhersage	предсказание
+die Prognose	прогноз
+die Genauigkeit	точность
+die Daten (Pl.)	данные
+die Mustererkennung	распознавание образов
+das Muster	закономерность (шаблон)
+die schwache KI	слабый ИИ
+die starke KI	сильный ИИ
+die allgemeine künstliche Intelligenz	общий искусственный интеллект (AGI)
+das System	система
+die Anwendung	применение (приложение)
+der Anwendungsfall	сценарий использования
+die Automatisierung	автоматизация
+die Entscheidung	решение (выбор)
+die Lösung	решение (задачи)
+lernfähig	способный к обучению
+intelligent	интеллектуальный
+selbstlernend	самообучающийся
+regelbasiert	основанный на правилах
+das Expertensystem	экспертная система
+die Informatik	информатика
+der Informatiker	информатик
+die Datenwissenschaft	наука о данных
+der Data Scientist	специалист по данным
+Künstliche Intelligenz ist ein Teilgebiet der Informatik.	ИИ — раздел информатики.
+Die KI erkennt Muster in großen Datenmengen.	ИИ находит закономерности в больших данных.
+Das System lernt aus Beispielen.	Система учится на примерах.
+Maschinen können heute vieles automatisieren.	Сегодня машины могут многое автоматизировать.
+Was genau versteht man unter maschinellem Lernen?	Что именно понимают под машинным обучением?
+Das ist kein Hexenwerk, sondern Statistik.	Это не колдовство, а статистика.
+
+# Обучение модели
+das Training	обучение (тренировка) модели
+ein Modell trainieren	обучать модель
+die Trainingsdaten (Pl.)	обучающие данные
+die Testdaten (Pl.)	тестовые данные
+die Validierungsdaten (Pl.)	валидационные данные
+das Lernverfahren	метод обучения
+das überwachte Lernen	обучение с учителем
+das unüberwachte Lernen	обучение без учителя
+das bestärkende Lernen	обучение с подкреплением
+die Trainingsphase	фаза обучения
+der Trainingslauf	прогон обучения
+die Epoche	эпоха (проход по данным)
+die Iteration	итерация
+die Lernrate	скорость обучения
+der Parameter	параметр
+der Hyperparameter	гиперпараметр
+die Verlustfunktion	функция потерь
+die Fehlerrate	частота ошибок
+den Fehler minimieren	минимизировать ошибку
+die Optimierung	оптимизация
+optimieren	оптимизировать
+das Feintuning	дообучение (тонкая настройка)
+das vortrainierte Modell	предобученная модель
+das Transferlernen	перенос обучения
+Das Modell wird mit historischen Daten trainiert.	Модель обучают на исторических данных.
+Das Training hat drei Tage gedauert.	Обучение длилось три дня.
+Wir brauchen mehr Trainingsdaten.	Нам нужно больше обучающих данных.
+Die Lernrate war zu hoch eingestellt.	Скорость обучения была слишком высокой.
+Nach jeder Epoche prüfen wir den Fehler.	После каждой эпохи мы проверяем ошибку.
+Das Modell muss regelmäßig neu trainiert werden.	Модель нужно регулярно переобучать.
+Für das Feintuning reichen wenige Beispiele.	Для дообучения хватает немногих примеров.
+
+# Модели и алгоритмы
+die Regression	регрессия
+die lineare Regression	линейная регрессия
+die logistische Regression	логистическая регрессия
+die Klassifikation	классификация
+klassifizieren	классифицировать
+der Klassifikator	классификатор
+das Clustering	кластеризация
+der Cluster	кластер
+der Entscheidungsbaum	дерево решений
+der Random Forest	случайный лес
+das Ensemble	ансамбль моделей
+das statistische Modell	статистическая модель
+das generative Modell	генеративная модель
+die Zielvariable	целевая переменная
+das Merkmal	признак
+die Merkmalsauswahl	отбор признаков
+die Eingabe	ввод (входные данные)
+die Ausgabe	выход (результат модели)
+die Wahrscheinlichkeit	вероятность
+die Funktion	функция
+die Komplexität	сложность
+leicht interpretierbar	легко интерпретируемый
+Der Algorithmus sortiert die Kunden in Gruppen.	Алгоритм распределяет клиентов по группам.
+Ein Entscheidungsbaum ist leicht zu erklären.	Дерево решений легко объяснить.
+Welches Modell eignet sich für diese Aufgabe?	Какая модель подходит для этой задачи?
+Wir vergleichen mehrere Algorithmen miteinander.	Мы сравниваем несколько алгоритмов.
+Für einfache Probleme reicht oft eine Regression.	Для простых задач часто хватает регрессии.
+Das Modell ordnet jede E-Mail einer Kategorie zu.	Модель относит каждое письмо к категории.
+
+# Предсказания и вывод
+eine Vorhersage treffen	делать предсказание
+vorhersagen	предсказывать
+prognostizieren	прогнозировать
+die Schätzung	оценка (приблизительная)
+schätzen	оценивать (приблизительно)
+der Vorhersagewert	прогнозное значение
+die Inferenz	инференс (вывод модели)
+das Ergebnis	результат
+die Konfidenz	уверенность модели
+der Schwellenwert	пороговое значение
+die Empfehlung	рекомендация
+das Empfehlungssystem	рекомендательная система
+die Prognosegüte	качество прогноза
+die Nachfrageprognose	прогноз спроса
+Das Modell sagt den Umsatz für den nächsten Monat voraus.	Модель предсказывает выручку на следующий месяц.
+Die Vorhersage lag deutlich daneben.	Прогноз сильно промахнулся.
+Mit 90 Prozent Wahrscheinlichkeit ist das Spam.	С вероятностью 90 % это спам.
+Das Ergebnis ist nur so gut wie die Daten.	Результат хорош настолько, насколько хороши данные.
+Die Empfehlungen basieren auf dem Kaufverhalten.	Рекомендации основаны на поведении покупателей.
+Ab welchem Schwellenwert schlagen wir Alarm?	С какого порога мы поднимаем тревогу?
+
+# Оценка качества
+die Bewertung	оценка (качества)
+die Evaluierung	оценивание модели
+evaluieren	проводить оценку
+die Metrik	метрика
+die Trefferquote	доля попаданий (recall)
+die Präzision	прецизионность (precision)
+der F1-Score	F1-мера
+die Konfusionsmatrix	матрица ошибок
+falsch positiv	ложноположительный
+falsch negativ	ложноотрицательный
+die Fehlklassifikation	ошибочная классификация
+die Kreuzvalidierung	перекрёстная проверка
+die Testmenge	тестовая выборка
+die Stichprobe	выборка
+der Benchmark	бенчмарк (эталонный тест)
+die Leistung eines Modells	эффективность модели
+die Robustheit	устойчивость (робастность)
+zuverlässig	надёжный
+die Zuverlässigkeit	надёжность
+messen	измерять
+Die Genauigkeit liegt bei 95 Prozent.	Точность составляет 95 %.
+Auf den Testdaten schneidet das Modell schlechter ab.	На тестовых данных модель работает хуже.
+Wie messen wir den Erfolg des Modells?	Как мы измеряем успех модели?
+Zu viele falsch positive Ergebnisse stören die Nutzer.	Ложные срабатывания мешают пользователям.
+Wir sollten das Modell auf neuen Daten testen.	Нам стоит проверить модель на новых данных.
+
+# Проблемы обучения
+die Überanpassung	переобучение
+das Overfitting	оверфиттинг (англицизм)
+die Unteranpassung	недообучение
+das Rauschen	шум (в данных)
+der Ausreißer	выброс (аномальное значение)
+die Generalisierung	обобщение
+verallgemeinern	обобщать
+die Datenmenge	объём данных
+das lokale Minimum	локальный минимум
+die Konvergenz	сходимость
+konvergieren	сходиться
+instabil	нестабильный
+der Modelldrift	дрейф модели
+veraltet	устаревший
+Das Modell generalisiert schlecht.	Модель плохо обобщает.
+Das Modell hat die Trainingsdaten auswendig gelernt.	Модель просто заучила обучающие данные.
+Gegen Überanpassung helfen mehr Daten.	Против переобучения помогают дополнительные данные.
+Die Ausreißer verfälschen das Ergebnis.	Выбросы искажают результат.
+Das Training konvergiert nicht.	Обучение не сходится.
+Mit der Zeit verliert das Modell an Genauigkeit.	Со временем модель теряет точность.
+Wir haben schlicht zu wenig Daten.	У нас просто слишком мало данных.
+
+# Области применения
+die Bilderkennung	распознавание изображений
+die Spracherkennung	распознавание речи
+die Texterkennung	распознавание текста (OCR)
+die Betrugserkennung	выявление мошенничества
+die Anomalieerkennung	обнаружение аномалий
+die vorausschauende Wartung	предиктивное обслуживание
+die Robotik	робототехника
+der Roboter	робот
+das autonome Fahren	автономное вождение
+die medizinische Diagnose	медицинская диагностика
+die maschinelle Übersetzung	машинный перевод
+die Qualitätskontrolle	контроль качества
+die Personalisierung	персонализация
+die Routenplanung	планирование маршрута
+die Lagerhaltung	управление запасами
+In der Industrie erkennt KI Fehler an Bauteilen.	В промышленности ИИ находит дефекты деталей.
+Banken nutzen KI zur Betrugserkennung.	Банки используют ИИ для выявления мошенничества.
+Die Maschine meldet einen Ausfall, bevor er passiert.	Машина сообщает о поломке до того, как она случится.
+Im Krankenhaus unterstützt KI die Ärzte bei der Diagnose.	В больнице ИИ помогает врачам ставить диагноз.
+Das Navi berechnet die schnellste Route.	Навигатор рассчитывает самый быстрый маршрут.
+Der Onlineshop schlägt mir passende Produkte vor.	Интернет-магазин предлагает мне подходящие товары.
+Der Spamfilter lernt aus jeder markierten Mail.	Спам-фильтр учится на каждом отмеченном письме.
+
+# История и развитие
+der Turing-Test	тест Тьюринга
+die Forschung	исследования
+der Forscher	исследователь
+der Durchbruch	прорыв
+der KI-Winter	«зима ИИ»
+der Fortschritt	прогресс
+die Entwicklung	развитие
+der Meilenstein	веха
+der Hype	ажиотаж (хайп)
+die Erwartungen (Pl.)	ожидания
+der Schachcomputer	шахматный компьютер
+der Pionier	первопроходец
+Der Begriff stammt aus den fünfziger Jahren.	Термин появился в 1950-х годах.
+Der Fortschritt der letzten Jahre ist enorm.	Прогресс последних лет огромен.
+Viele Erwartungen wurden enttäuscht.	Многие ожидания не оправдались.
+Ein Schachcomputer schlug 1997 den Weltmeister.	В 1997 году компьютер обыграл чемпиона мира по шахматам.
+Die Forschung entwickelt sich rasant.	Исследования развиваются стремительно.
+Nach dem Hype kam die Ernüchterung.	После ажиотажа пришло отрезвление.
+
+# Проекты и работа в команде
+das KI-Projekt	проект в области ИИ
+der Prototyp	прототип
+der Proof of Concept	проверка концепции
+die Machbarkeit	осуществимость
+die Anforderung	требование
+die Pipeline	конвейер (pipeline)
+in Produktion bringen	запускать в продакшн
+das Deployment	развёртывание
+die Überwachung	мониторинг
+der Machine-Learning-Ingenieur	инженер машинного обучения
+das Fachwissen	экспертные знания
+der Fachbereich	профильный отдел
+skalieren	масштабировать
+die Skalierung	масштабирование
+der Aufwand	трудозатраты
+der Nutzen	польза
+die Kosten (Pl.)	затраты
+der Mehrwert	добавленная ценность
+Zuerst bauen wir einen Prototyp.	Сначала мы делаем прототип.
+Lohnt sich KI für dieses Problem überhaupt?	Стоит ли вообще применять ИИ для этой задачи?
+Das Modell läuft jetzt in Produktion.	Модель уже работает в продакшне.
+Wir müssen das Modell im Betrieb überwachen.	Нам нужно отслеживать модель в эксплуатации.
+Ohne Wissen aus dem Fachbereich geht es nicht.	Без знаний профильного отдела не обойтись.
+Der Proof of Concept war erfolgreich.	Проверка концепции прошла успешно.
+Kannst du mir das Modell kurz erklären?	Можешь коротко объяснить мне модель?
+Das Projekt ist noch in der Testphase.	Проект ещё на стадии тестирования.
+Der Aufwand steht in keinem Verhältnis zum Nutzen.	Затраты несоизмеримы с пользой.
+Welchen Mehrwert bringt das Modell dem Kunden?	Какую ценность модель даёт клиенту?
+
+# Математика
+die lineare Algebra	линейная алгебра
+die Matrix	матрица
+der Vektor	вектор
+die Ableitung	производная
+der Gradient	градиент
+das Gradientenverfahren	градиентный спуск
+die Normalverteilung	нормальное распределение
+der Mittelwert	среднее значение
+die Varianz	дисперсия
+die Korrelation	корреляция
+die Kausalität	причинность
+die Gleichung	уравнение
+berechnen	вычислять
+die Berechnung	вычисление
+Korrelation ist nicht gleich Kausalität.	Корреляция — не то же самое, что причинность.
+Ohne Mathematik versteht man die Modelle nicht.	Без математики модели не понять.
+Im Kern ist das nur eine große Matrixmultiplikation.	По сути это просто большое умножение матриц.
+
+# Глаголы и обороты
+erkennen	распознавать
+lernen	учиться
+zuordnen	относить (к классу)
+unterscheiden	различать
+anpassen	настраивать (подгонять)
+verbessern	улучшать
+testen	тестировать
+auswerten	анализировать (результаты)
+die Auswertung	анализ результатов
+einsetzen	применять (внедрять)
+der Einsatz	применение (использование)
+einführen	внедрять
+die Einführung	внедрение
+abbilden	отображать (моделировать)
+ableiten	выводить (делать вывод)
+nachbilden	воспроизводить (имитировать)
+Wo setzt ihr maschinelles Lernen ein?	Где вы применяете машинное обучение?
+Das Modell kann Katzen von Hunden unterscheiden.	Модель отличает кошек от собак.
+Wir haben das Modell Schritt für Schritt verbessert.	Мы шаг за шагом улучшали модель.
+Aus den Daten lassen sich klare Regeln ableiten.	Из данных можно вывести чёткие правила.
+Die Einführung der KI dauerte ein halbes Jahr.	Внедрение ИИ заняло полгода.
+
+# Ограничения и мифы
+der Irrtum	заблуждение
+der Mythos	миф
+die Grenze	предел (ограничение)
+das Verständnis	понимание
+der gesunde Menschenverstand	здравый смысл
+das Bewusstsein	сознание
+die Kreativität	творческие способности
+denken	думать
+Die KI versteht nicht wirklich, was sie tut.	ИИ на самом деле не понимает, что делает.
+Eine Maschine hat kein Bewusstsein.	У машины нет сознания.
+Auch die beste KI hat ihre Grenzen.	У лучшего ИИ тоже есть пределы.
+Das Modell kennt nur, was in den Daten steckt.	Модель знает только то, что есть в данных.
+Viele überschätzen, was KI heute schon kann.	Многие переоценивают нынешние возможности ИИ.
+
+# Типы задач и подходы
+die Bildklassifikation	классификация изображений
+die Textklassifikation	классификация текстов
+die Zeitreihenanalyse	анализ временных рядов
+die Dimensionsreduktion	снижение размерности
+die Hauptkomponentenanalyse	метод главных компонент
+das Basismodell	базовая модель
+die Kostenfunktion	функция стоимости
+das Lernziel	цель обучения
+die Belohnung	вознаграждение (при обучении с подкреплением)
+der Agent	агент (при обучении с подкреплением)
+die Umgebung	среда
+die Strategie	стратегия
+die Simulation	симуляция
+simulieren	моделировать (симулировать)
+das Teilgebiet	раздел (область науки)
+die Heuristik	эвристика
+deterministisch	детерминированный
+probabilistisch	вероятностный
+Der Agent bekommt für jeden richtigen Zug eine Belohnung.	Агент получает награду за каждый верный ход.
+Beim bestärkenden Lernen lernt das System durch Versuch und Irrtum.	При подкреплении система учится методом проб и ошибок.
+Die Simulation spart teure Tests in der realen Welt.	Симуляция экономит дорогие реальные испытания.
+Das Basismodell passen wir an unsere Branche an.	Базовую модель мы адаптируем под нашу отрасль.
+Das Ergebnis ist nicht deterministisch.	Результат недетерминирован.
+Zuerst reduzieren wir die Anzahl der Merkmale.	Сначала сокращаем число признаков.
+Ein Mensch würde das intuitiv anders entscheiden.	Человек интуитивно решил бы иначе.

@@ -1,0 +1,326 @@
+# Материалы: общие понятия
+der Werkstoff	конструкционный материал
+die Werkstoffkunde	материаловедение
+die Werkstoffauswahl	выбор материала
+die Dichte	плотность
+die Härte	твёрдость
+die Zähigkeit	вязкость (ударная)
+die Sprödigkeit	хрупкость
+die Zugfestigkeit	предел прочности при растяжении
+die Streckgrenze	предел текучести
+die Bruchdehnung	относительное удлинение при разрыве
+der Elastizitätsmodul	модуль упругости
+die Wärmeleitfähigkeit	теплопроводность
+die Wärmeausdehnung	тепловое расширение
+die Korrosion	коррозия
+korrosionsbeständig	коррозионностойкий
+die Ermüdung	усталость материала
+das Gefüge	микроструктура
+die Legierung	сплав
+das Halbzeug	полуфабрикат (прокат)
+das Blech	листовой металл
+Welcher Werkstoff ist hier vorgesehen?	Какой материал здесь предусмотрен?
+Das Material ist zu spröde für diese Anwendung.	Материал слишком хрупкий для этого применения.
+Wir brauchen einen Werkstoff mit höherer Streckgrenze.	Нужен материал с более высоким пределом текучести.
+Gibt es dafür ein Werkstoffzeugnis?	Есть ли на это сертификат на материал?
+Bei Salzwasser rostet das sofort.	В солёной воде это сразу заржавеет.
+# Сталь и металлы
+der Stahl	сталь
+der Baustahl	конструкционная сталь
+der Edelstahl	нержавеющая сталь
+der Werkzeugstahl	инструментальная сталь
+das Gusseisen	чугун
+das Aluminium	алюминий
+das Kupfer	медь
+das Messing	латунь
+die Bronze	бронза
+das Titan	титан
+der Rost	ржавчина
+die Wärmebehandlung	термообработка
+das Härten	закалка
+das Anlassen	отпуск (стали)
+das Glühen	отжиг
+das Vergüten	улучшение (закалка с отпуском)
+das Einsatzhärten	цементация
+verzinken	оцинковывать
+die Beschichtung	покрытие
+das Eloxieren	анодирование
+Das Teil wird nach dem Fräsen gehärtet.	Деталь закаливают после фрезерования.
+Edelstahl ist hier zu teuer, nehmen wir verzinkten Stahl.	Нержавейка тут дорога, возьмём оцинкованную сталь.
+Das Aluminium muss eloxiert werden.	Алюминий нужно анодировать.
+Nach dem Härten hat sich das Teil verzogen.	После закалки деталь повело.
+# Пластики и композиты
+der Kunststoff	пластмасса
+der Thermoplast	термопласт
+der Duroplast	реактопласт
+das Elastomer	эластомер
+das Polyamid	полиамид
+das Polyethylen	полиэтилен
+das Polypropylen	полипропилен
+das Polycarbonat	поликарбонат
+der Verbundwerkstoff	композиционный материал
+der faserverstärkte Kunststoff	армированный волокном пластик
+die Kohlefaser	углеродное волокно
+die Glasfaser	стекловолокно
+das Granulat	гранулят
+der Spritzguss	литьё под давлением
+das Spritzgießwerkzeug	пресс-форма для литья
+die Entformung	извлечение из формы
+die Schwindung	усадка
+der Grat	облой (заусенец)
+die Einfallstelle	утяжина
+Das Spritzgussteil hat Einfallstellen.	На литой детали есть утяжины.
+Kunststoff wird bei dieser Temperatur weich.	При такой температуре пластик размягчается.
+Das Werkzeug muss nachgearbeitet werden.	Пресс-форму надо доработать.
+Polyamid nimmt Feuchtigkeit auf und quillt.	Полиамид впитывает влагу и разбухает.
+# Испытания материалов
+die Werkstoffprüfung	испытание материалов
+der Zugversuch	испытание на растяжение
+die Zugprobe	образец для растяжения
+der Kerbschlagbiegeversuch	испытание на ударный изгиб
+die Härteprüfung	измерение твёрдости
+die Härte nach Vickers	твёрдость по Виккерсу
+die zerstörungsfreie Prüfung	неразрушающий контроль
+die Ultraschallprüfung	ультразвуковой контроль
+die Röntgenprüfung	рентгеновский контроль
+die Farbeindringprüfung	капиллярная дефектоскопия
+die Magnetpulverprüfung	магнитопорошковый контроль
+der Dauerversuch	длительное испытание
+die Bruchfläche	поверхность излома
+der Ermüdungsbruch	усталостный излом
+die Probe	образец (для испытаний)
+das Prüflabor	испытательная лаборатория
+Die Probe ist bei 450 Megapascal gebrochen.	Образец разрушился при 450 МПа.
+Die Bruchfläche deutet auf einen Ermüdungsbruch hin.	Излом указывает на усталостное разрушение.
+Wir schicken die Proben ins Labor.	Отправим образцы в лабораторию.
+Die Schweißnähte werden per Ultraschall geprüft.	Сварные швы проверяют ультразвуком.
+# Контроль качества
+die Qualitätssicherung	обеспечение качества
+das Qualitätsmanagement	управление качеством
+die Qualitätskontrolle	контроль качества
+die Eingangsprüfung	входной контроль
+die Endkontrolle	выходной контроль
+die Erstmusterprüfung	проверка первых образцов
+der Erstmusterprüfbericht	отчёт о первых образцах
+das Prüfprotokoll	протокол испытаний
+das Prüfmittel	средство контроля
+der Messschieber	штангенциркуль
+die Bügelmessschraube	микрометр
+die Koordinatenmessmaschine	координатно-измерительная машина
+die Lehre	калибр
+der Ausschuss	брак
+die Nacharbeit	доработка (исправление брака)
+die Reklamation	рекламация
+die Abweichung	отклонение (от требований)
+die Fehleranalyse	анализ дефектов
+die Ursachenanalyse	анализ первопричин
+der 8D-Report	отчёт 8D
+die Korrekturmaßnahme	корректирующее мероприятие
+die FMEA	FMEA (анализ видов отказов)
+die Prozessfähigkeit	воспроизводимость процесса
+das Audit	аудит
+die Zertifizierung	сертификация
+die Rückverfolgbarkeit	прослеживаемость
+die Charge	партия (плавка, загрузка)
+das Werkszeugnis	заводской сертификат
+Die ganze Charge ist Ausschuss.	Вся партия — брак.
+Der Kunde hat eine Reklamation geschickt.	Заказчик прислал рекламацию.
+Wir müssen bis Freitag einen 8D-Report liefern.	До пятницы надо сдать отчёт 8D.
+Die Teile gehen in die Nacharbeit.	Детали отправляют на доработку.
+Das Audit ist nächsten Monat.	Аудит в следующем месяце.
+Die Ursache ist noch nicht gefunden.	Причина ещё не найдена.
+Die Erstmuster sind freigegeben.	Первые образцы одобрены.
+Das Prüfmittel ist nicht kalibriert, die Messung zählt nicht.	Средство контроля не поверено, замер не в счёт.
+# Производство
+die Produktion	производство
+die Fertigungslinie	производственная линия
+das Fließband	конвейер
+die Serienfertigung	серийное производство
+die Einzelfertigung	единичное производство
+die Massenfertigung	массовое производство
+der Arbeitsplan	технологическая карта
+der Arbeitsgang	операция (технологическая)
+die Taktzeit	время такта
+die Durchlaufzeit	время производственного цикла
+die Produktionskapazität	производственная мощность
+die Auslastung	загрузка мощностей
+der Engpass	узкое место
+der Schichtbetrieb	сменная работа
+die Frühschicht	утренняя смена
+die Spätschicht	вечерняя смена
+die Nachtschicht	ночная смена
+der Schichtleiter	начальник смены
+der Werker	рабочий (оператор)
+die Produktionsplanung	планирование производства
+der Auftrag	заказ
+das Materiallager	склад материалов
+der Lagerbestand	складской запас
+die Anlage	установка (оборудование)
+der Stillstand	простой
+die Ausbringung	выпуск продукции
+die Stückkosten	себестоимость единицы
+die Automatisierung der Linie	автоматизация линии
+der Industrieroboter	промышленный робот
+die Montagelinie	сборочная линия
+Die Linie steht seit zwei Stunden.	Линия стоит уже два часа.
+Wir schaffen die Stückzahlen nicht.	Мы не выдаём нужное количество.
+Der Engpass ist die Lackiererei.	Узкое место — покрасочный цех.
+Können wir eine Sonderschicht fahren?	Можем устроить дополнительную смену?
+Der Auftrag muss bis Ende des Monats raus.	Заказ надо отгрузить до конца месяца.
+Das Material ist nicht rechtzeitig angekommen.	Материал не прибыл вовремя.
+Die Taktzeit liegt bei 45 Sekunden.	Время такта — 45 секунд.
+# Бережливое производство
+die schlanke Produktion	бережливое производство
+die kontinuierliche Verbesserung	непрерывное совершенствование
+der Verbesserungsvorschlag	рационализаторское предложение
+die Verschwendung	потери (муда)
+die Wertschöpfung	создание ценности
+5S einführen	внедрить систему 5S
+die Kennzahl	ключевой показатель
+die Gesamtanlageneffektivität	общая эффективность оборудования (OEE)
+das Shopfloor-Meeting	планёрка в цехе
+der Rüstvorgang	переналадка
+die Standardisierung	стандартизация
+Wir müssen die Rüstzeiten halbieren.	Нужно вдвое сократить время переналадки.
+Die OEE ist im letzten Monat gesunken.	OEE за прошлый месяц снизилась.
+Ich habe einen Verbesserungsvorschlag eingereicht.	Я подал рацпредложение.
+# Техобслуживание и ремонт
+die Instandhaltung	техническое обслуживание и ремонт
+die Wartung	техобслуживание
+die Inspektion	осмотр (инспекция)
+die Instandsetzung	ремонт (восстановление)
+die vorbeugende Wartung	планово-предупредительное обслуживание
+die vorausschauende Wartung	предиктивное обслуживание
+der Wartungsplan	график техобслуживания
+das Wartungsintervall	межсервисный интервал
+das Ersatzteil	запчасть
+der Ausfall	отказ (выход из строя)
+die Störung beheben	устранить неисправность
+die Ausfallzeit	время простоя
+abschmieren	смазывать (через пресс-маслёнку)
+der Ölwechsel	замена масла
+der Filterwechsel	замена фильтра
+nachziehen	подтянуть (крепёж)
+der Instandhalter	ремонтник
+die Schwingungsanalyse	вибродиагностика
+Die Maschine ist ausgefallen, wir brauchen sofort einen Instandhalter.	Станок отказал, срочно нужен ремонтник.
+Das Ersatzteil ist nicht auf Lager.	Запчасти нет на складе.
+Die Wartung ist seit drei Wochen überfällig.	ТО просрочено на три недели.
+Wir fahren die Anlage am Wochenende zur Wartung herunter.	На выходных останавливаем установку на ТО.
+Die Maschine vibriert stärker als sonst.	Станок вибрирует сильнее обычного.
+Bitte trag die Störung ins Schichtbuch ein.	Запиши неисправность в сменный журнал.
+# Охрана труда
+die Arbeitssicherheit	охрана труда
+der Arbeitsschutz	защита труда
+die Fachkraft für Arbeitssicherheit	специалист по охране труда
+die Gefährdungsbeurteilung	оценка рисков на рабочем месте
+die Unterweisung	инструктаж
+die persönliche Schutzausrüstung	средства индивидуальной защиты
+die Schutzbrille	защитные очки
+der Gehörschutz	средства защиты слуха
+die Schutzhandschuhe	защитные перчатки
+der Not-Halt	аварийный останов
+die Schutzeinrichtung	защитное устройство
+die Schutzhaube	защитный кожух
+der Arbeitsunfall	несчастный случай на производстве
+der Beinaheunfall	потенциально опасное происшествие
+der Ersthelfer	ответственный за первую помощь
+der Feuerlöscher	огнетушитель
+der Gefahrstoff	опасное вещество
+das Sicherheitsdatenblatt	паспорт безопасности вещества
+der Notausgang	аварийный выход
+die Sammelstelle	место сбора при эвакуации
+Lockout-Tagout durchführen	заблокировать и промаркировать (LOTO)
+Ohne Unterweisung darfst du die Maschine nicht bedienen.	Без инструктажа к станку не допускаешься.
+Hier ist Schutzbrille Pflicht.	Здесь обязательны защитные очки.
+Die Schutzhaube darf nicht überbrückt werden.	Защитный кожух нельзя обходить.
+Wir müssen den Beinaheunfall melden.	Нужно сообщить о едва не случившейся аварии.
+Wo ist der nächste Feuerlöscher?	Где ближайший огнетушитель?
+Die Gefährdungsbeurteilung muss aktualisiert werden.	Оценку рисков нужно обновить.
+# Будни инженера в команде
+der Ingenieur	инженер
+die Ingenieurin	инженер (женщина)
+der Projektleiter	руководитель проекта
+der Teamleiter	руководитель группы
+der Kollege	коллега
+die Abteilung	отдел
+die Entwicklungsabteilung	отдел разработки
+der Einkauf	отдел закупок
+der Vertrieb	отдел продаж
+die Arbeitsvorbereitung	отдел подготовки производства
+die Besprechung	совещание
+das Lastenheft prüfen	проверить требования заказчика
+die Frist	срок
+der Termin	назначенная дата (встреча)
+die Abstimmung	согласование
+die Aufgabe verteilen	распределить задачу
+die Verantwortung übernehmen	взять на себя ответственность
+die Rücksprache	уточнение (консультация)
+die Dokumentation	документация
+der Bericht	отчёт
+die Freigabe	разрешение (одобрение)
+die Eskalation	эскалация
+Kurze Rückfrage: Wer ist dafür zuständig?	Быстрый вопрос: кто за это отвечает?
+Ich kläre das mit dem Einkauf.	Я уточню это с закупками.
+Können wir das morgen in der Besprechung klären?	Можем обсудить это завтра на совещании?
+Das schaffe ich bis zur Frist nicht.	К сроку я не успею.
+Ich brauche dafür noch die Freigabe vom Chef.	Мне ещё нужно одобрение начальника.
+Lass uns das kurz abstimmen, bevor wir es dem Kunden schicken.	Давай быстро согласуем, прежде чем отправлять клиенту.
+Ich habe das Problem eskaliert.	Я передал проблему наверх.
+Wer schreibt das Protokoll?	Кто ведёт протокол?
+Ich bin morgen in der Fertigung, ruf mich auf dem Handy an.	Завтра я в цеху, звони на мобильный.
+Das liegt nicht in meinem Verantwortungsbereich.	Это не в моей зоне ответственности.
+Ich habe dir die Unterlagen per Mail geschickt.	Я отправил тебе документы по почте.
+Die Arbeitsvorbereitung braucht die Daten bis Mittwoch.	Подготовке производства данные нужны к среде.
+Wir sollten die Lessons Learned festhalten.	Надо зафиксировать извлечённые уроки.
+Gute Arbeit, das Team hat das super gelöst!	Отличная работа, команда здорово справилась!
+Ich bin bis Donnerstag im Urlaub, meine Vertretung ist Frau Müller.	До четверга я в отпуске, меня замещает г-жа Мюллер.
+Können wir einen Termin mit dem Lieferanten vereinbaren?	Можем назначить встречу с поставщиком?
+Das Budget ist ausgeschöpft.	Бюджет исчерпан.
+Der Zeitplan ist sehr sportlich.	График очень напряжённый.
+Das ist nicht mein Fachgebiet, aber ich frage nach.	Это не моя специализация, но я узнаю.
+# Обработка поверхности
+die Oberflächenbehandlung	обработка поверхности
+lackieren	окрашивать
+die Lackiererei	покрасочный цех
+die Pulverbeschichtung	порошковое покрытие
+das Strahlen	дробеструйная обработка
+das Beizen	травление
+das Polieren	полирование
+die Schichtdicke	толщина покрытия
+die Haftung	адгезия
+der Korrosionsschutz	антикоррозионная защита
+die Oberflächengüte	качество поверхности
+Die Beschichtung blättert ab.	Покрытие отслаивается.
+Die Schichtdicke ist zu gering.	Толщина покрытия недостаточна.
+Vor dem Lackieren muss die Oberfläche entfettet werden.	Перед покраской поверхность нужно обезжирить.
+Im Salzsprühtest hat die Probe nach 200 Stunden gerostet.	В солевом тумане образец заржавел через 200 часов.
+# Снабжение и логистика
+die Beschaffung	закупка
+der Lieferant	поставщик
+die Lieferzeit	срок поставки
+der Liefertermin	дата поставки
+die Bestellung	заказ поставщику
+die Anfrage	запрос (цен)
+der Rahmenvertrag	рамочный договор
+der Wareneingang	приёмка товаров
+der Lieferschein	накладная
+die Verpackung	упаковка
+die Just-in-time-Lieferung	поставка точно в срок
+der Mindestbestand	минимальный запас
+das Kanban-System	система канбан
+die Materialverfügbarkeit	наличие материала
+der Zweitlieferant	альтернативный поставщик
+Der Lieferant hat die Lieferzeit auf zwölf Wochen verlängert.	Поставщик увеличил срок поставки до двенадцати недель.
+Wir brauchen dringend einen Zweitlieferanten.	Нам срочно нужен второй поставщик.
+Die Ware ist beim Transport beschädigt worden.	Товар повредили при перевозке.
+Im Wareneingang liegen die Teile schon seit Montag.	Детали лежат на приёмке с понедельника.
+Der Lieferschein stimmt nicht mit der Bestellung überein.	Накладная не совпадает с заказом.
+Der Mindestbestand ist unterschritten.	Запас ниже минимального.
+Kannst du beim Lieferanten nachhaken?	Можешь напомнить поставщику?
+Die Rohstoffpreise sind stark gestiegen.	Цены на сырьё сильно выросли.
+der Rohstoff	сырьё
+das Recycling	переработка отходов
+die Nachhaltigkeit	экологичность (устойчивость)
+der CO2-Fußabdruck	углеродный след
+Der Kunde verlangt einen Nachweis über den Recyclinganteil.	Заказчик требует подтвердить долю вторсырья.

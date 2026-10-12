@@ -286,6 +286,22 @@ public partial class LibraryWindow : Window
         Mutate(r => r.DeleteTopic(topic.Id));
     }
 
+    private void OnDeleteCategory(object sender, RoutedEventArgs e)
+    {
+        // "cat:" alone is the "uncategorized" group, not a category.
+        if (!_selectedNode.Key.StartsWith("cat:") || _selectedNode.Key.Length == 4)
+        {
+            MessageBox.Show(this, "Выберите категорию в дереве.", "Библиотека", MessageBoxButton.OK, MessageBoxImage.Information);
+            return;
+        }
+        var ids = _selectedNode.Topics().Select(n => n.Topic!.Id).ToList();
+        var text = $"Удалить категорию «{_selectedNode.Name}»? Вместе с ней будут удалены тем: {ids.Count}, " +
+                   $"фраз: {_selectedNode.Count} и история их показов.";
+        if (MessageBox.Show(this, text, "Удаление категории", MessageBoxButton.YesNo, MessageBoxImage.Warning) != MessageBoxResult.Yes)
+            return;
+        Mutate(r => r.DeleteTopics(ids));
+    }
+
     // ---- phrases ----
 
     private void OnFilterChanged(object sender, RoutedEventArgs e) => ApplyFilter();
@@ -444,6 +460,28 @@ public partial class LibraryWindow : Window
         var dialog = new ImportDialog(Controller, SelectedTopicId()) { Owner = this };
         dialog.ShowDialog();
         ReloadAll();
+    }
+
+    private void OnImportDictionaries(object sender, RoutedEventArgs e)
+    {
+        var folder = DictionaryFolder.Default;
+        var files = DictionaryFolder.List(folder);
+        if (files.Count == 0)
+        {
+            MessageBox.Show(this, $"В папке «{folder}» нет словарей (*.tsv).", "Словари", MessageBoxButton.OK, MessageBoxImage.Information);
+            return;
+        }
+        var existing = _topics.Select(t => t.Name.Trim()).ToHashSet(StringComparer.OrdinalIgnoreCase);
+        var chosen = TopicDialogs.PickDictionaries(this, folder, files, existing);
+        if (chosen.Count == 0)
+            return;
+        var added = 0;
+        Mutate(r =>
+        {
+            foreach (var file in chosen)
+                added += DictionaryFolder.Import(r, file);
+        });
+        MessageBox.Show(this, $"Добавлено фраз: {added}", "Словари", MessageBoxButton.OK, MessageBoxImage.Information);
     }
 
     private void OnExportSelected(object sender, RoutedEventArgs e) => Export(ScopeTopicIds());

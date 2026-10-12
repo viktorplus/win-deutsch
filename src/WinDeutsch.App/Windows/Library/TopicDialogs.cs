@@ -1,10 +1,11 @@
 using System.Windows;
 using System.Windows.Controls;
+using WinDeutsch.Core.Import;
 using WinDeutsch.Core.Models;
 
 namespace WinDeutsch.App.Windows.Library;
 
-// Small code-built dialogs: topic name/category and "pick a topic".
+// Small code-built dialogs: topic name/category, "pick a topic" and "pick dictionaries".
 internal static class TopicDialogs
 {
     // Returns (name, category) or null when cancelled. Category may be empty -> null.
@@ -49,6 +50,35 @@ internal static class TopicDialogs
         var window = BuildWindow(owner, title, 380, [Label("Тема"), box], ok, cancel);
         ok.Click += (_, _) => window.DialogResult = true;
         return window.ShowDialog() == true ? box.SelectedItem as Topic : null;
+    }
+
+    // Check boxes grouped by category; returns the checked files (empty when cancelled).
+    public static IReadOnlyList<DictionaryFile> PickDictionaries(
+        Window owner, string folder, IReadOnlyList<DictionaryFile> files, ISet<string> existingTopics)
+    {
+        var list = new StackPanel();
+        var boxes = new List<(CheckBox Box, DictionaryFile File)>();
+        foreach (var group in files.GroupBy(f => f.Category))
+        {
+            list.Children.Add(new TextBlock { Text = group.Key ?? "Без категории", FontWeight = FontWeights.Bold, Margin = new Thickness(0, 6, 0, 2) });
+            foreach (var file in group)
+            {
+                var box = new CheckBox
+                {
+                    Content = existingTopics.Contains(file.Topic) ? file.Topic + " (уже есть, добавятся только новые)" : file.Topic,
+                    Margin = new Thickness(12, 2, 0, 2),
+                };
+                list.Children.Add(box);
+                boxes.Add((box, file));
+            }
+        }
+        var scroll = new ScrollViewer { Content = list, MaxHeight = 420, Margin = new Thickness(0, 6, 0, 10) };
+        var ok = new Button { Content = "Добавить", IsDefault = true, Width = 90, Margin = new Thickness(0, 0, 8, 0) };
+        var cancel = new Button { Content = "Отмена", IsCancel = true, Width = 90 };
+        var window = BuildWindow(owner, "Словари", 460,
+            [new TextBlock { Text = "Папка: " + folder, TextWrapping = TextWrapping.Wrap }, scroll], ok, cancel);
+        ok.Click += (_, _) => window.DialogResult = true;
+        return window.ShowDialog() == true ? boxes.Where(b => b.Box.IsChecked == true).Select(b => b.File).ToList() : [];
     }
 
     private static TextBlock Label(string text) => new() { Text = text };

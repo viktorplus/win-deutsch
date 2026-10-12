@@ -18,6 +18,12 @@
   </ItemGroup>
 
   <ItemGroup>
+    <!-- Dictionaries stay a plain folder next to the exe (also after single-file publish) so users can add their own. -->
+    <None Include="..\..\dictionaries\**\*.tsv" LinkBase="dictionaries"
+          CopyToOutputDirectory="PreserveNewest" CopyToPublishDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\WinDeutsch.Core\WinDeutsch.Core.csproj" />
   </ItemGroup>
 

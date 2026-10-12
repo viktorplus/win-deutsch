@@ -1,0 +1,327 @@
+# Инструменты
+das Werkzeug	инструмент(ы)
+der Werkzeugkasten	ящик с инструментами
+der Hammer	молоток
+der Schraubenzieher	отвёртка
+der Kreuzschlitzschraubendreher	крестовая отвёртка
+die Zange	плоскогубцы
+die Kombizange	пассатижи
+die Wasserpumpenzange	переставные клещи
+die Kneifzange	клещи (кусачки)
+der Seitenschneider	бокорезы
+der Schraubenschlüssel	гаечный ключ
+der Maulschlüssel	рожковый ключ
+der Inbusschlüssel	шестигранный ключ
+die Säge	пила
+die Stichsäge	электролобзик
+der Bohrer	сверло
+die Bohrmaschine	дрель
+die Schlagbohrmaschine	ударная дрель
+der Akkuschrauber	шуруповёрт
+das Cuttermesser	строительный нож
+das Maßband	рулетка
+der Zollstock	складной метр
+die Wasserwaage	строительный уровень
+die Feile	напильник
+das Schleifpapier	наждачная бумага
+die Schleifmaschine	шлифовальная машина
+der Spachtel	шпатель
+die Heißklebepistole	клеевой пистолет
+die Trittleiter	стремянка
+die Taschenlampe	фонарик
+den Akku laden	зарядить аккумулятор
+Hast du einen Hammer da?	У тебя есть молоток?
+Kannst du mir mal die Zange geben?	Подай мне плоскогубцы.
+Der Akku ist leer.	Аккумулятор разряжен.
+
+# Крепёж и материалы
+die Schraube	шуруп (винт)
+die Mutter	гайка
+die Unterlegscheibe	шайба
+der Nagel	гвоздь
+der Dübel	дюбель
+der Haken	крючок
+der Kleber	клей
+der Holzleim	клей для дерева
+das Klebeband	скотч (клейкая лента)
+das Kreppband	малярный скотч
+das Silikon	силиконовый герметик
+der Gips	гипс
+die Spachtelmasse	шпаклёвка
+das Holz	дерево (материал)
+das Brett	доска
+die Spanplatte	ДСП
+die Rigipsplatte	лист гипсокартона
+die Rigipswand	стена из гипсокартона
+der Beton	бетон
+der Draht	проволока
+das Kabel	кабель
+der Kabelbinder	кабельная стяжка
+Die Schrauben sind zu kurz.	Шурупы слишком короткие.
+Welche Dübel brauche ich für Beton?	Какие дюбели нужны для бетона?
+
+# Строительный магазин
+der Baumarkt	строительный магазин
+in den Baumarkt fahren	съездить в строительный магазин
+die Abteilung	отдел
+zuschneiden lassen	дать отрезать по размеру
+der Werkzeugverleih	прокат инструментов
+einen Anhänger leihen	взять прицеп напрокат
+die Quittung aufheben	сохранить чек
+umtauschen	обменять (товар)
+Können Sie mir das Brett zuschneiden?	Можете распилить мне доску по размеру?
+Wo finde ich Schrauben?	Где у вас шурупы?
+Kann man hier Werkzeug ausleihen?	Здесь можно взять инструмент напрокат?
+Haben Sie das auch kleiner?	У вас есть поменьше?
+Das brauche ich in Weiß.	Мне нужно это в белом цвете.
+
+# Сверлить и крепить
+bohren	сверлить
+ein Loch bohren	просверлить отверстие
+dübeln	ставить дюбели
+schrauben	закручивать (винтить)
+festschrauben	привинтить
+abschrauben	отвинтить
+die Schraube anziehen	затянуть шуруп
+lockern	ослабить
+nageln	прибивать гвоздями
+einen Nagel einschlagen	забить гвоздь
+ein Bild aufhängen	повесить картину
+ein Regal an die Wand hängen	повесить полку на стену
+messen	измерять
+abmessen	отмерить
+markieren	размечать
+kleben	клеить
+schleifen	шлифовать
+sägen	пилить
+der Leitungssucher	детектор проводки
+Ist das eine tragende Wand?	Это несущая стена?
+Pass auf, dass du keine Leitung anbohrst!	Смотри не просверли проводку!
+Die Schraube ist locker.	Шуруп разболтался.
+Die Schraube dreht durch.	Шуруп прокручивается.
+Das Loch ist zu groß geworden.	Отверстие получилось слишком большим.
+Die Wand ist zu hart.	Стена слишком твёрдая.
+
+# Покраска и обои
+streichen	красить (стены)
+die Wand streichen	покрасить стену
+die Decke streichen	покрасить потолок
+die Farbe	краска
+die Wandfarbe	краска для стен
+der Farbton	оттенок
+der Lack	лак
+lackieren	лакировать
+die Grundierung	грунтовка
+grundieren	грунтовать
+der Pinsel	кисть
+die Farbrolle	валик
+die Abdeckfolie	защитная плёнка
+abkleben	заклеить малярным скотчем
+abdecken	накрыть (защитить)
+deckend	хорошо кроющий
+die Tapete	обои
+tapezieren	клеить обои
+der Tapetenkleister	клей для обоев
+die Tapete abreißen	сдирать обои
+Die Farbe ist noch nicht trocken.	Краска ещё не высохла.
+Wir müssen zweimal streichen.	Нужно покрасить в два слоя.
+Frisch gestrichen!	Осторожно, окрашено!
+Die Farbe blättert ab.	Краска облезает.
+
+# Сантехника
+der Wasserhahn	водопроводный кран
+ein tropfender Wasserhahn	капающий кран
+Der Wasserhahn tropft.	Кран капает.
+die Dichtung	прокладка
+die Dichtung wechseln	заменить прокладку
+das Rohr	труба
+der Siphon	сифон
+verstopft	засорённый
+die Saugglocke	вантуз
+die Verstopfung beseitigen	устранить засор
+die Toilettenspülung	смыв унитаза
+der Spülkasten	сливной бачок
+der Haupthahn	главный вентиль
+das Wasser abdrehen	перекрыть воду
+der Wasserschaden	ущерб от протечки
+undicht	негерметичный
+der Duschkopf	лейка душа
+der Duschschlauch	душевой шланг
+der Durchlauferhitzer	проточный водонагреватель
+der Boiler	бойлер
+der Klempner	сантехник
+Das Waschbecken ist verstopft.	Раковина засорилась.
+Die Spülung läuft ständig.	В унитазе постоянно течёт вода.
+Dreh sofort das Wasser ab!	Сразу перекрой воду!
+Das Rohr ist undicht.	Труба протекает.
+Es kommt kein warmes Wasser.	Горячая вода не идёт.
+Der Wasserdruck ist zu niedrig.	Слабый напор воды.
+
+# Электрика
+die Steckdose	розетка
+der Stecker	электрическая вилка
+der Lichtschalter	выключатель
+die Glühbirne	лампочка (накаливания)
+eine Glühbirne auswechseln	поменять лампочку
+die LED-Lampe	светодиодная лампа
+die Fassung	патрон (лампы)
+die Sicherung	предохранитель
+der Sicherungskasten	электрощиток
+der FI-Schalter	УЗО
+den Strom abschalten	отключить электричество
+das Verlängerungskabel	удлинитель (шнур)
+die Mehrfachsteckdose	сетевой фильтр (тройник)
+der Kurzschluss	короткое замыкание
+der Elektriker	электрик
+die Leitung	проводка
+anschließen	подключать
+die Deckenlampe anschließen	подключить потолочный светильник
+spannungsfrei	обесточенный
+der Spannungsprüfer	индикаторная отвёртка
+Die Sicherung ist rausgeflogen.	Выбило пробки.
+Die Steckdose ist locker.	Розетка шатается.
+Die Steckdose funktioniert nicht.	Розетка не работает.
+Das Licht flackert.	Свет мигает.
+Es riecht verschmort.	Пахнет горелой проводкой.
+Fass die Drähte nicht an!	Не трогай провода!
+
+# Сборка мебели
+Möbel aufbauen	собирать мебель
+zusammenbauen	собирать (из частей)
+abbauen	разбирать
+die Aufbauanleitung	инструкция по сборке
+die Einzelteile (Pl.)	детали (комплектующие)
+der Schrank	шкаф
+das Regal	стеллаж (полка)
+die Kommode	комод
+der Bettrahmen	каркас кровати
+die Schublade	выдвижной ящик
+die Scharniere (Pl.)	дверные петли
+die Tür einhängen	навесить дверцу
+die Tür justieren	отрегулировать дверцу
+an der Wand befestigen	закрепить на стене
+die Kippsicherung	крепление от опрокидывания
+der Aufbauservice	услуга сборки мебели
+schief	косой (кривой)
+gerade	ровный (прямой)
+Es fehlt eine Schraube.	Не хватает одного шурупа.
+Die Anleitung versteht kein Mensch.	Эту инструкцию никто не поймёт.
+Halt mal kurz fest!	Подержи-ка!
+Das Teil gehört andersherum.	Эта деталь ставится наоборот.
+Der Schrank wackelt.	Шкаф шатается.
+Wir haben den Schrank zu zweit aufgebaut.	Мы собрали шкаф вдвоём.
+
+# Пол, стены, окна, двери
+der Fußboden	пол
+die Fußleiste	плинтус
+der Bodenbelag	напольное покрытие
+Laminat verlegen	укладывать ламинат
+fliesen	класть плитку
+der Riss	трещина
+ein Loch zuspachteln	зашпаклевать дыру
+quietschen	скрипеть
+ölen	смазать маслом
+das Schloss	замок
+das Schloss austauschen	заменить замок
+der Türgriff	дверная ручка
+das Fenster abdichten	заделать щели в окне
+der Rollladen	рольставни
+die Jalousie	жалюзи
+die Gardinenstange	карниз для штор
+Die Tür klemmt.	Дверь заедает.
+Die Tür quietscht.	Дверь скрипит.
+Der Rollladen ist kaputt.	Рольставни сломались.
+Es zieht durchs Fenster.	Из окна дует.
+
+# Поломки и неисправности
+kaputt	сломанный
+kaputtgehen	ломаться
+reparieren	ремонтировать
+die Reparatur	починка
+ersetzen	заменять на новое
+der Defekt	неисправность
+heimwerken	мастерить дома
+der Heimwerker	домашний мастер
+selber machen	сделать самому
+die Gebrauchsanweisung	инструкция по применению
+die Garantie	гарантия
+provisorisch	временный (на скорую руку)
+Das Gerät geht nicht mehr.	Прибор больше не работает.
+Da ist etwas kaputt.	Что-то сломалось.
+Das lässt sich reparieren.	Это можно починить.
+Das lohnt sich nicht mehr.	Это уже не стоит чинить.
+Ist das noch in der Garantie?	Это ещё на гарантии?
+Das hält bombenfest.	Держится намертво.
+Das hält nicht.	Это не держится.
+Ich habe es notdürftig repariert.	Я кое-как это починил.
+
+# Вызов мастера
+der Handwerker	мастер (ремесленник)
+einen Handwerker rufen	вызвать мастера
+der Notdienst	аварийная служба
+der Schlüsseldienst	служба вскрытия замков
+der Kostenvoranschlag	предварительная смета
+einen Termin vereinbaren	договориться о времени
+die Anfahrtskosten (Pl.)	плата за выезд
+der Stundenlohn	почасовая оплата
+die Ersatzteile (Pl.)	запчасти
+die Rechnung	счёт
+der Maler	маляр
+der Tischler	столяр
+der Fliesenleger	плиточник
+Wann können Sie vorbeikommen?	Когда вы сможете прийти?
+Wie viel wird das ungefähr kosten?	Сколько это примерно будет стоить?
+Können Sie mir einen Kostenvoranschlag machen?	Можете составить смету?
+Der Handwerker kommt erst nächste Woche.	Мастер придёт только на следующей неделе.
+Ich habe mich ausgesperrt.	Я захлопнул дверь и остался снаружи.
+Die Rechnung ist ziemlich hoch.	Счёт довольно большой.
+Das ist ein Fall für den Fachmann.	Это работа для специалиста.
+
+# Безопасность при работе
+die Schutzbrille	защитные очки
+die Arbeitshandschuhe (Pl.)	рабочие перчатки
+der Gehörschutz	защитные наушники
+die Staubmaske	маска от пыли
+der Verbandskasten	аптечка
+sich verletzen	пораниться
+sich auf den Daumen hauen	ударить себя по большому пальцу
+Vorsicht, scharf!	Осторожно, острое!
+Zieh vorher den Stecker!	Сначала выдерни вилку из розетки!
+Arbeite nie unter Spannung.	Никогда не работай под напряжением.
+
+# Ремонт квартиры
+renovieren	делать ремонт
+die Renovierung	ремонт квартиры
+die Schönheitsreparaturen (Pl.)	косметический ремонт
+sanieren	делать капитальный ремонт
+die Baustelle	стройка
+der Bauschutt	строительный мусор
+handwerklich begabt	рукастый
+Wir renovieren gerade das Bad.	Мы сейчас ремонтируем ванную.
+Das Bad wird neu gefliest.	В ванной кладут новую плитку.
+Das dauert länger als gedacht.	Это займёт дольше, чем думали.
+Ich mache das am Wochenende selbst.	На выходных сделаю это сам.
+Das kriegen wir schon hin.	Справимся.
+Du hast wohl zwei linke Hände.	Руки у тебя, видно, не из того места.
+
+# Инструменты и приёмы: дополнительно
+der Hobel	рубанок
+der Meißel	зубило
+die Schraubzwinge	струбцина
+der Gummihammer	киянка
+der Winkel	угольник
+der Steckschlüssel	торцевой ключ
+der Holzbohrer	сверло по дереву
+der Steinbohrer	сверло по камню
+der Metallbohrer	сверло по металлу
+die Holzschraube	шуруп по дереву
+die Kartuschenpistole	пистолет для герметика
+vorbohren	предварительно засверлить
+neu verfugen	заново затереть швы
+Die Silikonfuge in der Dusche ist schwarz.	Силиконовый шов в душе почернел.
+Ich brauche Dübel in Größe 8.	Мне нужны дюбели восьмого размера.
+Welcher Bohrer passt?	Какое сверло подойдёт?
+Der Bohrer ist abgebrochen.	Сверло сломалось.
+Erst vorbohren, dann schrauben.	Сначала засверлить, потом закрутить.
+Miss lieber zweimal nach.	Лучше перемерь дважды.
+Die Tür schließt nicht richtig.	Дверь плохо закрывается.
