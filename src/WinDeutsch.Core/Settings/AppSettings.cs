@@ -25,6 +25,8 @@ public sealed class AppSettings
     public bool StartWithWindows { get; set; } = false;
     public DateTimeOffset? PausedUntil { get; set; }
     public bool WidgetHidden { get; set; } = false;
+    // Dictionary files already connected at startup, relative to the dictionaries folder (DictionaryFolder.ImportNew).
+    public List<string> ImportedDictionaries { get; set; } = [];
 }
 
 public sealed class IntervalSettings

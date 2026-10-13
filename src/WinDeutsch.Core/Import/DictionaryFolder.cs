@@ -34,4 +34,30 @@ public static class DictionaryFolder
         var topic = repo.GetOrCreateTopic(file.Topic, file.Category);
         return new ImportService(repo).Commit(parsed, topic.Id);
     }
+
+    // Imports the files whose path relative to the folder is not in `imported` (case-insensitive) and returns
+    // those paths, so a dictionary is connected once and a deleted one does not come back. A file that fails
+    // goes to onError and is left out (tried again next time).
+    public static IReadOnlyList<string> ImportNew(PhraseRepository repo, string folder, IReadOnlyCollection<string> imported,
+        Action<string, Exception> onError)
+    {
+        var done = new HashSet<string>(imported, StringComparer.OrdinalIgnoreCase);
+        var added = new List<string>();
+        foreach (var file in List(folder))
+        {
+            var path = Path.GetRelativePath(folder, file.Path);
+            if (done.Contains(path))
+                continue;
+            try
+            {
+                Import(repo, file);
+                added.Add(path);
+            }
+            catch (Exception ex)
+            {
+                onError(path, ex);
+            }
+        }
+        return added;
+    }
 }

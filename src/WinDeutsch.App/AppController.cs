@@ -9,6 +9,7 @@ using WinDeutsch.App.Tray;
 using WinDeutsch.App.Windows;
 using WinDeutsch.Core;
 using WinDeutsch.Core.Backup;
+using WinDeutsch.Core.Import;
 using WinDeutsch.Core.Learning;
 using WinDeutsch.Core.Models;
 using WinDeutsch.Core.Scheduling;
@@ -65,6 +66,7 @@ public sealed class AppController
         _store = new SettingsStore(AppPaths.SettingsFile);
         Settings = LoadSettings();
         Repository = OpenRepository();
+        ConnectNewDictionaries();
         if (firstRun)
             _notices.Add("Win Deutsch работает — значок в трее");
 
@@ -590,6 +592,17 @@ public sealed class AppController
             _notices.Add($"База данных повреждена и сохранена как {Path.GetFileName(broken)}. Создана новая база с базовым набором.");
             return OpenSeeded(path);
         }
+    }
+
+    // Dictionaries next to the exe that were never connected are imported once and remembered in the settings.
+    private void ConnectNewDictionaries()
+    {
+        var added = DictionaryFolder.ImportNew(Repository, DictionaryFolder.Default, Settings.ImportedDictionaries,
+            (path, ex) => Log.Error($"Dictionary could not be imported: {path}", ex));
+        if (added.Count == 0)
+            return;
+        Settings.ImportedDictionaries.AddRange(added);
+        SaveSettings();
     }
 
     private PhraseRepository OpenSeeded(string path)

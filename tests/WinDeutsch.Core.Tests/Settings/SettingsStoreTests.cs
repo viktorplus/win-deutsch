@@ -88,6 +88,7 @@ public sealed class SettingsStoreTests : IDisposable
             StartWithWindows = true,
             PausedUntil = new DateTimeOffset(2026, 10, 6, 6, 0, 0, TimeSpan.FromHours(2)),
             WidgetHidden = true,
+            ImportedDictionaries = [Path.Combine("Медицина", "Тело.tsv"), "Разное.tsv"],
         };
         var expected = Snapshot(s);
 

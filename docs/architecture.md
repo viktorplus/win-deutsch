@@ -101,7 +101,9 @@ Unknown, Later, Excluded, RepeatMore), `DisplayMode` (Widget/Popup), `Translatio
   `Exporter.ToTsv`.
 - Словари: `DictionaryFolder` перечисляет `dictionaries\<категория>\<тема>.tsv` рядом с exe
   (`AppContext.BaseDirectory`) и добавляет файл в тему его категории через `ImportService`
-  (дубликаты пропускаются, повторное добавление безопасно). В single-file они не упаковываются,
+  (дубликаты пропускаются, повторное добавление безопасно). При старте `AppController` подключает
+  файлы, которых нет в `AppSettings.ImportedDictionaries` (`DictionaryFolder.ImportNew`), и
+  дописывает их туда — удалённый словарь не возвращается. В single-file они не упаковываются,
   чтобы пользователь мог класть свои файлы.
 
 ## Настройки

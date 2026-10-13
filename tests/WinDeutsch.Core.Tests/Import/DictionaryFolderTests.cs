@@ -50,6 +50,38 @@ public sealed class DictionaryFolderTests : RepositoryTestBase, IDisposable
         Assert.Equal(new[] { "das Herz", "die Niere" }, Repo.GetPhrases(topic.Id).Select(p => p.German));
     }
 
+    private static void Fail(string path, Exception ex) => throw new Xunit.Sdk.XunitException($"{path}: {ex}");
+
+    [Fact]
+    public void ImportNew_ImportsOnlyFilesNotImportedBefore_AndReturnsTheirRelativePaths()
+    {
+        Write(Path.Combine("Медицина", "Тело.tsv"), "das Herz\tсердце");
+        Write(Path.Combine("Бизнес", "Финансы.tsv"), "der Gewinn\tприбыль");
+
+        var first = DictionaryFolder.ImportNew(Repo, _folder, [Path.Combine("бизнес", "финансы.tsv")], Fail);
+
+        Assert.Equal(new[] { Path.Combine("Медицина", "Тело.tsv") }, first);
+        Assert.Equal(new[] { "Тело" }, Repo.GetTopics().Select(t => t.Name));
+
+        // A deleted topic does not come back once its file is recorded as imported.
+        Repo.DeleteTopic(Repo.GetTopics().Single().Id);
+        Assert.Empty(DictionaryFolder.ImportNew(Repo, _folder, [.. first, Path.Combine("Бизнес", "Финансы.tsv")], Fail));
+        Assert.Empty(Repo.GetTopics());
+    }
+
+    [Fact]
+    public void ImportNew_ReportsUnreadableFileAndLeavesItOut_SoItIsTriedAgainNextTime()
+    {
+        Write("Хорошо.tsv", "ja\tда");
+        Write("Занят.tsv", "nein\tнет");
+        var failed = new List<string>();
+
+        using (File.Open(Path.Combine(_folder, "Занят.tsv"), FileMode.Open, FileAccess.Read, FileShare.None))
+            Assert.Equal(new[] { "Хорошо.tsv" }, DictionaryFolder.ImportNew(Repo, _folder, [], (path, _) => failed.Add(path)));
+
+        Assert.Equal(new[] { "Занят.tsv" }, failed);
+    }
+
     public new void Dispose()
     {
         Directory.Delete(_folder, recursive: true);
